@@ -3,19 +3,30 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 body{
 color:#000000;
 font-family:Helvetica;
-font-size:10px;
+font-size:11px;
 line-height:1.5em;
 padding:1em;
 margin:justify;
-max-width:60em;
 background:#fefefe;
 }
 
-a{ color: #000000; text-decoration:none;}
+a{ color: #000000;text-decoration:none;}
+a label { cursor: pointer; }
+a:visited{ color: none; }
+a:hover{ color: none; }
+a:active{ color:none;  }
+a:focus{ outline: none; }
+a:hover, a:active{ outline: none; }
 
+::-moz-selection{background:none;color:#000}
+::selection{background:none;color:#000}
+
+a::-moz-selection{background:none;color: #000000}
+a::selection{background:none;color: #000000}
 p{
-margin:1em 0;
     text-align: justify;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
 img{
