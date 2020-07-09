@@ -6,23 +6,13 @@ font-family:Helvetica;
 font-size:11px;
 line-height:1.5em;
 padding:1em;
-margin:justify;
+margin:0;
 background:#fefefe;
 }
 
 a{ color: #000000;text-decoration:none;}
 a label { cursor: pointer; }
-a:visited{ color: none; }
-a:hover{ color: none; }
-a:active{ color:none;  }
-a:focus{ outline: none; }
-a:hover, a:active{ outline: none; }
 
-::-moz-selection{background:none;color:#000}
-::selection{background:none;color:#000}
-
-a::-moz-selection{background:none;color: #000000}
-a::selection{background:none;color: #000000}
 p{
     text-align: justify;
   margin-right: 0px;
