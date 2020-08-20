@@ -4,7 +4,7 @@ body{
 color:#000000;
 font-family:Helvetica;
 font-size:11px;
-line-height:0em;
+line-height:1.5em;
 padding:1em;
 margin:0;
 background:#fefefe;
@@ -17,6 +17,7 @@ p{
     text-align: justify;
   margin-right: 0px;
   margin-left: 0px;
+  margin-top: -10px;
 }
 
 img{
