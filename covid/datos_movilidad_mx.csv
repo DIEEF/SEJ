@@ -293,6 +293,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 0,Nacional,1,02/12/2020,Supermercados y farmacias,,,,1,
 0,Nacional,1,03/12/2020,Supermercados y farmacias,,,,-1,
 0,Nacional,1,04/12/2020,Supermercados y farmacias,,,,0,
+0,Nacional,1,05/12/2020,Supermercados y farmacias,,,,-1,
+0,Nacional,1,06/12/2020,Supermercados y farmacias,,,,-4,
 0,Nacional,2,15/02/2020,Parques,,,,6,
 0,Nacional,2,16/02/2020,Parques,,,,7,
 0,Nacional,2,17/02/2020,Parques,,,,3,
@@ -587,6 +589,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 0,Nacional,2,02/12/2020,Parques,,,,-37,
 0,Nacional,2,03/12/2020,Parques,,,,-38,
 0,Nacional,2,04/12/2020,Parques,,,,-40,
+0,Nacional,2,05/12/2020,Parques,,,,-36,
+0,Nacional,2,06/12/2020,Parques,,,,-36,
 0,Nacional,3,15/02/2020,Transporte público,,,,4,
 0,Nacional,3,16/02/2020,Transporte público,,,,6,
 0,Nacional,3,17/02/2020,Transporte público,,,,5,
@@ -881,6 +885,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 0,Nacional,3,02/12/2020,Transporte público,,,,-33,
 0,Nacional,3,03/12/2020,Transporte público,,,,-33,
 0,Nacional,3,04/12/2020,Transporte público,,,,-32,
+0,Nacional,3,05/12/2020,Transporte público,,,,-22,
+0,Nacional,3,06/12/2020,Transporte público,,,,-21,
 0,Nacional,4,15/02/2020,Centros comerciales y otros,,,,6,
 0,Nacional,4,16/02/2020,Centros comerciales y otros,,,,7,
 0,Nacional,4,17/02/2020,Centros comerciales y otros,,,,2,
@@ -1175,6 +1181,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 0,Nacional,4,02/12/2020,Centros comerciales y otros,,,,-23,
 0,Nacional,4,03/12/2020,Centros comerciales y otros,,,,-24,
 0,Nacional,4,04/12/2020,Centros comerciales y otros,,,,-26,
+0,Nacional,4,05/12/2020,Centros comerciales y otros,,,,-26,
+0,Nacional,4,06/12/2020,Centros comerciales y otros,,,,-27,
 0,Nacional,5,15/02/2020,Residencias,,,,-1,
 0,Nacional,5,16/02/2020,Residencias,,,,-1,
 0,Nacional,5,17/02/2020,Residencias,,,,-2,
@@ -1469,6 +1477,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 0,Nacional,5,02/12/2020,Residencias,,,,12,
 0,Nacional,5,03/12/2020,Residencias,,,,12,
 0,Nacional,5,04/12/2020,Residencias,,,,13,
+0,Nacional,5,05/12/2020,Residencias,,,,7,
+0,Nacional,5,06/12/2020,Residencias,,,,5,
 0,Nacional,6,15/02/2020,Lugares de trabajo,,,,3,
 0,Nacional,6,16/02/2020,Lugares de trabajo,,,,2,
 0,Nacional,6,17/02/2020,Lugares de trabajo,,,,11,
@@ -1763,6 +1773,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 0,Nacional,6,02/12/2020,Lugares de trabajo,,,,-26,
 0,Nacional,6,03/12/2020,Lugares de trabajo,,,,-27,
 0,Nacional,6,04/12/2020,Lugares de trabajo,,,,-22,
+0,Nacional,6,05/12/2020,Lugares de trabajo,,,,0,
+0,Nacional,6,06/12/2020,Lugares de trabajo,,,,6,
 1,Aguascalientes,1,15/02/2020,Supermercados y farmacias,,MX-AGU,,6,Ags
 1,Aguascalientes,1,16/02/2020,Supermercados y farmacias,,MX-AGU,,7,Ags
 1,Aguascalientes,1,17/02/2020,Supermercados y farmacias,,MX-AGU,,2,Ags
@@ -2057,6 +2069,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 1,Aguascalientes,1,02/12/2020,Supermercados y farmacias,,MX-AGU,,0,Ags
 1,Aguascalientes,1,03/12/2020,Supermercados y farmacias,,MX-AGU,,-1,Ags
 1,Aguascalientes,1,04/12/2020,Supermercados y farmacias,,MX-AGU,,-1,Ags
+1,Aguascalientes,1,05/12/2020,Supermercados y farmacias,,MX-AGU,,5,Ags
+1,Aguascalientes,1,06/12/2020,Supermercados y farmacias,,MX-AGU,,2,Ags
 1,Aguascalientes,2,15/02/2020,Parques,,MX-AGU,,6,Ags
 1,Aguascalientes,2,16/02/2020,Parques,,MX-AGU,,5,Ags
 1,Aguascalientes,2,17/02/2020,Parques,,MX-AGU,,0,Ags
@@ -2351,6 +2365,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 1,Aguascalientes,2,02/12/2020,Parques,,MX-AGU,,-39,Ags
 1,Aguascalientes,2,03/12/2020,Parques,,MX-AGU,,-38,Ags
 1,Aguascalientes,2,04/12/2020,Parques,,MX-AGU,,-46,Ags
+1,Aguascalientes,2,05/12/2020,Parques,,MX-AGU,,-26,Ags
+1,Aguascalientes,2,06/12/2020,Parques,,MX-AGU,,-39,Ags
 1,Aguascalientes,3,15/02/2020,Transporte público,,MX-AGU,,-14,Ags
 1,Aguascalientes,3,16/02/2020,Transporte público,,MX-AGU,,1,Ags
 1,Aguascalientes,3,17/02/2020,Transporte público,,MX-AGU,,-5,Ags
@@ -2645,6 +2661,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 1,Aguascalientes,3,02/12/2020,Transporte público,,MX-AGU,,-36,Ags
 1,Aguascalientes,3,03/12/2020,Transporte público,,MX-AGU,,-37,Ags
 1,Aguascalientes,3,04/12/2020,Transporte público,,MX-AGU,,-42,Ags
+1,Aguascalientes,3,05/12/2020,Transporte público,,MX-AGU,,-40,Ags
+1,Aguascalientes,3,06/12/2020,Transporte público,,MX-AGU,,-42,Ags
 1,Aguascalientes,4,15/02/2020,Centros comerciales y otros,,MX-AGU,,7,Ags
 1,Aguascalientes,4,16/02/2020,Centros comerciales y otros,,MX-AGU,,9,Ags
 1,Aguascalientes,4,17/02/2020,Centros comerciales y otros,,MX-AGU,,1,Ags
@@ -2939,6 +2957,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 1,Aguascalientes,4,02/12/2020,Centros comerciales y otros,,MX-AGU,,-23,Ags
 1,Aguascalientes,4,03/12/2020,Centros comerciales y otros,,MX-AGU,,-23,Ags
 1,Aguascalientes,4,04/12/2020,Centros comerciales y otros,,MX-AGU,,-29,Ags
+1,Aguascalientes,4,05/12/2020,Centros comerciales y otros,,MX-AGU,,-22,Ags
+1,Aguascalientes,4,06/12/2020,Centros comerciales y otros,,MX-AGU,,-26,Ags
 1,Aguascalientes,5,15/02/2020,Residencias,,MX-AGU,,-2,Ags
 1,Aguascalientes,5,16/02/2020,Residencias,,MX-AGU,,-1,Ags
 1,Aguascalientes,5,17/02/2020,Residencias,,MX-AGU,,-2,Ags
@@ -3233,6 +3253,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 1,Aguascalientes,5,02/12/2020,Residencias,,MX-AGU,,12,Ags
 1,Aguascalientes,5,03/12/2020,Residencias,,MX-AGU,,12,Ags
 1,Aguascalientes,5,04/12/2020,Residencias,,MX-AGU,,14,Ags
+1,Aguascalientes,5,05/12/2020,Residencias,,MX-AGU,,5,Ags
+1,Aguascalientes,5,06/12/2020,Residencias,,MX-AGU,,5,Ags
 1,Aguascalientes,6,15/02/2020,Lugares de trabajo,,MX-AGU,,4,Ags
 1,Aguascalientes,6,16/02/2020,Lugares de trabajo,,MX-AGU,,1,Ags
 1,Aguascalientes,6,17/02/2020,Lugares de trabajo,,MX-AGU,,12,Ags
@@ -3527,6 +3549,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 1,Aguascalientes,6,02/12/2020,Lugares de trabajo,,MX-AGU,,-24,Ags
 1,Aguascalientes,6,03/12/2020,Lugares de trabajo,,MX-AGU,,-25,Ags
 1,Aguascalientes,6,04/12/2020,Lugares de trabajo,,MX-AGU,,-23,Ags
+1,Aguascalientes,6,05/12/2020,Lugares de trabajo,,MX-AGU,,3,Ags
+1,Aguascalientes,6,06/12/2020,Lugares de trabajo,,MX-AGU,,11,Ags
 2,Baja California,1,15/02/2020,Supermercados y farmacias,,MX-BCN,,4,BC
 2,Baja California,1,16/02/2020,Supermercados y farmacias,,MX-BCN,,5,BC
 2,Baja California,1,17/02/2020,Supermercados y farmacias,,MX-BCN,,5,BC
@@ -3821,6 +3845,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 2,Baja California,1,02/12/2020,Supermercados y farmacias,,MX-BCN,,5,BC
 2,Baja California,1,03/12/2020,Supermercados y farmacias,,MX-BCN,,0,BC
 2,Baja California,1,04/12/2020,Supermercados y farmacias,,MX-BCN,,8,BC
+2,Baja California,1,05/12/2020,Supermercados y farmacias,,MX-BCN,,7,BC
+2,Baja California,1,06/12/2020,Supermercados y farmacias,,MX-BCN,,8,BC
 2,Baja California,2,15/02/2020,Parques,,MX-BCN,,8,BC
 2,Baja California,2,16/02/2020,Parques,,MX-BCN,,10,BC
 2,Baja California,2,17/02/2020,Parques,,MX-BCN,,7,BC
@@ -4115,6 +4141,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 2,Baja California,2,02/12/2020,Parques,,MX-BCN,,-36,BC
 2,Baja California,2,03/12/2020,Parques,,MX-BCN,,-43,BC
 2,Baja California,2,04/12/2020,Parques,,MX-BCN,,-35,BC
+2,Baja California,2,05/12/2020,Parques,,MX-BCN,,-40,BC
+2,Baja California,2,06/12/2020,Parques,,MX-BCN,,-37,BC
 2,Baja California,3,15/02/2020,Transporte público,,MX-BCN,,8,BC
 2,Baja California,3,16/02/2020,Transporte público,,MX-BCN,,5,BC
 2,Baja California,3,17/02/2020,Transporte público,,MX-BCN,,3,BC
@@ -4409,6 +4437,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 2,Baja California,3,02/12/2020,Transporte público,,MX-BCN,,-6,BC
 2,Baja California,3,03/12/2020,Transporte público,,MX-BCN,,-15,BC
 2,Baja California,3,04/12/2020,Transporte público,,MX-BCN,,-13,BC
+2,Baja California,3,05/12/2020,Transporte público,,MX-BCN,,-11,BC
+2,Baja California,3,06/12/2020,Transporte público,,MX-BCN,,-4,BC
 2,Baja California,4,15/02/2020,Centros comerciales y otros,,MX-BCN,,7,BC
 2,Baja California,4,16/02/2020,Centros comerciales y otros,,MX-BCN,,11,BC
 2,Baja California,4,17/02/2020,Centros comerciales y otros,,MX-BCN,,7,BC
@@ -4703,6 +4733,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 2,Baja California,4,02/12/2020,Centros comerciales y otros,,MX-BCN,,-20,BC
 2,Baja California,4,03/12/2020,Centros comerciales y otros,,MX-BCN,,-25,BC
 2,Baja California,4,04/12/2020,Centros comerciales y otros,,MX-BCN,,-23,BC
+2,Baja California,4,05/12/2020,Centros comerciales y otros,,MX-BCN,,-22,BC
+2,Baja California,4,06/12/2020,Centros comerciales y otros,,MX-BCN,,-17,BC
 2,Baja California,5,15/02/2020,Residencias,,MX-BCN,,-1,BC
 2,Baja California,5,16/02/2020,Residencias,,MX-BCN,,-1,BC
 2,Baja California,5,17/02/2020,Residencias,,MX-BCN,,-2,BC
@@ -4997,6 +5029,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 2,Baja California,5,02/12/2020,Residencias,,MX-BCN,,10,BC
 2,Baja California,5,03/12/2020,Residencias,,MX-BCN,,10,BC
 2,Baja California,5,04/12/2020,Residencias,,MX-BCN,,9,BC
+2,Baja California,5,05/12/2020,Residencias,,MX-BCN,,6,BC
+2,Baja California,5,06/12/2020,Residencias,,MX-BCN,,5,BC
 2,Baja California,6,15/02/2020,Lugares de trabajo,,MX-BCN,,3,BC
 2,Baja California,6,16/02/2020,Lugares de trabajo,,MX-BCN,,1,BC
 2,Baja California,6,17/02/2020,Lugares de trabajo,,MX-BCN,,9,BC
@@ -5291,6 +5325,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 2,Baja California,6,02/12/2020,Lugares de trabajo,,MX-BCN,,-20,BC
 2,Baja California,6,03/12/2020,Lugares de trabajo,,MX-BCN,,-23,BC
 2,Baja California,6,04/12/2020,Lugares de trabajo,,MX-BCN,,-19,BC
+2,Baja California,6,05/12/2020,Lugares de trabajo,,MX-BCN,,-1,BC
+2,Baja California,6,06/12/2020,Lugares de trabajo,,MX-BCN,,2,BC
 3,Baja California Sur,1,15/02/2020,Supermercados y farmacias,,MX-BCS,,10,BCS
 3,Baja California Sur,1,16/02/2020,Supermercados y farmacias,,MX-BCS,,9,BCS
 3,Baja California Sur,1,17/02/2020,Supermercados y farmacias,,MX-BCS,,5,BCS
@@ -5585,6 +5621,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 3,Baja California Sur,1,02/12/2020,Supermercados y farmacias,,MX-BCS,,-3,BCS
 3,Baja California Sur,1,03/12/2020,Supermercados y farmacias,,MX-BCS,,-9,BCS
 3,Baja California Sur,1,04/12/2020,Supermercados y farmacias,,MX-BCS,,-8,BCS
+3,Baja California Sur,1,05/12/2020,Supermercados y farmacias,,MX-BCS,,-5,BCS
+3,Baja California Sur,1,06/12/2020,Supermercados y farmacias,,MX-BCS,,-6,BCS
 3,Baja California Sur,2,15/02/2020,Parques,,MX-BCS,,2,BCS
 3,Baja California Sur,2,16/02/2020,Parques,,MX-BCS,,0,BCS
 3,Baja California Sur,2,17/02/2020,Parques,,MX-BCS,,-3,BCS
@@ -5879,6 +5917,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 3,Baja California Sur,2,02/12/2020,Parques,,MX-BCS,,-27,BCS
 3,Baja California Sur,2,03/12/2020,Parques,,MX-BCS,,-35,BCS
 3,Baja California Sur,2,04/12/2020,Parques,,MX-BCS,,-34,BCS
+3,Baja California Sur,2,05/12/2020,Parques,,MX-BCS,,-28,BCS
+3,Baja California Sur,2,06/12/2020,Parques,,MX-BCS,,-29,BCS
 3,Baja California Sur,3,15/02/2020,Transporte público,,MX-BCS,,2,BCS
 3,Baja California Sur,3,16/02/2020,Transporte público,,MX-BCS,,2,BCS
 3,Baja California Sur,3,17/02/2020,Transporte público,,MX-BCS,,3,BCS
@@ -6173,6 +6213,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 3,Baja California Sur,3,02/12/2020,Transporte público,,MX-BCS,,-10,BCS
 3,Baja California Sur,3,03/12/2020,Transporte público,,MX-BCS,,-21,BCS
 3,Baja California Sur,3,04/12/2020,Transporte público,,MX-BCS,,-18,BCS
+3,Baja California Sur,3,05/12/2020,Transporte público,,MX-BCS,,-19,BCS
+3,Baja California Sur,3,06/12/2020,Transporte público,,MX-BCS,,-16,BCS
 3,Baja California Sur,4,15/02/2020,Centros comerciales y otros,,MX-BCS,,11,BCS
 3,Baja California Sur,4,16/02/2020,Centros comerciales y otros,,MX-BCS,,8,BCS
 3,Baja California Sur,4,17/02/2020,Centros comerciales y otros,,MX-BCS,,4,BCS
@@ -6467,6 +6509,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 3,Baja California Sur,4,02/12/2020,Centros comerciales y otros,,MX-BCS,,-21,BCS
 3,Baja California Sur,4,03/12/2020,Centros comerciales y otros,,MX-BCS,,-26,BCS
 3,Baja California Sur,4,04/12/2020,Centros comerciales y otros,,MX-BCS,,-24,BCS
+3,Baja California Sur,4,05/12/2020,Centros comerciales y otros,,MX-BCS,,-22,BCS
+3,Baja California Sur,4,06/12/2020,Centros comerciales y otros,,MX-BCS,,-22,BCS
 3,Baja California Sur,5,15/02/2020,Residencias,,MX-BCS,,-1,BCS
 3,Baja California Sur,5,16/02/2020,Residencias,,MX-BCS,,-1,BCS
 3,Baja California Sur,5,17/02/2020,Residencias,,MX-BCS,,-2,BCS
@@ -6761,6 +6805,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 3,Baja California Sur,5,02/12/2020,Residencias,,MX-BCS,,7,BCS
 3,Baja California Sur,5,03/12/2020,Residencias,,MX-BCS,,9,BCS
 3,Baja California Sur,5,04/12/2020,Residencias,,MX-BCS,,8,BCS
+3,Baja California Sur,5,05/12/2020,Residencias,,MX-BCS,,5,BCS
+3,Baja California Sur,5,06/12/2020,Residencias,,MX-BCS,,4,BCS
 3,Baja California Sur,6,15/02/2020,Lugares de trabajo,,MX-BCS,,3,BCS
 3,Baja California Sur,6,16/02/2020,Lugares de trabajo,,MX-BCS,,1,BCS
 3,Baja California Sur,6,17/02/2020,Lugares de trabajo,,MX-BCS,,12,BCS
@@ -7055,6 +7101,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 3,Baja California Sur,6,02/12/2020,Lugares de trabajo,,MX-BCS,,-22,BCS
 3,Baja California Sur,6,03/12/2020,Lugares de trabajo,,MX-BCS,,-25,BCS
 3,Baja California Sur,6,04/12/2020,Lugares de trabajo,,MX-BCS,,-19,BCS
+3,Baja California Sur,6,05/12/2020,Lugares de trabajo,,MX-BCS,,-8,BCS
+3,Baja California Sur,6,06/12/2020,Lugares de trabajo,,MX-BCS,,-5,BCS
 4,Campeche,1,15/02/2020,Supermercados y farmacias,,MX-CAM,,5,Camp
 4,Campeche,1,16/02/2020,Supermercados y farmacias,,MX-CAM,,8,Camp
 4,Campeche,1,17/02/2020,Supermercados y farmacias,,MX-CAM,,5,Camp
@@ -7349,6 +7397,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 4,Campeche,1,02/12/2020,Supermercados y farmacias,,MX-CAM,,-6,Camp
 4,Campeche,1,03/12/2020,Supermercados y farmacias,,MX-CAM,,-7,Camp
 4,Campeche,1,04/12/2020,Supermercados y farmacias,,MX-CAM,,-6,Camp
+4,Campeche,1,05/12/2020,Supermercados y farmacias,,MX-CAM,,-7,Camp
+4,Campeche,1,06/12/2020,Supermercados y farmacias,,MX-CAM,,-12,Camp
 4,Campeche,2,15/02/2020,Parques,,MX-CAM,,12,Camp
 4,Campeche,2,16/02/2020,Parques,,MX-CAM,,3,Camp
 4,Campeche,2,17/02/2020,Parques,,MX-CAM,,6,Camp
@@ -7643,6 +7693,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 4,Campeche,2,02/12/2020,Parques,,MX-CAM,,-41,Camp
 4,Campeche,2,03/12/2020,Parques,,MX-CAM,,-43,Camp
 4,Campeche,2,04/12/2020,Parques,,MX-CAM,,-43,Camp
+4,Campeche,2,05/12/2020,Parques,,MX-CAM,,-36,Camp
+4,Campeche,2,06/12/2020,Parques,,MX-CAM,,-51,Camp
 4,Campeche,3,15/02/2020,Transporte público,,MX-CAM,,-1,Camp
 4,Campeche,3,16/02/2020,Transporte público,,MX-CAM,,4,Camp
 4,Campeche,3,17/02/2020,Transporte público,,MX-CAM,,0,Camp
@@ -7937,6 +7989,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 4,Campeche,3,02/12/2020,Transporte público,,MX-CAM,,-29,Camp
 4,Campeche,3,03/12/2020,Transporte público,,MX-CAM,,-26,Camp
 4,Campeche,3,04/12/2020,Transporte público,,MX-CAM,,-32,Camp
+4,Campeche,3,05/12/2020,Transporte público,,MX-CAM,,-21,Camp
+4,Campeche,3,06/12/2020,Transporte público,,MX-CAM,,-20,Camp
 4,Campeche,4,15/02/2020,Centros comerciales y otros,,MX-CAM,,9,Camp
 4,Campeche,4,16/02/2020,Centros comerciales y otros,,MX-CAM,,11,Camp
 4,Campeche,4,17/02/2020,Centros comerciales y otros,,MX-CAM,,6,Camp
@@ -8231,6 +8285,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 4,Campeche,4,02/12/2020,Centros comerciales y otros,,MX-CAM,,-25,Camp
 4,Campeche,4,03/12/2020,Centros comerciales y otros,,MX-CAM,,-25,Camp
 4,Campeche,4,04/12/2020,Centros comerciales y otros,,MX-CAM,,-30,Camp
+4,Campeche,4,05/12/2020,Centros comerciales y otros,,MX-CAM,,-30,Camp
+4,Campeche,4,06/12/2020,Centros comerciales y otros,,MX-CAM,,-35,Camp
 4,Campeche,5,15/02/2020,Residencias,,MX-CAM,,-2,Camp
 4,Campeche,5,16/02/2020,Residencias,,MX-CAM,,-1,Camp
 4,Campeche,5,17/02/2020,Residencias,,MX-CAM,,-4,Camp
@@ -8525,6 +8581,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 4,Campeche,5,02/12/2020,Residencias,,MX-CAM,,11,Camp
 4,Campeche,5,03/12/2020,Residencias,,MX-CAM,,13,Camp
 4,Campeche,5,04/12/2020,Residencias,,MX-CAM,,12,Camp
+4,Campeche,5,05/12/2020,Residencias,,MX-CAM,,7,Camp
+4,Campeche,5,06/12/2020,Residencias,,MX-CAM,,7,Camp
 4,Campeche,6,15/02/2020,Lugares de trabajo,,MX-CAM,,5,Camp
 4,Campeche,6,16/02/2020,Lugares de trabajo,,MX-CAM,,1,Camp
 4,Campeche,6,17/02/2020,Lugares de trabajo,,MX-CAM,,16,Camp
@@ -8819,6 +8877,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 4,Campeche,6,02/12/2020,Lugares de trabajo,,MX-CAM,,-28,Camp
 4,Campeche,6,03/12/2020,Lugares de trabajo,,MX-CAM,,-28,Camp
 4,Campeche,6,04/12/2020,Lugares de trabajo,,MX-CAM,,-23,Camp
+4,Campeche,6,05/12/2020,Lugares de trabajo,,MX-CAM,,0,Camp
+4,Campeche,6,06/12/2020,Lugares de trabajo,,MX-CAM,,2,Camp
 5,Coahuila,1,15/02/2020,Supermercados y farmacias,,MX-COA,,6,Coah
 5,Coahuila,1,16/02/2020,Supermercados y farmacias,,MX-COA,,5,Coah
 5,Coahuila,1,17/02/2020,Supermercados y farmacias,,MX-COA,,4,Coah
@@ -9113,6 +9173,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 5,Coahuila,1,02/12/2020,Supermercados y farmacias,,MX-COA,,-1,Coah
 5,Coahuila,1,03/12/2020,Supermercados y farmacias,,MX-COA,,-4,Coah
 5,Coahuila,1,04/12/2020,Supermercados y farmacias,,MX-COA,,0,Coah
+5,Coahuila,1,05/12/2020,Supermercados y farmacias,,MX-COA,,5,Coah
+5,Coahuila,1,06/12/2020,Supermercados y farmacias,,MX-COA,,2,Coah
 5,Coahuila,2,15/02/2020,Parques,,MX-COA,,11,Coah
 5,Coahuila,2,16/02/2020,Parques,,MX-COA,,14,Coah
 5,Coahuila,2,17/02/2020,Parques,,MX-COA,,9,Coah
@@ -9407,6 +9469,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 5,Coahuila,2,02/12/2020,Parques,,MX-COA,,-40,Coah
 5,Coahuila,2,03/12/2020,Parques,,MX-COA,,-46,Coah
 5,Coahuila,2,04/12/2020,Parques,,MX-COA,,-41,Coah
+5,Coahuila,2,05/12/2020,Parques,,MX-COA,,-37,Coah
+5,Coahuila,2,06/12/2020,Parques,,MX-COA,,-37,Coah
 5,Coahuila,3,15/02/2020,Transporte público,,MX-COA,,2,Coah
 5,Coahuila,3,16/02/2020,Transporte público,,MX-COA,,6,Coah
 5,Coahuila,3,17/02/2020,Transporte público,,MX-COA,,4,Coah
@@ -9701,6 +9765,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 5,Coahuila,3,02/12/2020,Transporte público,,MX-COA,,-31,Coah
 5,Coahuila,3,03/12/2020,Transporte público,,MX-COA,,-34,Coah
 5,Coahuila,3,04/12/2020,Transporte público,,MX-COA,,-32,Coah
+5,Coahuila,3,05/12/2020,Transporte público,,MX-COA,,-21,Coah
+5,Coahuila,3,06/12/2020,Transporte público,,MX-COA,,-30,Coah
 5,Coahuila,4,15/02/2020,Centros comerciales y otros,,MX-COA,,10,Coah
 5,Coahuila,4,16/02/2020,Centros comerciales y otros,,MX-COA,,11,Coah
 5,Coahuila,4,17/02/2020,Centros comerciales y otros,,MX-COA,,4,Coah
@@ -9995,6 +10061,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 5,Coahuila,4,02/12/2020,Centros comerciales y otros,,MX-COA,,-19,Coah
 5,Coahuila,4,03/12/2020,Centros comerciales y otros,,MX-COA,,-23,Coah
 5,Coahuila,4,04/12/2020,Centros comerciales y otros,,MX-COA,,-23,Coah
+5,Coahuila,4,05/12/2020,Centros comerciales y otros,,MX-COA,,-18,Coah
+5,Coahuila,4,06/12/2020,Centros comerciales y otros,,MX-COA,,-20,Coah
 5,Coahuila,5,15/02/2020,Residencias,,MX-COA,,-1,Coah
 5,Coahuila,5,16/02/2020,Residencias,,MX-COA,,-1,Coah
 5,Coahuila,5,17/02/2020,Residencias,,MX-COA,,-2,Coah
@@ -10289,6 +10357,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 5,Coahuila,5,02/12/2020,Residencias,,MX-COA,,11,Coah
 5,Coahuila,5,03/12/2020,Residencias,,MX-COA,,12,Coah
 5,Coahuila,5,04/12/2020,Residencias,,MX-COA,,12,Coah
+5,Coahuila,5,05/12/2020,Residencias,,MX-COA,,6,Coah
+5,Coahuila,5,06/12/2020,Residencias,,MX-COA,,5,Coah
 5,Coahuila,6,15/02/2020,Lugares de trabajo,,MX-COA,,2,Coah
 5,Coahuila,6,16/02/2020,Lugares de trabajo,,MX-COA,,3,Coah
 5,Coahuila,6,17/02/2020,Lugares de trabajo,,MX-COA,,10,Coah
@@ -10583,6 +10653,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 5,Coahuila,6,02/12/2020,Lugares de trabajo,,MX-COA,,-22,Coah
 5,Coahuila,6,03/12/2020,Lugares de trabajo,,MX-COA,,-23,Coah
 5,Coahuila,6,04/12/2020,Lugares de trabajo,,MX-COA,,-18,Coah
+5,Coahuila,6,05/12/2020,Lugares de trabajo,,MX-COA,,1,Coah
+5,Coahuila,6,06/12/2020,Lugares de trabajo,,MX-COA,,13,Coah
 6,Colima,1,15/02/2020,Supermercados y farmacias,,MX-COL,,5,Col
 6,Colima,1,16/02/2020,Supermercados y farmacias,,MX-COL,,5,Col
 6,Colima,1,17/02/2020,Supermercados y farmacias,,MX-COL,,5,Col
@@ -10877,6 +10949,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 6,Colima,1,02/12/2020,Supermercados y farmacias,,MX-COL,,-1,Col
 6,Colima,1,03/12/2020,Supermercados y farmacias,,MX-COL,,-4,Col
 6,Colima,1,04/12/2020,Supermercados y farmacias,,MX-COL,,-5,Col
+6,Colima,1,05/12/2020,Supermercados y farmacias,,MX-COL,,-4,Col
+6,Colima,1,06/12/2020,Supermercados y farmacias,,MX-COL,,-6,Col
 6,Colima,2,15/02/2020,Parques,,MX-COL,,4,Col
 6,Colima,2,16/02/2020,Parques,,MX-COL,,1,Col
 6,Colima,2,17/02/2020,Parques,,MX-COL,,-1,Col
@@ -11171,6 +11245,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 6,Colima,2,02/12/2020,Parques,,MX-COL,,-27,Col
 6,Colima,2,03/12/2020,Parques,,MX-COL,,-27,Col
 6,Colima,2,04/12/2020,Parques,,MX-COL,,-30,Col
+6,Colima,2,05/12/2020,Parques,,MX-COL,,-24,Col
+6,Colima,2,06/12/2020,Parques,,MX-COL,,-31,Col
 6,Colima,3,15/02/2020,Transporte público,,MX-COL,,-4,Col
 6,Colima,3,16/02/2020,Transporte público,,MX-COL,,-2,Col
 6,Colima,3,17/02/2020,Transporte público,,MX-COL,,-9,Col
@@ -11465,6 +11541,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 6,Colima,3,02/12/2020,Transporte público,,MX-COL,,-24,Col
 6,Colima,3,03/12/2020,Transporte público,,MX-COL,,-22,Col
 6,Colima,3,04/12/2020,Transporte público,,MX-COL,,-30,Col
+6,Colima,3,05/12/2020,Transporte público,,MX-COL,,-27,Col
+6,Colima,3,06/12/2020,Transporte público,,MX-COL,,-26,Col
 6,Colima,4,15/02/2020,Centros comerciales y otros,,MX-COL,,6,Col
 6,Colima,4,16/02/2020,Centros comerciales y otros,,MX-COL,,7,Col
 6,Colima,4,17/02/2020,Centros comerciales y otros,,MX-COL,,1,Col
@@ -11759,6 +11837,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 6,Colima,4,02/12/2020,Centros comerciales y otros,,MX-COL,,-19,Col
 6,Colima,4,03/12/2020,Centros comerciales y otros,,MX-COL,,-20,Col
 6,Colima,4,04/12/2020,Centros comerciales y otros,,MX-COL,,-24,Col
+6,Colima,4,05/12/2020,Centros comerciales y otros,,MX-COL,,-24,Col
+6,Colima,4,06/12/2020,Centros comerciales y otros,,MX-COL,,-25,Col
 6,Colima,5,15/02/2020,Residencias,,MX-COL,,-1,Col
 6,Colima,5,16/02/2020,Residencias,,MX-COL,,0,Col
 6,Colima,5,17/02/2020,Residencias,,MX-COL,,-2,Col
@@ -12053,6 +12133,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 6,Colima,5,02/12/2020,Residencias,,MX-COL,,7,Col
 6,Colima,5,03/12/2020,Residencias,,MX-COL,,8,Col
 6,Colima,5,04/12/2020,Residencias,,MX-COL,,8,Col
+6,Colima,5,05/12/2020,Residencias,,MX-COL,,4,Col
+6,Colima,5,06/12/2020,Residencias,,MX-COL,,4,Col
 6,Colima,6,15/02/2020,Lugares de trabajo,,MX-COL,,2,Col
 6,Colima,6,16/02/2020,Lugares de trabajo,,MX-COL,,-1,Col
 6,Colima,6,17/02/2020,Lugares de trabajo,,MX-COL,,11,Col
@@ -12347,6 +12429,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 6,Colima,6,02/12/2020,Lugares de trabajo,,MX-COL,,-19,Col
 6,Colima,6,03/12/2020,Lugares de trabajo,,MX-COL,,-20,Col
 6,Colima,6,04/12/2020,Lugares de trabajo,,MX-COL,,-16,Col
+6,Colima,6,05/12/2020,Lugares de trabajo,,MX-COL,,-2,Col
+6,Colima,6,06/12/2020,Lugares de trabajo,,MX-COL,,6,Col
 7,Chiapas,1,15/02/2020,Supermercados y farmacias,,MX-CHP,,2,Chis
 7,Chiapas,1,16/02/2020,Supermercados y farmacias,,MX-CHP,,3,Chis
 7,Chiapas,1,17/02/2020,Supermercados y farmacias,,MX-CHP,,2,Chis
@@ -12641,6 +12725,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 7,Chiapas,1,02/12/2020,Supermercados y farmacias,,MX-CHP,,5,Chis
 7,Chiapas,1,03/12/2020,Supermercados y farmacias,,MX-CHP,,3,Chis
 7,Chiapas,1,04/12/2020,Supermercados y farmacias,,MX-CHP,,1,Chis
+7,Chiapas,1,05/12/2020,Supermercados y farmacias,,MX-CHP,,1,Chis
+7,Chiapas,1,06/12/2020,Supermercados y farmacias,,MX-CHP,,-4,Chis
 7,Chiapas,2,15/02/2020,Parques,,MX-CHP,,2,Chis
 7,Chiapas,2,16/02/2020,Parques,,MX-CHP,,-3,Chis
 7,Chiapas,2,17/02/2020,Parques,,MX-CHP,,0,Chis
@@ -12935,6 +13021,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 7,Chiapas,2,02/12/2020,Parques,,MX-CHP,,-33,Chis
 7,Chiapas,2,03/12/2020,Parques,,MX-CHP,,-33,Chis
 7,Chiapas,2,04/12/2020,Parques,,MX-CHP,,-35,Chis
+7,Chiapas,2,05/12/2020,Parques,,MX-CHP,,-31,Chis
+7,Chiapas,2,06/12/2020,Parques,,MX-CHP,,-34,Chis
 7,Chiapas,3,15/02/2020,Transporte público,,MX-CHP,,-1,Chis
 7,Chiapas,3,16/02/2020,Transporte público,,MX-CHP,,8,Chis
 7,Chiapas,3,17/02/2020,Transporte público,,MX-CHP,,0,Chis
@@ -13229,6 +13317,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 7,Chiapas,3,02/12/2020,Transporte público,,MX-CHP,,-22,Chis
 7,Chiapas,3,03/12/2020,Transporte público,,MX-CHP,,-20,Chis
 7,Chiapas,3,04/12/2020,Transporte público,,MX-CHP,,-27,Chis
+7,Chiapas,3,05/12/2020,Transporte público,,MX-CHP,,-25,Chis
+7,Chiapas,3,06/12/2020,Transporte público,,MX-CHP,,-27,Chis
 7,Chiapas,4,15/02/2020,Centros comerciales y otros,,MX-CHP,,5,Chis
 7,Chiapas,4,16/02/2020,Centros comerciales y otros,,MX-CHP,,5,Chis
 7,Chiapas,4,17/02/2020,Centros comerciales y otros,,MX-CHP,,0,Chis
@@ -13523,6 +13613,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 7,Chiapas,4,02/12/2020,Centros comerciales y otros,,MX-CHP,,-15,Chis
 7,Chiapas,4,03/12/2020,Centros comerciales y otros,,MX-CHP,,-16,Chis
 7,Chiapas,4,04/12/2020,Centros comerciales y otros,,MX-CHP,,-20,Chis
+7,Chiapas,4,05/12/2020,Centros comerciales y otros,,MX-CHP,,-18,Chis
+7,Chiapas,4,06/12/2020,Centros comerciales y otros,,MX-CHP,,-21,Chis
 7,Chiapas,5,15/02/2020,Residencias,,MX-CHP,,-1,Chis
 7,Chiapas,5,16/02/2020,Residencias,,MX-CHP,,0,Chis
 7,Chiapas,5,17/02/2020,Residencias,,MX-CHP,,-3,Chis
@@ -13817,6 +13909,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 7,Chiapas,5,02/12/2020,Residencias,,MX-CHP,,9,Chis
 7,Chiapas,5,03/12/2020,Residencias,,MX-CHP,,10,Chis
 7,Chiapas,5,04/12/2020,Residencias,,MX-CHP,,9,Chis
+7,Chiapas,5,05/12/2020,Residencias,,MX-CHP,,5,Chis
+7,Chiapas,5,06/12/2020,Residencias,,MX-CHP,,5,Chis
 7,Chiapas,6,15/02/2020,Lugares de trabajo,,MX-CHP,,2,Chis
 7,Chiapas,6,16/02/2020,Lugares de trabajo,,MX-CHP,,2,Chis
 7,Chiapas,6,17/02/2020,Lugares de trabajo,,MX-CHP,,13,Chis
@@ -14111,6 +14205,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 7,Chiapas,6,02/12/2020,Lugares de trabajo,,MX-CHP,,-19,Chis
 7,Chiapas,6,03/12/2020,Lugares de trabajo,,MX-CHP,,-20,Chis
 7,Chiapas,6,04/12/2020,Lugares de trabajo,,MX-CHP,,-17,Chis
+7,Chiapas,6,05/12/2020,Lugares de trabajo,,MX-CHP,,3,Chis
+7,Chiapas,6,06/12/2020,Lugares de trabajo,,MX-CHP,,9,Chis
 8,Chihuahua,1,15/02/2020,Supermercados y farmacias,,MX-CHH,,4,Chih
 8,Chihuahua,1,16/02/2020,Supermercados y farmacias,,MX-CHH,,3,Chih
 8,Chihuahua,1,17/02/2020,Supermercados y farmacias,,MX-CHH,,2,Chih
@@ -14405,6 +14501,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 8,Chihuahua,1,02/12/2020,Supermercados y farmacias,,MX-CHH,,3,Chih
 8,Chihuahua,1,03/12/2020,Supermercados y farmacias,,MX-CHH,,-5,Chih
 8,Chihuahua,1,04/12/2020,Supermercados y farmacias,,MX-CHH,,-2,Chih
+8,Chihuahua,1,05/12/2020,Supermercados y farmacias,,MX-CHH,,-3,Chih
+8,Chihuahua,1,06/12/2020,Supermercados y farmacias,,MX-CHH,,-5,Chih
 8,Chihuahua,2,15/02/2020,Parques,,MX-CHH,,10,Chih
 8,Chihuahua,2,16/02/2020,Parques,,MX-CHH,,12,Chih
 8,Chihuahua,2,17/02/2020,Parques,,MX-CHH,,8,Chih
@@ -14699,6 +14797,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 8,Chihuahua,2,02/12/2020,Parques,,MX-CHH,,-44,Chih
 8,Chihuahua,2,03/12/2020,Parques,,MX-CHH,,-44,Chih
 8,Chihuahua,2,04/12/2020,Parques,,MX-CHH,,-42,Chih
+8,Chihuahua,2,05/12/2020,Parques,,MX-CHH,,-41,Chih
+8,Chihuahua,2,06/12/2020,Parques,,MX-CHH,,-38,Chih
 8,Chihuahua,3,15/02/2020,Transporte público,,MX-CHH,,2,Chih
 8,Chihuahua,3,16/02/2020,Transporte público,,MX-CHH,,5,Chih
 8,Chihuahua,3,17/02/2020,Transporte público,,MX-CHH,,8,Chih
@@ -14993,6 +15093,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 8,Chihuahua,3,02/12/2020,Transporte público,,MX-CHH,,-42,Chih
 8,Chihuahua,3,03/12/2020,Transporte público,,MX-CHH,,-43,Chih
 8,Chihuahua,3,04/12/2020,Transporte público,,MX-CHH,,-43,Chih
+8,Chihuahua,3,05/12/2020,Transporte público,,MX-CHH,,-42,Chih
+8,Chihuahua,3,06/12/2020,Transporte público,,MX-CHH,,-48,Chih
 8,Chihuahua,4,15/02/2020,Centros comerciales y otros,,MX-CHH,,6,Chih
 8,Chihuahua,4,16/02/2020,Centros comerciales y otros,,MX-CHH,,8,Chih
 8,Chihuahua,4,17/02/2020,Centros comerciales y otros,,MX-CHH,,6,Chih
@@ -15287,6 +15389,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 8,Chihuahua,4,02/12/2020,Centros comerciales y otros,,MX-CHH,,-28,Chih
 8,Chihuahua,4,03/12/2020,Centros comerciales y otros,,MX-CHH,,-31,Chih
 8,Chihuahua,4,04/12/2020,Centros comerciales y otros,,MX-CHH,,-33,Chih
+8,Chihuahua,4,05/12/2020,Centros comerciales y otros,,MX-CHH,,-33,Chih
+8,Chihuahua,4,06/12/2020,Centros comerciales y otros,,MX-CHH,,-31,Chih
 8,Chihuahua,5,15/02/2020,Residencias,,MX-CHH,,-1,Chih
 8,Chihuahua,5,16/02/2020,Residencias,,MX-CHH,,-1,Chih
 8,Chihuahua,5,17/02/2020,Residencias,,MX-CHH,,-2,Chih
@@ -15581,6 +15685,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 8,Chihuahua,5,02/12/2020,Residencias,,MX-CHH,,12,Chih
 8,Chihuahua,5,03/12/2020,Residencias,,MX-CHH,,13,Chih
 8,Chihuahua,5,04/12/2020,Residencias,,MX-CHH,,14,Chih
+8,Chihuahua,5,05/12/2020,Residencias,,MX-CHH,,9,Chih
+8,Chihuahua,5,06/12/2020,Residencias,,MX-CHH,,8,Chih
 8,Chihuahua,6,15/02/2020,Lugares de trabajo,,MX-CHH,,3,Chih
 8,Chihuahua,6,16/02/2020,Lugares de trabajo,,MX-CHH,,2,Chih
 8,Chihuahua,6,17/02/2020,Lugares de trabajo,,MX-CHH,,12,Chih
@@ -15875,6 +15981,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 8,Chihuahua,6,02/12/2020,Lugares de trabajo,,MX-CHH,,-21,Chih
 8,Chihuahua,6,03/12/2020,Lugares de trabajo,,MX-CHH,,-23,Chih
 8,Chihuahua,6,04/12/2020,Lugares de trabajo,,MX-CHH,,-20,Chih
+8,Chihuahua,6,05/12/2020,Lugares de trabajo,,MX-CHH,,1,Chih
+8,Chihuahua,6,06/12/2020,Lugares de trabajo,,MX-CHH,,5,Chih
 9,Ciudad de México,1,15/02/2020,Supermercados y farmacias,,MX-CMX,,4,CDMX
 9,Ciudad de México,1,16/02/2020,Supermercados y farmacias,,MX-CMX,,6,CDMX
 9,Ciudad de México,1,17/02/2020,Supermercados y farmacias,,MX-CMX,,2,CDMX
@@ -16169,6 +16277,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 9,Ciudad de México,1,02/12/2020,Supermercados y farmacias,,MX-CMX,,-3,CDMX
 9,Ciudad de México,1,03/12/2020,Supermercados y farmacias,,MX-CMX,,-5,CDMX
 9,Ciudad de México,1,04/12/2020,Supermercados y farmacias,,MX-CMX,,-4,CDMX
+9,Ciudad de México,1,05/12/2020,Supermercados y farmacias,,MX-CMX,,-3,CDMX
+9,Ciudad de México,1,06/12/2020,Supermercados y farmacias,,MX-CMX,,-6,CDMX
 9,Ciudad de México,2,15/02/2020,Parques,,MX-CMX,,5,CDMX
 9,Ciudad de México,2,16/02/2020,Parques,,MX-CMX,,7,CDMX
 9,Ciudad de México,2,17/02/2020,Parques,,MX-CMX,,2,CDMX
@@ -16463,6 +16573,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 9,Ciudad de México,2,02/12/2020,Parques,,MX-CMX,,-42,CDMX
 9,Ciudad de México,2,03/12/2020,Parques,,MX-CMX,,-42,CDMX
 9,Ciudad de México,2,04/12/2020,Parques,,MX-CMX,,-44,CDMX
+9,Ciudad de México,2,05/12/2020,Parques,,MX-CMX,,-41,CDMX
+9,Ciudad de México,2,06/12/2020,Parques,,MX-CMX,,-42,CDMX
 9,Ciudad de México,3,15/02/2020,Transporte público,,MX-CMX,,4,CDMX
 9,Ciudad de México,3,16/02/2020,Transporte público,,MX-CMX,,7,CDMX
 9,Ciudad de México,3,17/02/2020,Transporte público,,MX-CMX,,4,CDMX
@@ -16757,6 +16869,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 9,Ciudad de México,3,02/12/2020,Transporte público,,MX-CMX,,-39,CDMX
 9,Ciudad de México,3,03/12/2020,Transporte público,,MX-CMX,,-38,CDMX
 9,Ciudad de México,3,04/12/2020,Transporte público,,MX-CMX,,-37,CDMX
+9,Ciudad de México,3,05/12/2020,Transporte público,,MX-CMX,,-24,CDMX
+9,Ciudad de México,3,06/12/2020,Transporte público,,MX-CMX,,-21,CDMX
 9,Ciudad de México,4,15/02/2020,Centros comerciales y otros,,MX-CMX,,6,CDMX
 9,Ciudad de México,4,16/02/2020,Centros comerciales y otros,,MX-CMX,,9,CDMX
 9,Ciudad de México,4,17/02/2020,Centros comerciales y otros,,MX-CMX,,2,CDMX
@@ -17051,6 +17165,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 9,Ciudad de México,4,02/12/2020,Centros comerciales y otros,,MX-CMX,,-33,CDMX
 9,Ciudad de México,4,03/12/2020,Centros comerciales y otros,,MX-CMX,,-33,CDMX
 9,Ciudad de México,4,04/12/2020,Centros comerciales y otros,,MX-CMX,,-37,CDMX
+9,Ciudad de México,4,05/12/2020,Centros comerciales y otros,,MX-CMX,,-32,CDMX
+9,Ciudad de México,4,06/12/2020,Centros comerciales y otros,,MX-CMX,,-30,CDMX
 9,Ciudad de México,5,15/02/2020,Residencias,,MX-CMX,,-1,CDMX
 9,Ciudad de México,5,16/02/2020,Residencias,,MX-CMX,,-1,CDMX
 9,Ciudad de México,5,17/02/2020,Residencias,,MX-CMX,,-2,CDMX
@@ -17345,6 +17461,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 9,Ciudad de México,5,02/12/2020,Residencias,,MX-CMX,,17,CDMX
 9,Ciudad de México,5,03/12/2020,Residencias,,MX-CMX,,17,CDMX
 9,Ciudad de México,5,04/12/2020,Residencias,,MX-CMX,,17,CDMX
+9,Ciudad de México,5,05/12/2020,Residencias,,MX-CMX,,8,CDMX
+9,Ciudad de México,5,06/12/2020,Residencias,,MX-CMX,,5,CDMX
 9,Ciudad de México,6,15/02/2020,Lugares de trabajo,,MX-CMX,,3,CDMX
 9,Ciudad de México,6,16/02/2020,Lugares de trabajo,,MX-CMX,,2,CDMX
 9,Ciudad de México,6,17/02/2020,Lugares de trabajo,,MX-CMX,,9,CDMX
@@ -17639,6 +17757,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 9,Ciudad de México,6,02/12/2020,Lugares de trabajo,,MX-CMX,,-38,CDMX
 9,Ciudad de México,6,03/12/2020,Lugares de trabajo,,MX-CMX,,-39,CDMX
 9,Ciudad de México,6,04/12/2020,Lugares de trabajo,,MX-CMX,,-34,CDMX
+9,Ciudad de México,6,05/12/2020,Lugares de trabajo,,MX-CMX,,-1,CDMX
+9,Ciudad de México,6,06/12/2020,Lugares de trabajo,,MX-CMX,,7,CDMX
 10,Durango,1,15/02/2020,Supermercados y farmacias,,MX-DUR,,4,Dgo
 10,Durango,1,16/02/2020,Supermercados y farmacias,,MX-DUR,,6,Dgo
 10,Durango,1,17/02/2020,Supermercados y farmacias,,MX-DUR,,2,Dgo
@@ -17933,6 +18053,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 10,Durango,1,02/12/2020,Supermercados y farmacias,,MX-DUR,,0,Dgo
 10,Durango,1,03/12/2020,Supermercados y farmacias,,MX-DUR,,-6,Dgo
 10,Durango,1,04/12/2020,Supermercados y farmacias,,MX-DUR,,-4,Dgo
+10,Durango,1,05/12/2020,Supermercados y farmacias,,MX-DUR,,-4,Dgo
+10,Durango,1,06/12/2020,Supermercados y farmacias,,MX-DUR,,-11,Dgo
 10,Durango,2,15/02/2020,Parques,,MX-DUR,,6,Dgo
 10,Durango,2,16/02/2020,Parques,,MX-DUR,,6,Dgo
 10,Durango,2,17/02/2020,Parques,,MX-DUR,,2,Dgo
@@ -18227,6 +18349,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 10,Durango,2,02/12/2020,Parques,,MX-DUR,,-41,Dgo
 10,Durango,2,03/12/2020,Parques,,MX-DUR,,-47,Dgo
 10,Durango,2,04/12/2020,Parques,,MX-DUR,,-44,Dgo
+10,Durango,2,05/12/2020,Parques,,MX-DUR,,-42,Dgo
+10,Durango,2,06/12/2020,Parques,,MX-DUR,,-51,Dgo
 10,Durango,3,15/02/2020,Transporte público,,MX-DUR,,-10,Dgo
 10,Durango,3,16/02/2020,Transporte público,,MX-DUR,,11,Dgo
 10,Durango,3,17/02/2020,Transporte público,,MX-DUR,,-4,Dgo
@@ -18521,6 +18645,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 10,Durango,3,02/12/2020,Transporte público,,MX-DUR,,-15,Dgo
 10,Durango,3,03/12/2020,Transporte público,,MX-DUR,,-9,Dgo
 10,Durango,3,04/12/2020,Transporte público,,MX-DUR,,-26,Dgo
+10,Durango,3,05/12/2020,Transporte público,,MX-DUR,,-19,Dgo
+10,Durango,3,06/12/2020,Transporte público,,MX-DUR,,-20,Dgo
 10,Durango,4,15/02/2020,Centros comerciales y otros,,MX-DUR,,4,Dgo
 10,Durango,4,16/02/2020,Centros comerciales y otros,,MX-DUR,,2,Dgo
 10,Durango,4,17/02/2020,Centros comerciales y otros,,MX-DUR,,-3,Dgo
@@ -18815,6 +18941,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 10,Durango,4,02/12/2020,Centros comerciales y otros,,MX-DUR,,-22,Dgo
 10,Durango,4,03/12/2020,Centros comerciales y otros,,MX-DUR,,-24,Dgo
 10,Durango,4,04/12/2020,Centros comerciales y otros,,MX-DUR,,-29,Dgo
+10,Durango,4,05/12/2020,Centros comerciales y otros,,MX-DUR,,-28,Dgo
+10,Durango,4,06/12/2020,Centros comerciales y otros,,MX-DUR,,-37,Dgo
 10,Durango,5,15/02/2020,Residencias,,MX-DUR,,-1,Dgo
 10,Durango,5,16/02/2020,Residencias,,MX-DUR,,-1,Dgo
 10,Durango,5,17/02/2020,Residencias,,MX-DUR,,-2,Dgo
@@ -19109,6 +19237,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 10,Durango,5,02/12/2020,Residencias,,MX-DUR,,12,Dgo
 10,Durango,5,03/12/2020,Residencias,,MX-DUR,,12,Dgo
 10,Durango,5,04/12/2020,Residencias,,MX-DUR,,13,Dgo
+10,Durango,5,05/12/2020,Residencias,,MX-DUR,,8,Dgo
+10,Durango,5,06/12/2020,Residencias,,MX-DUR,,8,Dgo
 10,Durango,6,15/02/2020,Lugares de trabajo,,MX-DUR,,4,Dgo
 10,Durango,6,16/02/2020,Lugares de trabajo,,MX-DUR,,2,Dgo
 10,Durango,6,17/02/2020,Lugares de trabajo,,MX-DUR,,15,Dgo
@@ -19403,6 +19533,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 10,Durango,6,02/12/2020,Lugares de trabajo,,MX-DUR,,-26,Dgo
 10,Durango,6,03/12/2020,Lugares de trabajo,,MX-DUR,,-27,Dgo
 10,Durango,6,04/12/2020,Lugares de trabajo,,MX-DUR,,-23,Dgo
+10,Durango,6,05/12/2020,Lugares de trabajo,,MX-DUR,,0,Dgo
+10,Durango,6,06/12/2020,Lugares de trabajo,,MX-DUR,,2,Dgo
 11,Guanajuato,1,15/02/2020,Supermercados y farmacias,,MX-GUA,,6,Gto
 11,Guanajuato,1,16/02/2020,Supermercados y farmacias,,MX-GUA,,6,Gto
 11,Guanajuato,1,17/02/2020,Supermercados y farmacias,,MX-GUA,,2,Gto
@@ -19697,6 +19829,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 11,Guanajuato,1,02/12/2020,Supermercados y farmacias,,MX-GUA,,0,Gto
 11,Guanajuato,1,03/12/2020,Supermercados y farmacias,,MX-GUA,,-1,Gto
 11,Guanajuato,1,04/12/2020,Supermercados y farmacias,,MX-GUA,,0,Gto
+11,Guanajuato,1,05/12/2020,Supermercados y farmacias,,MX-GUA,,4,Gto
+11,Guanajuato,1,06/12/2020,Supermercados y farmacias,,MX-GUA,,0,Gto
 11,Guanajuato,2,15/02/2020,Parques,,MX-GUA,,6,Gto
 11,Guanajuato,2,16/02/2020,Parques,,MX-GUA,,4,Gto
 11,Guanajuato,2,17/02/2020,Parques,,MX-GUA,,1,Gto
@@ -19991,6 +20125,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 11,Guanajuato,2,02/12/2020,Parques,,MX-GUA,,-38,Gto
 11,Guanajuato,2,03/12/2020,Parques,,MX-GUA,,-40,Gto
 11,Guanajuato,2,04/12/2020,Parques,,MX-GUA,,-42,Gto
+11,Guanajuato,2,05/12/2020,Parques,,MX-GUA,,-37,Gto
+11,Guanajuato,2,06/12/2020,Parques,,MX-GUA,,-37,Gto
 11,Guanajuato,3,15/02/2020,Transporte público,,MX-GUA,,-3,Gto
 11,Guanajuato,3,16/02/2020,Transporte público,,MX-GUA,,-2,Gto
 11,Guanajuato,3,17/02/2020,Transporte público,,MX-GUA,,5,Gto
@@ -20285,6 +20421,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 11,Guanajuato,3,02/12/2020,Transporte público,,MX-GUA,,-19,Gto
 11,Guanajuato,3,03/12/2020,Transporte público,,MX-GUA,,-22,Gto
 11,Guanajuato,3,04/12/2020,Transporte público,,MX-GUA,,-21,Gto
+11,Guanajuato,3,05/12/2020,Transporte público,,MX-GUA,,-15,Gto
+11,Guanajuato,3,06/12/2020,Transporte público,,MX-GUA,,-18,Gto
 11,Guanajuato,4,15/02/2020,Centros comerciales y otros,,MX-GUA,,0,Gto
 11,Guanajuato,4,16/02/2020,Centros comerciales y otros,,MX-GUA,,0,Gto
 11,Guanajuato,4,17/02/2020,Centros comerciales y otros,,MX-GUA,,-4,Gto
@@ -20579,6 +20717,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 11,Guanajuato,4,02/12/2020,Centros comerciales y otros,,MX-GUA,,-26,Gto
 11,Guanajuato,4,03/12/2020,Centros comerciales y otros,,MX-GUA,,-25,Gto
 11,Guanajuato,4,04/12/2020,Centros comerciales y otros,,MX-GUA,,-27,Gto
+11,Guanajuato,4,05/12/2020,Centros comerciales y otros,,MX-GUA,,-25,Gto
+11,Guanajuato,4,06/12/2020,Centros comerciales y otros,,MX-GUA,,-27,Gto
 11,Guanajuato,5,15/02/2020,Residencias,,MX-GUA,,0,Gto
 11,Guanajuato,5,16/02/2020,Residencias,,MX-GUA,,0,Gto
 11,Guanajuato,5,17/02/2020,Residencias,,MX-GUA,,-3,Gto
@@ -20873,6 +21013,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 11,Guanajuato,5,02/12/2020,Residencias,,MX-GUA,,10,Gto
 11,Guanajuato,5,03/12/2020,Residencias,,MX-GUA,,10,Gto
 11,Guanajuato,5,04/12/2020,Residencias,,MX-GUA,,10,Gto
+11,Guanajuato,5,05/12/2020,Residencias,,MX-GUA,,5,Gto
+11,Guanajuato,5,06/12/2020,Residencias,,MX-GUA,,4,Gto
 11,Guanajuato,6,15/02/2020,Lugares de trabajo,,MX-GUA,,4,Gto
 11,Guanajuato,6,16/02/2020,Lugares de trabajo,,MX-GUA,,2,Gto
 11,Guanajuato,6,17/02/2020,Lugares de trabajo,,MX-GUA,,16,Gto
@@ -21167,6 +21309,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 11,Guanajuato,6,02/12/2020,Lugares de trabajo,,MX-GUA,,-19,Gto
 11,Guanajuato,6,03/12/2020,Lugares de trabajo,,MX-GUA,,-21,Gto
 11,Guanajuato,6,04/12/2020,Lugares de trabajo,,MX-GUA,,-17,Gto
+11,Guanajuato,6,05/12/2020,Lugares de trabajo,,MX-GUA,,3,Gto
+11,Guanajuato,6,06/12/2020,Lugares de trabajo,,MX-GUA,,10,Gto
 12,Guerrero,1,15/02/2020,Supermercados y farmacias,,MX-GRO,,2,Gro
 12,Guerrero,1,16/02/2020,Supermercados y farmacias,,MX-GRO,,3,Gro
 12,Guerrero,1,17/02/2020,Supermercados y farmacias,,MX-GRO,,-2,Gro
@@ -21461,6 +21605,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 12,Guerrero,1,02/12/2020,Supermercados y farmacias,,MX-GRO,,-4,Gro
 12,Guerrero,1,03/12/2020,Supermercados y farmacias,,MX-GRO,,-7,Gro
 12,Guerrero,1,04/12/2020,Supermercados y farmacias,,MX-GRO,,-10,Gro
+12,Guerrero,1,05/12/2020,Supermercados y farmacias,,MX-GRO,,-7,Gro
+12,Guerrero,1,06/12/2020,Supermercados y farmacias,,MX-GRO,,-9,Gro
 12,Guerrero,2,15/02/2020,Parques,,MX-GRO,,3,Gro
 12,Guerrero,2,16/02/2020,Parques,,MX-GRO,,0,Gro
 12,Guerrero,2,17/02/2020,Parques,,MX-GRO,,-6,Gro
@@ -21755,6 +21901,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 12,Guerrero,2,02/12/2020,Parques,,MX-GRO,,-30,Gro
 12,Guerrero,2,03/12/2020,Parques,,MX-GRO,,-37,Gro
 12,Guerrero,2,04/12/2020,Parques,,MX-GRO,,-40,Gro
+12,Guerrero,2,05/12/2020,Parques,,MX-GRO,,-38,Gro
+12,Guerrero,2,06/12/2020,Parques,,MX-GRO,,-34,Gro
 12,Guerrero,3,15/02/2020,Transporte público,,MX-GRO,,-3,Gro
 12,Guerrero,3,16/02/2020,Transporte público,,MX-GRO,,2,Gro
 12,Guerrero,3,17/02/2020,Transporte público,,MX-GRO,,-3,Gro
@@ -22049,6 +22197,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 12,Guerrero,3,02/12/2020,Transporte público,,MX-GRO,,-28,Gro
 12,Guerrero,3,03/12/2020,Transporte público,,MX-GRO,,-28,Gro
 12,Guerrero,3,04/12/2020,Transporte público,,MX-GRO,,-30,Gro
+12,Guerrero,3,05/12/2020,Transporte público,,MX-GRO,,-29,Gro
+12,Guerrero,3,06/12/2020,Transporte público,,MX-GRO,,-25,Gro
 12,Guerrero,4,15/02/2020,Centros comerciales y otros,,MX-GRO,,4,Gro
 12,Guerrero,4,16/02/2020,Centros comerciales y otros,,MX-GRO,,4,Gro
 12,Guerrero,4,17/02/2020,Centros comerciales y otros,,MX-GRO,,-2,Gro
@@ -22343,6 +22493,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 12,Guerrero,4,02/12/2020,Centros comerciales y otros,,MX-GRO,,-24,Gro
 12,Guerrero,4,03/12/2020,Centros comerciales y otros,,MX-GRO,,-24,Gro
 12,Guerrero,4,04/12/2020,Centros comerciales y otros,,MX-GRO,,-29,Gro
+12,Guerrero,4,05/12/2020,Centros comerciales y otros,,MX-GRO,,-25,Gro
+12,Guerrero,4,06/12/2020,Centros comerciales y otros,,MX-GRO,,-22,Gro
 12,Guerrero,5,15/02/2020,Residencias,,MX-GRO,,0,Gro
 12,Guerrero,5,16/02/2020,Residencias,,MX-GRO,,1,Gro
 12,Guerrero,5,17/02/2020,Residencias,,MX-GRO,,-2,Gro
@@ -22637,6 +22789,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 12,Guerrero,5,02/12/2020,Residencias,,MX-GRO,,10,Gro
 12,Guerrero,5,03/12/2020,Residencias,,MX-GRO,,11,Gro
 12,Guerrero,5,04/12/2020,Residencias,,MX-GRO,,11,Gro
+12,Guerrero,5,05/12/2020,Residencias,,MX-GRO,,6,Gro
+12,Guerrero,5,06/12/2020,Residencias,,MX-GRO,,5,Gro
 12,Guerrero,6,15/02/2020,Lugares de trabajo,,MX-GRO,,3,Gro
 12,Guerrero,6,16/02/2020,Lugares de trabajo,,MX-GRO,,1,Gro
 12,Guerrero,6,17/02/2020,Lugares de trabajo,,MX-GRO,,11,Gro
@@ -22931,6 +23085,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 12,Guerrero,6,02/12/2020,Lugares de trabajo,,MX-GRO,,-26,Gro
 12,Guerrero,6,03/12/2020,Lugares de trabajo,,MX-GRO,,-26,Gro
 12,Guerrero,6,04/12/2020,Lugares de trabajo,,MX-GRO,,-23,Gro
+12,Guerrero,6,05/12/2020,Lugares de trabajo,,MX-GRO,,0,Gro
+12,Guerrero,6,06/12/2020,Lugares de trabajo,,MX-GRO,,-1,Gro
 13,Hidalgo,1,15/02/2020,Supermercados y farmacias,,MX-HID,,4,Hgo
 13,Hidalgo,1,16/02/2020,Supermercados y farmacias,,MX-HID,,5,Hgo
 13,Hidalgo,1,17/02/2020,Supermercados y farmacias,,MX-HID,,1,Hgo
@@ -23225,6 +23381,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 13,Hidalgo,1,02/12/2020,Supermercados y farmacias,,MX-HID,,7,Hgo
 13,Hidalgo,1,03/12/2020,Supermercados y farmacias,,MX-HID,,5,Hgo
 13,Hidalgo,1,04/12/2020,Supermercados y farmacias,,MX-HID,,4,Hgo
+13,Hidalgo,1,05/12/2020,Supermercados y farmacias,,MX-HID,,7,Hgo
+13,Hidalgo,1,06/12/2020,Supermercados y farmacias,,MX-HID,,7,Hgo
 13,Hidalgo,2,15/02/2020,Parques,,MX-HID,,12,Hgo
 13,Hidalgo,2,16/02/2020,Parques,,MX-HID,,10,Hgo
 13,Hidalgo,2,17/02/2020,Parques,,MX-HID,,3,Hgo
@@ -23519,6 +23677,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 13,Hidalgo,2,02/12/2020,Parques,,MX-HID,,-40,Hgo
 13,Hidalgo,2,03/12/2020,Parques,,MX-HID,,-42,Hgo
 13,Hidalgo,2,04/12/2020,Parques,,MX-HID,,-40,Hgo
+13,Hidalgo,2,05/12/2020,Parques,,MX-HID,,-35,Hgo
+13,Hidalgo,2,06/12/2020,Parques,,MX-HID,,-30,Hgo
 13,Hidalgo,3,15/02/2020,Transporte público,,MX-HID,,-8,Hgo
 13,Hidalgo,3,16/02/2020,Transporte público,,MX-HID,,-2,Hgo
 13,Hidalgo,3,17/02/2020,Transporte público,,MX-HID,,-5,Hgo
@@ -23813,6 +23973,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 13,Hidalgo,3,02/12/2020,Transporte público,,MX-HID,,-44,Hgo
 13,Hidalgo,3,03/12/2020,Transporte público,,MX-HID,,-42,Hgo
 13,Hidalgo,3,04/12/2020,Transporte público,,MX-HID,,-46,Hgo
+13,Hidalgo,3,05/12/2020,Transporte público,,MX-HID,,-42,Hgo
+13,Hidalgo,3,06/12/2020,Transporte público,,MX-HID,,-39,Hgo
 13,Hidalgo,4,15/02/2020,Centros comerciales y otros,,MX-HID,,5,Hgo
 13,Hidalgo,4,16/02/2020,Centros comerciales y otros,,MX-HID,,8,Hgo
 13,Hidalgo,4,17/02/2020,Centros comerciales y otros,,MX-HID,,1,Hgo
@@ -24107,6 +24269,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 13,Hidalgo,4,02/12/2020,Centros comerciales y otros,,MX-HID,,-18,Hgo
 13,Hidalgo,4,03/12/2020,Centros comerciales y otros,,MX-HID,,-18,Hgo
 13,Hidalgo,4,04/12/2020,Centros comerciales y otros,,MX-HID,,-22,Hgo
+13,Hidalgo,4,05/12/2020,Centros comerciales y otros,,MX-HID,,-21,Hgo
+13,Hidalgo,4,06/12/2020,Centros comerciales y otros,,MX-HID,,-19,Hgo
 13,Hidalgo,5,15/02/2020,Residencias,,MX-HID,,-1,Hgo
 13,Hidalgo,5,16/02/2020,Residencias,,MX-HID,,-1,Hgo
 13,Hidalgo,5,17/02/2020,Residencias,,MX-HID,,-3,Hgo
@@ -24401,6 +24565,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 13,Hidalgo,5,02/12/2020,Residencias,,MX-HID,,13,Hgo
 13,Hidalgo,5,03/12/2020,Residencias,,MX-HID,,13,Hgo
 13,Hidalgo,5,04/12/2020,Residencias,,MX-HID,,13,Hgo
+13,Hidalgo,5,05/12/2020,Residencias,,MX-HID,,7,Hgo
+13,Hidalgo,5,06/12/2020,Residencias,,MX-HID,,4,Hgo
 13,Hidalgo,6,15/02/2020,Lugares de trabajo,,MX-HID,,5,Hgo
 13,Hidalgo,6,16/02/2020,Lugares de trabajo,,MX-HID,,3,Hgo
 13,Hidalgo,6,17/02/2020,Lugares de trabajo,,MX-HID,,17,Hgo
@@ -24695,6 +24861,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 13,Hidalgo,6,02/12/2020,Lugares de trabajo,,MX-HID,,-29,Hgo
 13,Hidalgo,6,03/12/2020,Lugares de trabajo,,MX-HID,,-30,Hgo
 13,Hidalgo,6,04/12/2020,Lugares de trabajo,,MX-HID,,-21,Hgo
+13,Hidalgo,6,05/12/2020,Lugares de trabajo,,MX-HID,,10,Hgo
+13,Hidalgo,6,06/12/2020,Lugares de trabajo,,MX-HID,,15,Hgo
 14,Jalisco,1,15/02/2020,Supermercados y farmacias,,MX-JAL,,7,Jal
 14,Jalisco,1,16/02/2020,Supermercados y farmacias,,MX-JAL,,5,Jal
 14,Jalisco,1,17/02/2020,Supermercados y farmacias,,MX-JAL,,1,Jal
@@ -24989,6 +25157,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 14,Jalisco,1,02/12/2020,Supermercados y farmacias,,MX-JAL,,0,Jal
 14,Jalisco,1,03/12/2020,Supermercados y farmacias,,MX-JAL,,1,Jal
 14,Jalisco,1,04/12/2020,Supermercados y farmacias,,MX-JAL,,3,Jal
+14,Jalisco,1,05/12/2020,Supermercados y farmacias,,MX-JAL,,3,Jal
+14,Jalisco,1,06/12/2020,Supermercados y farmacias,,MX-JAL,,-2,Jal
 14,Jalisco,2,15/02/2020,Parques,,MX-JAL,,18,Jal
 14,Jalisco,2,16/02/2020,Parques,,MX-JAL,,10,Jal
 14,Jalisco,2,17/02/2020,Parques,,MX-JAL,,5,Jal
@@ -25283,6 +25453,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 14,Jalisco,2,02/12/2020,Parques,,MX-JAL,,-33,Jal
 14,Jalisco,2,03/12/2020,Parques,,MX-JAL,,-32,Jal
 14,Jalisco,2,04/12/2020,Parques,,MX-JAL,,-35,Jal
+14,Jalisco,2,05/12/2020,Parques,,MX-JAL,,-30,Jal
+14,Jalisco,2,06/12/2020,Parques,,MX-JAL,,-30,Jal
 14,Jalisco,3,15/02/2020,Transporte público,,MX-JAL,,12,Jal
 14,Jalisco,3,16/02/2020,Transporte público,,MX-JAL,,5,Jal
 14,Jalisco,3,17/02/2020,Transporte público,,MX-JAL,,6,Jal
@@ -25577,6 +25749,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 14,Jalisco,3,02/12/2020,Transporte público,,MX-JAL,,-14,Jal
 14,Jalisco,3,03/12/2020,Transporte público,,MX-JAL,,-15,Jal
 14,Jalisco,3,04/12/2020,Transporte público,,MX-JAL,,-14,Jal
+14,Jalisco,3,05/12/2020,Transporte público,,MX-JAL,,-5,Jal
+14,Jalisco,3,06/12/2020,Transporte público,,MX-JAL,,-8,Jal
 14,Jalisco,4,15/02/2020,Centros comerciales y otros,,MX-JAL,,9,Jal
 14,Jalisco,4,16/02/2020,Centros comerciales y otros,,MX-JAL,,6,Jal
 14,Jalisco,4,17/02/2020,Centros comerciales y otros,,MX-JAL,,1,Jal
@@ -25871,6 +26045,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 14,Jalisco,4,02/12/2020,Centros comerciales y otros,,MX-JAL,,-19,Jal
 14,Jalisco,4,03/12/2020,Centros comerciales y otros,,MX-JAL,,-20,Jal
 14,Jalisco,4,04/12/2020,Centros comerciales y otros,,MX-JAL,,-21,Jal
+14,Jalisco,4,05/12/2020,Centros comerciales y otros,,MX-JAL,,-20,Jal
+14,Jalisco,4,06/12/2020,Centros comerciales y otros,,MX-JAL,,-21,Jal
 14,Jalisco,5,15/02/2020,Residencias,,MX-JAL,,-2,Jal
 14,Jalisco,5,16/02/2020,Residencias,,MX-JAL,,-1,Jal
 14,Jalisco,5,17/02/2020,Residencias,,MX-JAL,,-2,Jal
@@ -26165,6 +26341,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 14,Jalisco,5,02/12/2020,Residencias,,MX-JAL,,9,Jal
 14,Jalisco,5,03/12/2020,Residencias,,MX-JAL,,9,Jal
 14,Jalisco,5,04/12/2020,Residencias,,MX-JAL,,9,Jal
+14,Jalisco,5,05/12/2020,Residencias,,MX-JAL,,3,Jal
+14,Jalisco,5,06/12/2020,Residencias,,MX-JAL,,3,Jal
 14,Jalisco,6,15/02/2020,Lugares de trabajo,,MX-JAL,,4,Jal
 14,Jalisco,6,16/02/2020,Lugares de trabajo,,MX-JAL,,2,Jal
 14,Jalisco,6,17/02/2020,Lugares de trabajo,,MX-JAL,,13,Jal
@@ -26459,6 +26637,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 14,Jalisco,6,02/12/2020,Lugares de trabajo,,MX-JAL,,-23,Jal
 14,Jalisco,6,03/12/2020,Lugares de trabajo,,MX-JAL,,-24,Jal
 14,Jalisco,6,04/12/2020,Lugares de trabajo,,MX-JAL,,-20,Jal
+14,Jalisco,6,05/12/2020,Lugares de trabajo,,MX-JAL,,-1,Jal
+14,Jalisco,6,06/12/2020,Lugares de trabajo,,MX-JAL,,5,Jal
 15,México,1,15/02/2020,Supermercados y farmacias,,MX-MEX,,6,Mex
 15,México,1,16/02/2020,Supermercados y farmacias,,MX-MEX,,6,Mex
 15,México,1,17/02/2020,Supermercados y farmacias,,MX-MEX,,1,Mex
@@ -26753,6 +26933,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 15,México,1,02/12/2020,Supermercados y farmacias,,MX-MEX,,4,Mex
 15,México,1,03/12/2020,Supermercados y farmacias,,MX-MEX,,3,Mex
 15,México,1,04/12/2020,Supermercados y farmacias,,MX-MEX,,4,Mex
+15,México,1,05/12/2020,Supermercados y farmacias,,MX-MEX,,7,Mex
+15,México,1,06/12/2020,Supermercados y farmacias,,MX-MEX,,3,Mex
 15,México,2,15/02/2020,Parques,,MX-MEX,,6,Mex
 15,México,2,16/02/2020,Parques,,MX-MEX,,4,Mex
 15,México,2,17/02/2020,Parques,,MX-MEX,,1,Mex
@@ -27047,6 +27229,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 15,México,2,02/12/2020,Parques,,MX-MEX,,-33,Mex
 15,México,2,03/12/2020,Parques,,MX-MEX,,-34,Mex
 15,México,2,04/12/2020,Parques,,MX-MEX,,-32,Mex
+15,México,2,05/12/2020,Parques,,MX-MEX,,-28,Mex
+15,México,2,06/12/2020,Parques,,MX-MEX,,-27,Mex
 15,México,3,15/02/2020,Transporte público,,MX-MEX,,6,Mex
 15,México,3,16/02/2020,Transporte público,,MX-MEX,,6,Mex
 15,México,3,17/02/2020,Transporte público,,MX-MEX,,8,Mex
@@ -27341,6 +27525,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 15,México,3,02/12/2020,Transporte público,,MX-MEX,,-33,Mex
 15,México,3,03/12/2020,Transporte público,,MX-MEX,,-34,Mex
 15,México,3,04/12/2020,Transporte público,,MX-MEX,,-29,Mex
+15,México,3,05/12/2020,Transporte público,,MX-MEX,,-17,Mex
+15,México,3,06/12/2020,Transporte público,,MX-MEX,,-16,Mex
 15,México,4,15/02/2020,Centros comerciales y otros,,MX-MEX,,6,Mex
 15,México,4,16/02/2020,Centros comerciales y otros,,MX-MEX,,7,Mex
 15,México,4,17/02/2020,Centros comerciales y otros,,MX-MEX,,1,Mex
@@ -27635,6 +27821,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 15,México,4,02/12/2020,Centros comerciales y otros,,MX-MEX,,-18,Mex
 15,México,4,03/12/2020,Centros comerciales y otros,,MX-MEX,,-17,Mex
 15,México,4,04/12/2020,Centros comerciales y otros,,MX-MEX,,-20,Mex
+15,México,4,05/12/2020,Centros comerciales y otros,,MX-MEX,,-19,Mex
+15,México,4,06/12/2020,Centros comerciales y otros,,MX-MEX,,-17,Mex
 15,México,5,15/02/2020,Residencias,,MX-MEX,,-1,Mex
 15,México,5,16/02/2020,Residencias,,MX-MEX,,-1,Mex
 15,México,5,17/02/2020,Residencias,,MX-MEX,,-3,Mex
@@ -27929,6 +28117,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 15,México,5,02/12/2020,Residencias,,MX-MEX,,13,Mex
 15,México,5,03/12/2020,Residencias,,MX-MEX,,14,Mex
 15,México,5,04/12/2020,Residencias,,MX-MEX,,13,Mex
+15,México,5,05/12/2020,Residencias,,MX-MEX,,6,Mex
+15,México,5,06/12/2020,Residencias,,MX-MEX,,4,Mex
 15,México,6,15/02/2020,Lugares de trabajo,,MX-MEX,,4,Mex
 15,México,6,16/02/2020,Lugares de trabajo,,MX-MEX,,2,Mex
 15,México,6,17/02/2020,Lugares de trabajo,,MX-MEX,,11,Mex
@@ -28223,6 +28413,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 15,México,6,02/12/2020,Lugares de trabajo,,MX-MEX,,-27,Mex
 15,México,6,03/12/2020,Lugares de trabajo,,MX-MEX,,-28,Mex
 15,México,6,04/12/2020,Lugares de trabajo,,MX-MEX,,-23,Mex
+15,México,6,05/12/2020,Lugares de trabajo,,MX-MEX,,6,Mex
+15,México,6,06/12/2020,Lugares de trabajo,,MX-MEX,,14,Mex
 16,Michoacán,1,15/02/2020,Supermercados y farmacias,,MX-MIC,,2,Mich
 16,Michoacán,1,16/02/2020,Supermercados y farmacias,,MX-MIC,,3,Mich
 16,Michoacán,1,17/02/2020,Supermercados y farmacias,,MX-MIC,,0,Mich
@@ -28517,6 +28709,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 16,Michoacán,1,02/12/2020,Supermercados y farmacias,,MX-MIC,,2,Mich
 16,Michoacán,1,03/12/2020,Supermercados y farmacias,,MX-MIC,,3,Mich
 16,Michoacán,1,04/12/2020,Supermercados y farmacias,,MX-MIC,,2,Mich
+16,Michoacán,1,05/12/2020,Supermercados y farmacias,,MX-MIC,,2,Mich
+16,Michoacán,1,06/12/2020,Supermercados y farmacias,,MX-MIC,,-1,Mich
 16,Michoacán,2,15/02/2020,Parques,,MX-MIC,,3,Mich
 16,Michoacán,2,16/02/2020,Parques,,MX-MIC,,1,Mich
 16,Michoacán,2,17/02/2020,Parques,,MX-MIC,,3,Mich
@@ -28811,6 +29005,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 16,Michoacán,2,02/12/2020,Parques,,MX-MIC,,-26,Mich
 16,Michoacán,2,03/12/2020,Parques,,MX-MIC,,-26,Mich
 16,Michoacán,2,04/12/2020,Parques,,MX-MIC,,-28,Mich
+16,Michoacán,2,05/12/2020,Parques,,MX-MIC,,-25,Mich
+16,Michoacán,2,06/12/2020,Parques,,MX-MIC,,-23,Mich
 16,Michoacán,3,15/02/2020,Transporte público,,MX-MIC,,-1,Mich
 16,Michoacán,3,16/02/2020,Transporte público,,MX-MIC,,4,Mich
 16,Michoacán,3,17/02/2020,Transporte público,,MX-MIC,,1,Mich
@@ -29105,6 +29301,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 16,Michoacán,3,02/12/2020,Transporte público,,MX-MIC,,-15,Mich
 16,Michoacán,3,03/12/2020,Transporte público,,MX-MIC,,-19,Mich
 16,Michoacán,3,04/12/2020,Transporte público,,MX-MIC,,-22,Mich
+16,Michoacán,3,05/12/2020,Transporte público,,MX-MIC,,-16,Mich
+16,Michoacán,3,06/12/2020,Transporte público,,MX-MIC,,-20,Mich
 16,Michoacán,4,15/02/2020,Centros comerciales y otros,,MX-MIC,,2,Mich
 16,Michoacán,4,16/02/2020,Centros comerciales y otros,,MX-MIC,,5,Mich
 16,Michoacán,4,17/02/2020,Centros comerciales y otros,,MX-MIC,,0,Mich
@@ -29399,6 +29597,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 16,Michoacán,4,02/12/2020,Centros comerciales y otros,,MX-MIC,,-17,Mich
 16,Michoacán,4,03/12/2020,Centros comerciales y otros,,MX-MIC,,-18,Mich
 16,Michoacán,4,04/12/2020,Centros comerciales y otros,,MX-MIC,,-22,Mich
+16,Michoacán,4,05/12/2020,Centros comerciales y otros,,MX-MIC,,-21,Mich
+16,Michoacán,4,06/12/2020,Centros comerciales y otros,,MX-MIC,,-21,Mich
 16,Michoacán,5,15/02/2020,Residencias,,MX-MIC,,-1,Mich
 16,Michoacán,5,16/02/2020,Residencias,,MX-MIC,,-1,Mich
 16,Michoacán,5,17/02/2020,Residencias,,MX-MIC,,-2,Mich
@@ -29693,6 +29893,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 16,Michoacán,5,02/12/2020,Residencias,,MX-MIC,,7,Mich
 16,Michoacán,5,03/12/2020,Residencias,,MX-MIC,,7,Mich
 16,Michoacán,5,04/12/2020,Residencias,,MX-MIC,,7,Mich
+16,Michoacán,5,05/12/2020,Residencias,,MX-MIC,,4,Mich
+16,Michoacán,5,06/12/2020,Residencias,,MX-MIC,,2,Mich
 16,Michoacán,6,15/02/2020,Lugares de trabajo,,MX-MIC,,2,Mich
 16,Michoacán,6,16/02/2020,Lugares de trabajo,,MX-MIC,,1,Mich
 16,Michoacán,6,17/02/2020,Lugares de trabajo,,MX-MIC,,11,Mich
@@ -29987,6 +30189,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 16,Michoacán,6,02/12/2020,Lugares de trabajo,,MX-MIC,,-21,Mich
 16,Michoacán,6,03/12/2020,Lugares de trabajo,,MX-MIC,,-21,Mich
 16,Michoacán,6,04/12/2020,Lugares de trabajo,,MX-MIC,,-18,Mich
+16,Michoacán,6,05/12/2020,Lugares de trabajo,,MX-MIC,,1,Mich
+16,Michoacán,6,06/12/2020,Lugares de trabajo,,MX-MIC,,4,Mich
 17,Morelos,1,15/02/2020,Supermercados y farmacias,,MX-MOR,,4,Mor
 17,Morelos,1,16/02/2020,Supermercados y farmacias,,MX-MOR,,4,Mor
 17,Morelos,1,17/02/2020,Supermercados y farmacias,,MX-MOR,,2,Mor
@@ -30281,6 +30485,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 17,Morelos,1,02/12/2020,Supermercados y farmacias,,MX-MOR,,3,Mor
 17,Morelos,1,03/12/2020,Supermercados y farmacias,,MX-MOR,,3,Mor
 17,Morelos,1,04/12/2020,Supermercados y farmacias,,MX-MOR,,2,Mor
+17,Morelos,1,05/12/2020,Supermercados y farmacias,,MX-MOR,,4,Mor
+17,Morelos,1,06/12/2020,Supermercados y farmacias,,MX-MOR,,2,Mor
 17,Morelos,2,15/02/2020,Parques,,MX-MOR,,3,Mor
 17,Morelos,2,16/02/2020,Parques,,MX-MOR,,6,Mor
 17,Morelos,2,17/02/2020,Parques,,MX-MOR,,-2,Mor
@@ -30575,6 +30781,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 17,Morelos,2,02/12/2020,Parques,,MX-MOR,,-27,Mor
 17,Morelos,2,03/12/2020,Parques,,MX-MOR,,-29,Mor
 17,Morelos,2,04/12/2020,Parques,,MX-MOR,,-29,Mor
+17,Morelos,2,05/12/2020,Parques,,MX-MOR,,-30,Mor
+17,Morelos,2,06/12/2020,Parques,,MX-MOR,,-26,Mor
 17,Morelos,3,15/02/2020,Transporte público,,MX-MOR,,1,Mor
 17,Morelos,3,16/02/2020,Transporte público,,MX-MOR,,9,Mor
 17,Morelos,3,17/02/2020,Transporte público,,MX-MOR,,3,Mor
@@ -30869,6 +31077,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 17,Morelos,3,02/12/2020,Transporte público,,MX-MOR,,-31,Mor
 17,Morelos,3,03/12/2020,Transporte público,,MX-MOR,,-30,Mor
 17,Morelos,3,04/12/2020,Transporte público,,MX-MOR,,-33,Mor
+17,Morelos,3,05/12/2020,Transporte público,,MX-MOR,,-30,Mor
+17,Morelos,3,06/12/2020,Transporte público,,MX-MOR,,-28,Mor
 17,Morelos,4,15/02/2020,Centros comerciales y otros,,MX-MOR,,3,Mor
 17,Morelos,4,16/02/2020,Centros comerciales y otros,,MX-MOR,,3,Mor
 17,Morelos,4,17/02/2020,Centros comerciales y otros,,MX-MOR,,-1,Mor
@@ -31163,6 +31373,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 17,Morelos,4,02/12/2020,Centros comerciales y otros,,MX-MOR,,-17,Mor
 17,Morelos,4,03/12/2020,Centros comerciales y otros,,MX-MOR,,-17,Mor
 17,Morelos,4,04/12/2020,Centros comerciales y otros,,MX-MOR,,-21,Mor
+17,Morelos,4,05/12/2020,Centros comerciales y otros,,MX-MOR,,-19,Mor
+17,Morelos,4,06/12/2020,Centros comerciales y otros,,MX-MOR,,-19,Mor
 17,Morelos,5,15/02/2020,Residencias,,MX-MOR,,-1,Mor
 17,Morelos,5,16/02/2020,Residencias,,MX-MOR,,0,Mor
 17,Morelos,5,17/02/2020,Residencias,,MX-MOR,,-2,Mor
@@ -31457,6 +31669,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 17,Morelos,5,02/12/2020,Residencias,,MX-MOR,,10,Mor
 17,Morelos,5,03/12/2020,Residencias,,MX-MOR,,11,Mor
 17,Morelos,5,04/12/2020,Residencias,,MX-MOR,,10,Mor
+17,Morelos,5,05/12/2020,Residencias,,MX-MOR,,5,Mor
+17,Morelos,5,06/12/2020,Residencias,,MX-MOR,,4,Mor
 17,Morelos,6,15/02/2020,Lugares de trabajo,,MX-MOR,,3,Mor
 17,Morelos,6,16/02/2020,Lugares de trabajo,,MX-MOR,,2,Mor
 17,Morelos,6,17/02/2020,Lugares de trabajo,,MX-MOR,,10,Mor
@@ -31751,6 +31965,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 17,Morelos,6,02/12/2020,Lugares de trabajo,,MX-MOR,,-21,Mor
 17,Morelos,6,03/12/2020,Lugares de trabajo,,MX-MOR,,-20,Mor
 17,Morelos,6,04/12/2020,Lugares de trabajo,,MX-MOR,,-15,Mor
+17,Morelos,6,05/12/2020,Lugares de trabajo,,MX-MOR,,7,Mor
+17,Morelos,6,06/12/2020,Lugares de trabajo,,MX-MOR,,12,Mor
 18,Nayarit,1,15/02/2020,Supermercados y farmacias,,MX-NAY,,0,Nay
 18,Nayarit,1,16/02/2020,Supermercados y farmacias,,MX-NAY,,2,Nay
 18,Nayarit,1,17/02/2020,Supermercados y farmacias,,MX-NAY,,1,Nay
@@ -32045,6 +32261,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 18,Nayarit,1,02/12/2020,Supermercados y farmacias,,MX-NAY,,-2,Nay
 18,Nayarit,1,03/12/2020,Supermercados y farmacias,,MX-NAY,,-5,Nay
 18,Nayarit,1,04/12/2020,Supermercados y farmacias,,MX-NAY,,-13,Nay
+18,Nayarit,1,05/12/2020,Supermercados y farmacias,,MX-NAY,,-5,Nay
+18,Nayarit,1,06/12/2020,Supermercados y farmacias,,MX-NAY,,-5,Nay
 18,Nayarit,2,15/02/2020,Parques,,MX-NAY,,-1,Nay
 18,Nayarit,2,16/02/2020,Parques,,MX-NAY,,-1,Nay
 18,Nayarit,2,17/02/2020,Parques,,MX-NAY,,-5,Nay
@@ -32339,6 +32557,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 18,Nayarit,2,02/12/2020,Parques,,MX-NAY,,-38,Nay
 18,Nayarit,2,03/12/2020,Parques,,MX-NAY,,-37,Nay
 18,Nayarit,2,04/12/2020,Parques,,MX-NAY,,-54,Nay
+18,Nayarit,2,05/12/2020,Parques,,MX-NAY,,-32,Nay
+18,Nayarit,2,06/12/2020,Parques,,MX-NAY,,-35,Nay
 18,Nayarit,3,15/02/2020,Transporte público,,MX-NAY,,6,Nay
 18,Nayarit,3,16/02/2020,Transporte público,,MX-NAY,,6,Nay
 18,Nayarit,3,17/02/2020,Transporte público,,MX-NAY,,-1,Nay
@@ -32633,6 +32853,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 18,Nayarit,3,02/12/2020,Transporte público,,MX-NAY,,-24,Nay
 18,Nayarit,3,03/12/2020,Transporte público,,MX-NAY,,-21,Nay
 18,Nayarit,3,04/12/2020,Transporte público,,MX-NAY,,-27,Nay
+18,Nayarit,3,05/12/2020,Transporte público,,MX-NAY,,-22,Nay
+18,Nayarit,3,06/12/2020,Transporte público,,MX-NAY,,-21,Nay
 18,Nayarit,4,15/02/2020,Centros comerciales y otros,,MX-NAY,,1,Nay
 18,Nayarit,4,16/02/2020,Centros comerciales y otros,,MX-NAY,,3,Nay
 18,Nayarit,4,17/02/2020,Centros comerciales y otros,,MX-NAY,,1,Nay
@@ -32927,6 +33149,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 18,Nayarit,4,02/12/2020,Centros comerciales y otros,,MX-NAY,,-25,Nay
 18,Nayarit,4,03/12/2020,Centros comerciales y otros,,MX-NAY,,-27,Nay
 18,Nayarit,4,04/12/2020,Centros comerciales y otros,,MX-NAY,,-34,Nay
+18,Nayarit,4,05/12/2020,Centros comerciales y otros,,MX-NAY,,-27,Nay
+18,Nayarit,4,06/12/2020,Centros comerciales y otros,,MX-NAY,,-29,Nay
 18,Nayarit,5,15/02/2020,Residencias,,MX-NAY,,0,Nay
 18,Nayarit,5,16/02/2020,Residencias,,MX-NAY,,-1,Nay
 18,Nayarit,5,17/02/2020,Residencias,,MX-NAY,,-1,Nay
@@ -33221,6 +33445,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 18,Nayarit,5,02/12/2020,Residencias,,MX-NAY,,9,Nay
 18,Nayarit,5,03/12/2020,Residencias,,MX-NAY,,9,Nay
 18,Nayarit,5,04/12/2020,Residencias,,MX-NAY,,11,Nay
+18,Nayarit,5,05/12/2020,Residencias,,MX-NAY,,5,Nay
+18,Nayarit,5,06/12/2020,Residencias,,MX-NAY,,4,Nay
 18,Nayarit,6,15/02/2020,Lugares de trabajo,,MX-NAY,,3,Nay
 18,Nayarit,6,16/02/2020,Lugares de trabajo,,MX-NAY,,1,Nay
 18,Nayarit,6,17/02/2020,Lugares de trabajo,,MX-NAY,,13,Nay
@@ -33515,6 +33741,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 18,Nayarit,6,02/12/2020,Lugares de trabajo,,MX-NAY,,-25,Nay
 18,Nayarit,6,03/12/2020,Lugares de trabajo,,MX-NAY,,-27,Nay
 18,Nayarit,6,04/12/2020,Lugares de trabajo,,MX-NAY,,-22,Nay
+18,Nayarit,6,05/12/2020,Lugares de trabajo,,MX-NAY,,-2,Nay
+18,Nayarit,6,06/12/2020,Lugares de trabajo,,MX-NAY,,0,Nay
 19,Nuevo León,1,15/02/2020,Supermercados y farmacias,,MX-NLE,,8,NL
 19,Nuevo León,1,16/02/2020,Supermercados y farmacias,,MX-NLE,,7,NL
 19,Nuevo León,1,17/02/2020,Supermercados y farmacias,,MX-NLE,,5,NL
@@ -33809,6 +34037,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 19,Nuevo León,1,02/12/2020,Supermercados y farmacias,,MX-NLE,,-2,NL
 19,Nuevo León,1,03/12/2020,Supermercados y farmacias,,MX-NLE,,-1,NL
 19,Nuevo León,1,04/12/2020,Supermercados y farmacias,,MX-NLE,,17,NL
+19,Nuevo León,1,05/12/2020,Supermercados y farmacias,,MX-NLE,,-25,NL
+19,Nuevo León,1,06/12/2020,Supermercados y farmacias,,MX-NLE,,-34,NL
 19,Nuevo León,2,15/02/2020,Parques,,MX-NLE,,10,NL
 19,Nuevo León,2,16/02/2020,Parques,,MX-NLE,,9,NL
 19,Nuevo León,2,17/02/2020,Parques,,MX-NLE,,3,NL
@@ -34103,6 +34333,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 19,Nuevo León,2,02/12/2020,Parques,,MX-NLE,,-40,NL
 19,Nuevo León,2,03/12/2020,Parques,,MX-NLE,,-43,NL
 19,Nuevo León,2,04/12/2020,Parques,,MX-NLE,,-45,NL
+19,Nuevo León,2,05/12/2020,Parques,,MX-NLE,,-53,NL
+19,Nuevo León,2,06/12/2020,Parques,,MX-NLE,,-59,NL
 19,Nuevo León,3,15/02/2020,Transporte público,,MX-NLE,,7,NL
 19,Nuevo León,3,16/02/2020,Transporte público,,MX-NLE,,6,NL
 19,Nuevo León,3,17/02/2020,Transporte público,,MX-NLE,,15,NL
@@ -34397,6 +34629,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 19,Nuevo León,3,02/12/2020,Transporte público,,MX-NLE,,-41,NL
 19,Nuevo León,3,03/12/2020,Transporte público,,MX-NLE,,-42,NL
 19,Nuevo León,3,04/12/2020,Transporte público,,MX-NLE,,-35,NL
+19,Nuevo León,3,05/12/2020,Transporte público,,MX-NLE,,-39,NL
+19,Nuevo León,3,06/12/2020,Transporte público,,MX-NLE,,-39,NL
 19,Nuevo León,4,15/02/2020,Centros comerciales y otros,,MX-NLE,,10,NL
 19,Nuevo León,4,16/02/2020,Centros comerciales y otros,,MX-NLE,,10,NL
 19,Nuevo León,4,17/02/2020,Centros comerciales y otros,,MX-NLE,,4,NL
@@ -34691,6 +34925,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 19,Nuevo León,4,02/12/2020,Centros comerciales y otros,,MX-NLE,,-22,NL
 19,Nuevo León,4,03/12/2020,Centros comerciales y otros,,MX-NLE,,-24,NL
 19,Nuevo León,4,04/12/2020,Centros comerciales y otros,,MX-NLE,,-22,NL
+19,Nuevo León,4,05/12/2020,Centros comerciales y otros,,MX-NLE,,-59,NL
+19,Nuevo León,4,06/12/2020,Centros comerciales y otros,,MX-NLE,,-66,NL
 19,Nuevo León,5,15/02/2020,Residencias,,MX-NLE,,-2,NL
 19,Nuevo León,5,16/02/2020,Residencias,,MX-NLE,,-1,NL
 19,Nuevo León,5,17/02/2020,Residencias,,MX-NLE,,-2,NL
@@ -34985,6 +35221,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 19,Nuevo León,5,02/12/2020,Residencias,,MX-NLE,,13,NL
 19,Nuevo León,5,03/12/2020,Residencias,,MX-NLE,,13,NL
 19,Nuevo León,5,04/12/2020,Residencias,,MX-NLE,,12,NL
+19,Nuevo León,5,05/12/2020,Residencias,,MX-NLE,,12,NL
+19,Nuevo León,5,06/12/2020,Residencias,,MX-NLE,,10,NL
 19,Nuevo León,6,15/02/2020,Lugares de trabajo,,MX-NLE,,6,NL
 19,Nuevo León,6,16/02/2020,Lugares de trabajo,,MX-NLE,,4,NL
 19,Nuevo León,6,17/02/2020,Lugares de trabajo,,MX-NLE,,10,NL
@@ -35279,6 +35517,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 19,Nuevo León,6,02/12/2020,Lugares de trabajo,,MX-NLE,,-26,NL
 19,Nuevo León,6,03/12/2020,Lugares de trabajo,,MX-NLE,,-27,NL
 19,Nuevo León,6,04/12/2020,Lugares de trabajo,,MX-NLE,,-22,NL
+19,Nuevo León,6,05/12/2020,Lugares de trabajo,,MX-NLE,,-14,NL
+19,Nuevo León,6,06/12/2020,Lugares de trabajo,,MX-NLE,,-11,NL
 20,Oaxaca,1,15/02/2020,Supermercados y farmacias,,MX-OAX,,0,Oax
 20,Oaxaca,1,16/02/2020,Supermercados y farmacias,,MX-OAX,,2,Oax
 20,Oaxaca,1,17/02/2020,Supermercados y farmacias,,MX-OAX,,0,Oax
@@ -35573,6 +35813,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 20,Oaxaca,1,02/12/2020,Supermercados y farmacias,,MX-OAX,,-8,Oax
 20,Oaxaca,1,03/12/2020,Supermercados y farmacias,,MX-OAX,,-11,Oax
 20,Oaxaca,1,04/12/2020,Supermercados y farmacias,,MX-OAX,,-12,Oax
+20,Oaxaca,1,05/12/2020,Supermercados y farmacias,,MX-OAX,,-10,Oax
+20,Oaxaca,1,06/12/2020,Supermercados y farmacias,,MX-OAX,,-15,Oax
 20,Oaxaca,2,15/02/2020,Parques,,MX-OAX,,4,Oax
 20,Oaxaca,2,16/02/2020,Parques,,MX-OAX,,3,Oax
 20,Oaxaca,2,17/02/2020,Parques,,MX-OAX,,1,Oax
@@ -35867,6 +36109,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 20,Oaxaca,2,02/12/2020,Parques,,MX-OAX,,-45,Oax
 20,Oaxaca,2,03/12/2020,Parques,,MX-OAX,,-44,Oax
 20,Oaxaca,2,04/12/2020,Parques,,MX-OAX,,-45,Oax
+20,Oaxaca,2,05/12/2020,Parques,,MX-OAX,,-41,Oax
+20,Oaxaca,2,06/12/2020,Parques,,MX-OAX,,-43,Oax
 20,Oaxaca,3,15/02/2020,Transporte público,,MX-OAX,,-3,Oax
 20,Oaxaca,3,16/02/2020,Transporte público,,MX-OAX,,0,Oax
 20,Oaxaca,3,17/02/2020,Transporte público,,MX-OAX,,1,Oax
@@ -36161,6 +36405,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 20,Oaxaca,3,02/12/2020,Transporte público,,MX-OAX,,-20,Oax
 20,Oaxaca,3,03/12/2020,Transporte público,,MX-OAX,,-19,Oax
 20,Oaxaca,3,04/12/2020,Transporte público,,MX-OAX,,-24,Oax
+20,Oaxaca,3,05/12/2020,Transporte público,,MX-OAX,,-22,Oax
+20,Oaxaca,3,06/12/2020,Transporte público,,MX-OAX,,-25,Oax
 20,Oaxaca,4,15/02/2020,Centros comerciales y otros,,MX-OAX,,1,Oax
 20,Oaxaca,4,16/02/2020,Centros comerciales y otros,,MX-OAX,,3,Oax
 20,Oaxaca,4,17/02/2020,Centros comerciales y otros,,MX-OAX,,-1,Oax
@@ -36455,6 +36701,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 20,Oaxaca,4,02/12/2020,Centros comerciales y otros,,MX-OAX,,-23,Oax
 20,Oaxaca,4,03/12/2020,Centros comerciales y otros,,MX-OAX,,-25,Oax
 20,Oaxaca,4,04/12/2020,Centros comerciales y otros,,MX-OAX,,-26,Oax
+20,Oaxaca,4,05/12/2020,Centros comerciales y otros,,MX-OAX,,-25,Oax
+20,Oaxaca,4,06/12/2020,Centros comerciales y otros,,MX-OAX,,-29,Oax
 20,Oaxaca,5,15/02/2020,Residencias,,MX-OAX,,-1,Oax
 20,Oaxaca,5,16/02/2020,Residencias,,MX-OAX,,0,Oax
 20,Oaxaca,5,17/02/2020,Residencias,,MX-OAX,,-2,Oax
@@ -36749,6 +36997,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 20,Oaxaca,5,02/12/2020,Residencias,,MX-OAX,,12,Oax
 20,Oaxaca,5,03/12/2020,Residencias,,MX-OAX,,12,Oax
 20,Oaxaca,5,04/12/2020,Residencias,,MX-OAX,,13,Oax
+20,Oaxaca,5,05/12/2020,Residencias,,MX-OAX,,8,Oax
+20,Oaxaca,5,06/12/2020,Residencias,,MX-OAX,,7,Oax
 20,Oaxaca,6,15/02/2020,Lugares de trabajo,,MX-OAX,,2,Oax
 20,Oaxaca,6,16/02/2020,Lugares de trabajo,,MX-OAX,,1,Oax
 20,Oaxaca,6,17/02/2020,Lugares de trabajo,,MX-OAX,,11,Oax
@@ -37043,6 +37293,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 20,Oaxaca,6,02/12/2020,Lugares de trabajo,,MX-OAX,,-25,Oax
 20,Oaxaca,6,03/12/2020,Lugares de trabajo,,MX-OAX,,-26,Oax
 20,Oaxaca,6,04/12/2020,Lugares de trabajo,,MX-OAX,,-20,Oax
+20,Oaxaca,6,05/12/2020,Lugares de trabajo,,MX-OAX,,2,Oax
+20,Oaxaca,6,06/12/2020,Lugares de trabajo,,MX-OAX,,5,Oax
 21,Puebla,1,15/02/2020,Supermercados y farmacias,,MX-PUE,,5,Pue
 21,Puebla,1,16/02/2020,Supermercados y farmacias,,MX-PUE,,6,Pue
 21,Puebla,1,17/02/2020,Supermercados y farmacias,,MX-PUE,,3,Pue
@@ -37337,6 +37589,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 21,Puebla,1,02/12/2020,Supermercados y farmacias,,MX-PUE,,3,Pue
 21,Puebla,1,03/12/2020,Supermercados y farmacias,,MX-PUE,,2,Pue
 21,Puebla,1,04/12/2020,Supermercados y farmacias,,MX-PUE,,3,Pue
+21,Puebla,1,05/12/2020,Supermercados y farmacias,,MX-PUE,,9,Pue
+21,Puebla,1,06/12/2020,Supermercados y farmacias,,MX-PUE,,4,Pue
 21,Puebla,2,15/02/2020,Parques,,MX-PUE,,1,Pue
 21,Puebla,2,16/02/2020,Parques,,MX-PUE,,1,Pue
 21,Puebla,2,17/02/2020,Parques,,MX-PUE,,-5,Pue
@@ -37631,6 +37885,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 21,Puebla,2,02/12/2020,Parques,,MX-PUE,,-39,Pue
 21,Puebla,2,03/12/2020,Parques,,MX-PUE,,-40,Pue
 21,Puebla,2,04/12/2020,Parques,,MX-PUE,,-40,Pue
+21,Puebla,2,05/12/2020,Parques,,MX-PUE,,-31,Pue
+21,Puebla,2,06/12/2020,Parques,,MX-PUE,,-32,Pue
 21,Puebla,3,15/02/2020,Transporte público,,MX-PUE,,6,Pue
 21,Puebla,3,16/02/2020,Transporte público,,MX-PUE,,6,Pue
 21,Puebla,3,17/02/2020,Transporte público,,MX-PUE,,4,Pue
@@ -37925,6 +38181,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 21,Puebla,3,02/12/2020,Transporte público,,MX-PUE,,-16,Pue
 21,Puebla,3,03/12/2020,Transporte público,,MX-PUE,,-16,Pue
 21,Puebla,3,04/12/2020,Transporte público,,MX-PUE,,-17,Pue
+21,Puebla,3,05/12/2020,Transporte público,,MX-PUE,,-6,Pue
+21,Puebla,3,06/12/2020,Transporte público,,MX-PUE,,-6,Pue
 21,Puebla,4,15/02/2020,Centros comerciales y otros,,MX-PUE,,6,Pue
 21,Puebla,4,16/02/2020,Centros comerciales y otros,,MX-PUE,,7,Pue
 21,Puebla,4,17/02/2020,Centros comerciales y otros,,MX-PUE,,2,Pue
@@ -38219,6 +38477,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 21,Puebla,4,02/12/2020,Centros comerciales y otros,,MX-PUE,,-26,Pue
 21,Puebla,4,03/12/2020,Centros comerciales y otros,,MX-PUE,,-27,Pue
 21,Puebla,4,04/12/2020,Centros comerciales y otros,,MX-PUE,,-29,Pue
+21,Puebla,4,05/12/2020,Centros comerciales y otros,,MX-PUE,,-24,Pue
+21,Puebla,4,06/12/2020,Centros comerciales y otros,,MX-PUE,,-24,Pue
 21,Puebla,5,15/02/2020,Residencias,,MX-PUE,,-1,Pue
 21,Puebla,5,16/02/2020,Residencias,,MX-PUE,,-1,Pue
 21,Puebla,5,17/02/2020,Residencias,,MX-PUE,,-2,Pue
@@ -38513,6 +38773,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 21,Puebla,5,02/12/2020,Residencias,,MX-PUE,,12,Pue
 21,Puebla,5,03/12/2020,Residencias,,MX-PUE,,13,Pue
 21,Puebla,5,04/12/2020,Residencias,,MX-PUE,,13,Pue
+21,Puebla,5,05/12/2020,Residencias,,MX-PUE,,6,Pue
+21,Puebla,5,06/12/2020,Residencias,,MX-PUE,,4,Pue
 21,Puebla,6,15/02/2020,Lugares de trabajo,,MX-PUE,,4,Pue
 21,Puebla,6,16/02/2020,Lugares de trabajo,,MX-PUE,,1,Pue
 21,Puebla,6,17/02/2020,Lugares de trabajo,,MX-PUE,,8,Pue
@@ -38807,6 +39069,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 21,Puebla,6,02/12/2020,Lugares de trabajo,,MX-PUE,,-28,Pue
 21,Puebla,6,03/12/2020,Lugares de trabajo,,MX-PUE,,-28,Pue
 21,Puebla,6,04/12/2020,Lugares de trabajo,,MX-PUE,,-24,Pue
+21,Puebla,6,05/12/2020,Lugares de trabajo,,MX-PUE,,5,Pue
+21,Puebla,6,06/12/2020,Lugares de trabajo,,MX-PUE,,13,Pue
 22,Querétaro,1,15/02/2020,Supermercados y farmacias,,MX-QUE,,6,Qro
 22,Querétaro,1,16/02/2020,Supermercados y farmacias,,MX-QUE,,7,Qro
 22,Querétaro,1,17/02/2020,Supermercados y farmacias,,MX-QUE,,4,Qro
@@ -39101,6 +39365,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 22,Querétaro,1,02/12/2020,Supermercados y farmacias,,MX-QUE,,-2,Qro
 22,Querétaro,1,03/12/2020,Supermercados y farmacias,,MX-QUE,,-5,Qro
 22,Querétaro,1,04/12/2020,Supermercados y farmacias,,MX-QUE,,-1,Qro
+22,Querétaro,1,05/12/2020,Supermercados y farmacias,,MX-QUE,,0,Qro
+22,Querétaro,1,06/12/2020,Supermercados y farmacias,,MX-QUE,,-8,Qro
 22,Querétaro,2,15/02/2020,Parques,,MX-QUE,,6,Qro
 22,Querétaro,2,16/02/2020,Parques,,MX-QUE,,5,Qro
 22,Querétaro,2,17/02/2020,Parques,,MX-QUE,,5,Qro
@@ -39395,6 +39661,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 22,Querétaro,2,02/12/2020,Parques,,MX-QUE,,-38,Qro
 22,Querétaro,2,03/12/2020,Parques,,MX-QUE,,-38,Qro
 22,Querétaro,2,04/12/2020,Parques,,MX-QUE,,-41,Qro
+22,Querétaro,2,05/12/2020,Parques,,MX-QUE,,-38,Qro
+22,Querétaro,2,06/12/2020,Parques,,MX-QUE,,-40,Qro
 22,Querétaro,3,15/02/2020,Transporte público,,MX-QUE,,10,Qro
 22,Querétaro,3,16/02/2020,Transporte público,,MX-QUE,,11,Qro
 22,Querétaro,3,17/02/2020,Transporte público,,MX-QUE,,11,Qro
@@ -39689,6 +39957,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 22,Querétaro,3,02/12/2020,Transporte público,,MX-QUE,,-1,Qro
 22,Querétaro,3,03/12/2020,Transporte público,,MX-QUE,,-2,Qro
 22,Querétaro,3,04/12/2020,Transporte público,,MX-QUE,,-2,Qro
+22,Querétaro,3,05/12/2020,Transporte público,,MX-QUE,,8,Qro
+22,Querétaro,3,06/12/2020,Transporte público,,MX-QUE,,8,Qro
 22,Querétaro,4,15/02/2020,Centros comerciales y otros,,MX-QUE,,5,Qro
 22,Querétaro,4,16/02/2020,Centros comerciales y otros,,MX-QUE,,7,Qro
 22,Querétaro,4,17/02/2020,Centros comerciales y otros,,MX-QUE,,1,Qro
@@ -39983,6 +40253,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 22,Querétaro,4,02/12/2020,Centros comerciales y otros,,MX-QUE,,-24,Qro
 22,Querétaro,4,03/12/2020,Centros comerciales y otros,,MX-QUE,,-25,Qro
 22,Querétaro,4,04/12/2020,Centros comerciales y otros,,MX-QUE,,-26,Qro
+22,Querétaro,4,05/12/2020,Centros comerciales y otros,,MX-QUE,,-23,Qro
+22,Querétaro,4,06/12/2020,Centros comerciales y otros,,MX-QUE,,-33,Qro
 22,Querétaro,5,15/02/2020,Residencias,,MX-QUE,,-2,Qro
 22,Querétaro,5,16/02/2020,Residencias,,MX-QUE,,-2,Qro
 22,Querétaro,5,17/02/2020,Residencias,,MX-QUE,,-2,Qro
@@ -40277,6 +40549,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 22,Querétaro,5,02/12/2020,Residencias,,MX-QUE,,12,Qro
 22,Querétaro,5,03/12/2020,Residencias,,MX-QUE,,13,Qro
 22,Querétaro,5,04/12/2020,Residencias,,MX-QUE,,13,Qro
+22,Querétaro,5,05/12/2020,Residencias,,MX-QUE,,6,Qro
+22,Querétaro,5,06/12/2020,Residencias,,MX-QUE,,5,Qro
 22,Querétaro,6,15/02/2020,Lugares de trabajo,,MX-QUE,,4,Qro
 22,Querétaro,6,16/02/2020,Lugares de trabajo,,MX-QUE,,2,Qro
 22,Querétaro,6,17/02/2020,Lugares de trabajo,,MX-QUE,,9,Qro
@@ -40571,6 +40845,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 22,Querétaro,6,02/12/2020,Lugares de trabajo,,MX-QUE,,-24,Qro
 22,Querétaro,6,03/12/2020,Lugares de trabajo,,MX-QUE,,-24,Qro
 22,Querétaro,6,04/12/2020,Lugares de trabajo,,MX-QUE,,-22,Qro
+22,Querétaro,6,05/12/2020,Lugares de trabajo,,MX-QUE,,3,Qro
+22,Querétaro,6,06/12/2020,Lugares de trabajo,,MX-QUE,,7,Qro
 23,Quintana Roo,1,15/02/2020,Supermercados y farmacias,,MX-ROO,,8,Q. Roo
 23,Quintana Roo,1,16/02/2020,Supermercados y farmacias,,MX-ROO,,5,Q. Roo
 23,Quintana Roo,1,17/02/2020,Supermercados y farmacias,,MX-ROO,,3,Q. Roo
@@ -40865,6 +41141,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 23,Quintana Roo,1,02/12/2020,Supermercados y farmacias,,MX-ROO,,-6,Q. Roo
 23,Quintana Roo,1,03/12/2020,Supermercados y farmacias,,MX-ROO,,-7,Q. Roo
 23,Quintana Roo,1,04/12/2020,Supermercados y farmacias,,MX-ROO,,-10,Q. Roo
+23,Quintana Roo,1,05/12/2020,Supermercados y farmacias,,MX-ROO,,-5,Q. Roo
+23,Quintana Roo,1,06/12/2020,Supermercados y farmacias,,MX-ROO,,-12,Q. Roo
 23,Quintana Roo,2,15/02/2020,Parques,,MX-ROO,,10,Q. Roo
 23,Quintana Roo,2,16/02/2020,Parques,,MX-ROO,,8,Q. Roo
 23,Quintana Roo,2,17/02/2020,Parques,,MX-ROO,,3,Q. Roo
@@ -41159,6 +41437,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 23,Quintana Roo,2,02/12/2020,Parques,,MX-ROO,,-45,Q. Roo
 23,Quintana Roo,2,03/12/2020,Parques,,MX-ROO,,-45,Q. Roo
 23,Quintana Roo,2,04/12/2020,Parques,,MX-ROO,,-47,Q. Roo
+23,Quintana Roo,2,05/12/2020,Parques,,MX-ROO,,-41,Q. Roo
+23,Quintana Roo,2,06/12/2020,Parques,,MX-ROO,,-48,Q. Roo
 23,Quintana Roo,3,15/02/2020,Transporte público,,MX-ROO,,3,Q. Roo
 23,Quintana Roo,3,16/02/2020,Transporte público,,MX-ROO,,4,Q. Roo
 23,Quintana Roo,3,17/02/2020,Transporte público,,MX-ROO,,3,Q. Roo
@@ -41453,6 +41733,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 23,Quintana Roo,3,02/12/2020,Transporte público,,MX-ROO,,-34,Q. Roo
 23,Quintana Roo,3,03/12/2020,Transporte público,,MX-ROO,,-35,Q. Roo
 23,Quintana Roo,3,04/12/2020,Transporte público,,MX-ROO,,-38,Q. Roo
+23,Quintana Roo,3,05/12/2020,Transporte público,,MX-ROO,,-35,Q. Roo
+23,Quintana Roo,3,06/12/2020,Transporte público,,MX-ROO,,-34,Q. Roo
 23,Quintana Roo,4,15/02/2020,Centros comerciales y otros,,MX-ROO,,8,Q. Roo
 23,Quintana Roo,4,16/02/2020,Centros comerciales y otros,,MX-ROO,,5,Q. Roo
 23,Quintana Roo,4,17/02/2020,Centros comerciales y otros,,MX-ROO,,3,Q. Roo
@@ -41747,6 +42029,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 23,Quintana Roo,4,02/12/2020,Centros comerciales y otros,,MX-ROO,,-26,Q. Roo
 23,Quintana Roo,4,03/12/2020,Centros comerciales y otros,,MX-ROO,,-27,Q. Roo
 23,Quintana Roo,4,04/12/2020,Centros comerciales y otros,,MX-ROO,,-30,Q. Roo
+23,Quintana Roo,4,05/12/2020,Centros comerciales y otros,,MX-ROO,,-26,Q. Roo
+23,Quintana Roo,4,06/12/2020,Centros comerciales y otros,,MX-ROO,,-30,Q. Roo
 23,Quintana Roo,5,15/02/2020,Residencias,,MX-ROO,,-2,Q. Roo
 23,Quintana Roo,5,16/02/2020,Residencias,,MX-ROO,,-1,Q. Roo
 23,Quintana Roo,5,17/02/2020,Residencias,,MX-ROO,,-1,Q. Roo
@@ -42041,6 +42325,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 23,Quintana Roo,5,02/12/2020,Residencias,,MX-ROO,,11,Q. Roo
 23,Quintana Roo,5,03/12/2020,Residencias,,MX-ROO,,12,Q. Roo
 23,Quintana Roo,5,04/12/2020,Residencias,,MX-ROO,,12,Q. Roo
+23,Quintana Roo,5,05/12/2020,Residencias,,MX-ROO,,7,Q. Roo
+23,Quintana Roo,5,06/12/2020,Residencias,,MX-ROO,,7,Q. Roo
 23,Quintana Roo,6,15/02/2020,Lugares de trabajo,,MX-ROO,,4,Q. Roo
 23,Quintana Roo,6,16/02/2020,Lugares de trabajo,,MX-ROO,,2,Q. Roo
 23,Quintana Roo,6,17/02/2020,Lugares de trabajo,,MX-ROO,,10,Q. Roo
@@ -42335,6 +42621,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 23,Quintana Roo,6,02/12/2020,Lugares de trabajo,,MX-ROO,,-27,Q. Roo
 23,Quintana Roo,6,03/12/2020,Lugares de trabajo,,MX-ROO,,-27,Q. Roo
 23,Quintana Roo,6,04/12/2020,Lugares de trabajo,,MX-ROO,,-25,Q. Roo
+23,Quintana Roo,6,05/12/2020,Lugares de trabajo,,MX-ROO,,-10,Q. Roo
+23,Quintana Roo,6,06/12/2020,Lugares de trabajo,,MX-ROO,,-8,Q. Roo
 24,San Luis Potosí,1,15/02/2020,Supermercados y farmacias,,MX-SLP,,4,SLP
 24,San Luis Potosí,1,16/02/2020,Supermercados y farmacias,,MX-SLP,,5,SLP
 24,San Luis Potosí,1,17/02/2020,Supermercados y farmacias,,MX-SLP,,3,SLP
@@ -42629,6 +42917,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 24,San Luis Potosí,1,02/12/2020,Supermercados y farmacias,,MX-SLP,,-1,SLP
 24,San Luis Potosí,1,03/12/2020,Supermercados y farmacias,,MX-SLP,,-2,SLP
 24,San Luis Potosí,1,04/12/2020,Supermercados y farmacias,,MX-SLP,,-5,SLP
+24,San Luis Potosí,1,05/12/2020,Supermercados y farmacias,,MX-SLP,,2,SLP
+24,San Luis Potosí,1,06/12/2020,Supermercados y farmacias,,MX-SLP,,-2,SLP
 24,San Luis Potosí,2,15/02/2020,Parques,,MX-SLP,,7,SLP
 24,San Luis Potosí,2,16/02/2020,Parques,,MX-SLP,,12,SLP
 24,San Luis Potosí,2,17/02/2020,Parques,,MX-SLP,,3,SLP
@@ -42923,6 +43213,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 24,San Luis Potosí,2,02/12/2020,Parques,,MX-SLP,,-31,SLP
 24,San Luis Potosí,2,03/12/2020,Parques,,MX-SLP,,-34,SLP
 24,San Luis Potosí,2,04/12/2020,Parques,,MX-SLP,,-39,SLP
+24,San Luis Potosí,2,05/12/2020,Parques,,MX-SLP,,-31,SLP
+24,San Luis Potosí,2,06/12/2020,Parques,,MX-SLP,,-28,SLP
 24,San Luis Potosí,3,15/02/2020,Transporte público,,MX-SLP,,4,SLP
 24,San Luis Potosí,3,16/02/2020,Transporte público,,MX-SLP,,6,SLP
 24,San Luis Potosí,3,17/02/2020,Transporte público,,MX-SLP,,8,SLP
@@ -43217,6 +43509,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 24,San Luis Potosí,3,02/12/2020,Transporte público,,MX-SLP,,-30,SLP
 24,San Luis Potosí,3,03/12/2020,Transporte público,,MX-SLP,,-34,SLP
 24,San Luis Potosí,3,04/12/2020,Transporte público,,MX-SLP,,,SLP
+24,San Luis Potosí,3,05/12/2020,Transporte público,,MX-SLP,,,SLP
+24,San Luis Potosí,3,06/12/2020,Transporte público,,MX-SLP,,,SLP
 24,San Luis Potosí,4,15/02/2020,Centros comerciales y otros,,MX-SLP,,4,SLP
 24,San Luis Potosí,4,16/02/2020,Centros comerciales y otros,,MX-SLP,,8,SLP
 24,San Luis Potosí,4,17/02/2020,Centros comerciales y otros,,MX-SLP,,-1,SLP
@@ -43511,6 +43805,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 24,San Luis Potosí,4,02/12/2020,Centros comerciales y otros,,MX-SLP,,-20,SLP
 24,San Luis Potosí,4,03/12/2020,Centros comerciales y otros,,MX-SLP,,-22,SLP
 24,San Luis Potosí,4,04/12/2020,Centros comerciales y otros,,MX-SLP,,-28,SLP
+24,San Luis Potosí,4,05/12/2020,Centros comerciales y otros,,MX-SLP,,-21,SLP
+24,San Luis Potosí,4,06/12/2020,Centros comerciales y otros,,MX-SLP,,-20,SLP
 24,San Luis Potosí,5,15/02/2020,Residencias,,MX-SLP,,-2,SLP
 24,San Luis Potosí,5,16/02/2020,Residencias,,MX-SLP,,-2,SLP
 24,San Luis Potosí,5,17/02/2020,Residencias,,MX-SLP,,-2,SLP
@@ -43805,6 +44101,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 24,San Luis Potosí,5,02/12/2020,Residencias,,MX-SLP,,11,SLP
 24,San Luis Potosí,5,03/12/2020,Residencias,,MX-SLP,,11,SLP
 24,San Luis Potosí,5,04/12/2020,Residencias,,MX-SLP,,12,SLP
+24,San Luis Potosí,5,05/12/2020,Residencias,,MX-SLP,,5,SLP
+24,San Luis Potosí,5,06/12/2020,Residencias,,MX-SLP,,3,SLP
 24,San Luis Potosí,6,15/02/2020,Lugares de trabajo,,MX-SLP,,3,SLP
 24,San Luis Potosí,6,16/02/2020,Lugares de trabajo,,MX-SLP,,2,SLP
 24,San Luis Potosí,6,17/02/2020,Lugares de trabajo,,MX-SLP,,12,SLP
@@ -44099,6 +44397,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 24,San Luis Potosí,6,02/12/2020,Lugares de trabajo,,MX-SLP,,-25,SLP
 24,San Luis Potosí,6,03/12/2020,Lugares de trabajo,,MX-SLP,,-25,SLP
 24,San Luis Potosí,6,04/12/2020,Lugares de trabajo,,MX-SLP,,-20,SLP
+24,San Luis Potosí,6,05/12/2020,Lugares de trabajo,,MX-SLP,,1,SLP
+24,San Luis Potosí,6,06/12/2020,Lugares de trabajo,,MX-SLP,,7,SLP
 25,Sinaloa,1,15/02/2020,Supermercados y farmacias,,MX-SIN,,3,Sin
 25,Sinaloa,1,16/02/2020,Supermercados y farmacias,,MX-SIN,,6,Sin
 25,Sinaloa,1,17/02/2020,Supermercados y farmacias,,MX-SIN,,3,Sin
@@ -44393,6 +44693,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 25,Sinaloa,1,02/12/2020,Supermercados y farmacias,,MX-SIN,,1,Sin
 25,Sinaloa,1,03/12/2020,Supermercados y farmacias,,MX-SIN,,0,Sin
 25,Sinaloa,1,04/12/2020,Supermercados y farmacias,,MX-SIN,,1,Sin
+25,Sinaloa,1,05/12/2020,Supermercados y farmacias,,MX-SIN,,3,Sin
+25,Sinaloa,1,06/12/2020,Supermercados y farmacias,,MX-SIN,,3,Sin
 25,Sinaloa,2,15/02/2020,Parques,,MX-SIN,,4,Sin
 25,Sinaloa,2,16/02/2020,Parques,,MX-SIN,,4,Sin
 25,Sinaloa,2,17/02/2020,Parques,,MX-SIN,,2,Sin
@@ -44687,6 +44989,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 25,Sinaloa,2,02/12/2020,Parques,,MX-SIN,,-28,Sin
 25,Sinaloa,2,03/12/2020,Parques,,MX-SIN,,-25,Sin
 25,Sinaloa,2,04/12/2020,Parques,,MX-SIN,,-26,Sin
+25,Sinaloa,2,05/12/2020,Parques,,MX-SIN,,-26,Sin
+25,Sinaloa,2,06/12/2020,Parques,,MX-SIN,,-20,Sin
 25,Sinaloa,3,15/02/2020,Transporte público,,MX-SIN,,-6,Sin
 25,Sinaloa,3,16/02/2020,Transporte público,,MX-SIN,,-1,Sin
 25,Sinaloa,3,17/02/2020,Transporte público,,MX-SIN,,0,Sin
@@ -44981,6 +45285,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 25,Sinaloa,3,02/12/2020,Transporte público,,MX-SIN,,-21,Sin
 25,Sinaloa,3,03/12/2020,Transporte público,,MX-SIN,,-22,Sin
 25,Sinaloa,3,04/12/2020,Transporte público,,MX-SIN,,-26,Sin
+25,Sinaloa,3,05/12/2020,Transporte público,,MX-SIN,,-26,Sin
+25,Sinaloa,3,06/12/2020,Transporte público,,MX-SIN,,-24,Sin
 25,Sinaloa,4,15/02/2020,Centros comerciales y otros,,MX-SIN,,3,Sin
 25,Sinaloa,4,16/02/2020,Centros comerciales y otros,,MX-SIN,,4,Sin
 25,Sinaloa,4,17/02/2020,Centros comerciales y otros,,MX-SIN,,0,Sin
@@ -45275,6 +45581,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 25,Sinaloa,4,02/12/2020,Centros comerciales y otros,,MX-SIN,,-20,Sin
 25,Sinaloa,4,03/12/2020,Centros comerciales y otros,,MX-SIN,,-20,Sin
 25,Sinaloa,4,04/12/2020,Centros comerciales y otros,,MX-SIN,,-23,Sin
+25,Sinaloa,4,05/12/2020,Centros comerciales y otros,,MX-SIN,,-20,Sin
+25,Sinaloa,4,06/12/2020,Centros comerciales y otros,,MX-SIN,,-18,Sin
 25,Sinaloa,5,15/02/2020,Residencias,,MX-SIN,,-1,Sin
 25,Sinaloa,5,16/02/2020,Residencias,,MX-SIN,,0,Sin
 25,Sinaloa,5,17/02/2020,Residencias,,MX-SIN,,-2,Sin
@@ -45569,6 +45877,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 25,Sinaloa,5,02/12/2020,Residencias,,MX-SIN,,11,Sin
 25,Sinaloa,5,03/12/2020,Residencias,,MX-SIN,,11,Sin
 25,Sinaloa,5,04/12/2020,Residencias,,MX-SIN,,11,Sin
+25,Sinaloa,5,05/12/2020,Residencias,,MX-SIN,,6,Sin
+25,Sinaloa,5,06/12/2020,Residencias,,MX-SIN,,5,Sin
 25,Sinaloa,6,15/02/2020,Lugares de trabajo,,MX-SIN,,3,Sin
 25,Sinaloa,6,16/02/2020,Lugares de trabajo,,MX-SIN,,2,Sin
 25,Sinaloa,6,17/02/2020,Lugares de trabajo,,MX-SIN,,10,Sin
@@ -45863,6 +46173,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 25,Sinaloa,6,02/12/2020,Lugares de trabajo,,MX-SIN,,-26,Sin
 25,Sinaloa,6,03/12/2020,Lugares de trabajo,,MX-SIN,,-27,Sin
 25,Sinaloa,6,04/12/2020,Lugares de trabajo,,MX-SIN,,-21,Sin
+25,Sinaloa,6,05/12/2020,Lugares de trabajo,,MX-SIN,,1,Sin
+25,Sinaloa,6,06/12/2020,Lugares de trabajo,,MX-SIN,,13,Sin
 26,Sonora,1,15/02/2020,Supermercados y farmacias,,MX-SON,,6,Son
 26,Sonora,1,16/02/2020,Supermercados y farmacias,,MX-SON,,6,Son
 26,Sonora,1,17/02/2020,Supermercados y farmacias,,MX-SON,,4,Son
@@ -46157,6 +46469,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 26,Sonora,1,02/12/2020,Supermercados y farmacias,,MX-SON,,-3,Son
 26,Sonora,1,03/12/2020,Supermercados y farmacias,,MX-SON,,-4,Son
 26,Sonora,1,04/12/2020,Supermercados y farmacias,,MX-SON,,-3,Son
+26,Sonora,1,05/12/2020,Supermercados y farmacias,,MX-SON,,1,Son
+26,Sonora,1,06/12/2020,Supermercados y farmacias,,MX-SON,,-1,Son
 26,Sonora,2,15/02/2020,Parques,,MX-SON,,0,Son
 26,Sonora,2,16/02/2020,Parques,,MX-SON,,-1,Son
 26,Sonora,2,17/02/2020,Parques,,MX-SON,,2,Son
@@ -46451,6 +46765,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 26,Sonora,2,02/12/2020,Parques,,MX-SON,,-36,Son
 26,Sonora,2,03/12/2020,Parques,,MX-SON,,-39,Son
 26,Sonora,2,04/12/2020,Parques,,MX-SON,,-38,Son
+26,Sonora,2,05/12/2020,Parques,,MX-SON,,-37,Son
+26,Sonora,2,06/12/2020,Parques,,MX-SON,,-40,Son
 26,Sonora,3,15/02/2020,Transporte público,,MX-SON,,-7,Son
 26,Sonora,3,16/02/2020,Transporte público,,MX-SON,,-3,Son
 26,Sonora,3,17/02/2020,Transporte público,,MX-SON,,3,Son
@@ -46745,6 +47061,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 26,Sonora,3,02/12/2020,Transporte público,,MX-SON,,-15,Son
 26,Sonora,3,03/12/2020,Transporte público,,MX-SON,,-19,Son
 26,Sonora,3,04/12/2020,Transporte público,,MX-SON,,-22,Son
+26,Sonora,3,05/12/2020,Transporte público,,MX-SON,,-20,Son
+26,Sonora,3,06/12/2020,Transporte público,,MX-SON,,-25,Son
 26,Sonora,4,15/02/2020,Centros comerciales y otros,,MX-SON,,7,Son
 26,Sonora,4,16/02/2020,Centros comerciales y otros,,MX-SON,,6,Son
 26,Sonora,4,17/02/2020,Centros comerciales y otros,,MX-SON,,4,Son
@@ -47039,6 +47357,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 26,Sonora,4,02/12/2020,Centros comerciales y otros,,MX-SON,,-21,Son
 26,Sonora,4,03/12/2020,Centros comerciales y otros,,MX-SON,,-22,Son
 26,Sonora,4,04/12/2020,Centros comerciales y otros,,MX-SON,,-23,Son
+26,Sonora,4,05/12/2020,Centros comerciales y otros,,MX-SON,,-19,Son
+26,Sonora,4,06/12/2020,Centros comerciales y otros,,MX-SON,,-20,Son
 26,Sonora,5,15/02/2020,Residencias,,MX-SON,,-1,Son
 26,Sonora,5,16/02/2020,Residencias,,MX-SON,,0,Son
 26,Sonora,5,17/02/2020,Residencias,,MX-SON,,-1,Son
@@ -47333,6 +47653,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 26,Sonora,5,02/12/2020,Residencias,,MX-SON,,11,Son
 26,Sonora,5,03/12/2020,Residencias,,MX-SON,,11,Son
 26,Sonora,5,04/12/2020,Residencias,,MX-SON,,12,Son
+26,Sonora,5,05/12/2020,Residencias,,MX-SON,,6,Son
+26,Sonora,5,06/12/2020,Residencias,,MX-SON,,5,Son
 26,Sonora,6,15/02/2020,Lugares de trabajo,,MX-SON,,3,Son
 26,Sonora,6,16/02/2020,Lugares de trabajo,,MX-SON,,2,Son
 26,Sonora,6,17/02/2020,Lugares de trabajo,,MX-SON,,9,Son
@@ -47627,6 +47949,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 26,Sonora,6,02/12/2020,Lugares de trabajo,,MX-SON,,-28,Son
 26,Sonora,6,03/12/2020,Lugares de trabajo,,MX-SON,,-28,Son
 26,Sonora,6,04/12/2020,Lugares de trabajo,,MX-SON,,-22,Son
+26,Sonora,6,05/12/2020,Lugares de trabajo,,MX-SON,,-1,Son
+26,Sonora,6,06/12/2020,Lugares de trabajo,,MX-SON,,7,Son
 27,Tabasco,1,15/02/2020,Supermercados y farmacias,,MX-TAB,,7,Tab
 27,Tabasco,1,16/02/2020,Supermercados y farmacias,,MX-TAB,,9,Tab
 27,Tabasco,1,17/02/2020,Supermercados y farmacias,,MX-TAB,,6,Tab
@@ -47921,6 +48245,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 27,Tabasco,1,02/12/2020,Supermercados y farmacias,,MX-TAB,,-1,Tab
 27,Tabasco,1,03/12/2020,Supermercados y farmacias,,MX-TAB,,-3,Tab
 27,Tabasco,1,04/12/2020,Supermercados y farmacias,,MX-TAB,,-6,Tab
+27,Tabasco,1,05/12/2020,Supermercados y farmacias,,MX-TAB,,1,Tab
+27,Tabasco,1,06/12/2020,Supermercados y farmacias,,MX-TAB,,-3,Tab
 27,Tabasco,2,15/02/2020,Parques,,MX-TAB,,12,Tab
 27,Tabasco,2,16/02/2020,Parques,,MX-TAB,,11,Tab
 27,Tabasco,2,17/02/2020,Parques,,MX-TAB,,10,Tab
@@ -48215,6 +48541,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 27,Tabasco,2,02/12/2020,Parques,,MX-TAB,,-25,Tab
 27,Tabasco,2,03/12/2020,Parques,,MX-TAB,,-30,Tab
 27,Tabasco,2,04/12/2020,Parques,,MX-TAB,,-32,Tab
+27,Tabasco,2,05/12/2020,Parques,,MX-TAB,,-28,Tab
+27,Tabasco,2,06/12/2020,Parques,,MX-TAB,,-37,Tab
 27,Tabasco,3,15/02/2020,Transporte público,,MX-TAB,,9,Tab
 27,Tabasco,3,16/02/2020,Transporte público,,MX-TAB,,12,Tab
 27,Tabasco,3,17/02/2020,Transporte público,,MX-TAB,,16,Tab
@@ -48509,6 +48837,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 27,Tabasco,3,02/12/2020,Transporte público,,MX-TAB,,-6,Tab
 27,Tabasco,3,03/12/2020,Transporte público,,MX-TAB,,-8,Tab
 27,Tabasco,3,04/12/2020,Transporte público,,MX-TAB,,-13,Tab
+27,Tabasco,3,05/12/2020,Transporte público,,MX-TAB,,2,Tab
+27,Tabasco,3,06/12/2020,Transporte público,,MX-TAB,,-18,Tab
 27,Tabasco,4,15/02/2020,Centros comerciales y otros,,MX-TAB,,9,Tab
 27,Tabasco,4,16/02/2020,Centros comerciales y otros,,MX-TAB,,9,Tab
 27,Tabasco,4,17/02/2020,Centros comerciales y otros,,MX-TAB,,7,Tab
@@ -48803,6 +49133,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 27,Tabasco,4,02/12/2020,Centros comerciales y otros,,MX-TAB,,-23,Tab
 27,Tabasco,4,03/12/2020,Centros comerciales y otros,,MX-TAB,,-23,Tab
 27,Tabasco,4,04/12/2020,Centros comerciales y otros,,MX-TAB,,-29,Tab
+27,Tabasco,4,05/12/2020,Centros comerciales y otros,,MX-TAB,,-27,Tab
+27,Tabasco,4,06/12/2020,Centros comerciales y otros,,MX-TAB,,-32,Tab
 27,Tabasco,5,15/02/2020,Residencias,,MX-TAB,,-2,Tab
 27,Tabasco,5,16/02/2020,Residencias,,MX-TAB,,-1,Tab
 27,Tabasco,5,17/02/2020,Residencias,,MX-TAB,,-4,Tab
@@ -49097,6 +49429,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 27,Tabasco,5,02/12/2020,Residencias,,MX-TAB,,9,Tab
 27,Tabasco,5,03/12/2020,Residencias,,MX-TAB,,11,Tab
 27,Tabasco,5,04/12/2020,Residencias,,MX-TAB,,11,Tab
+27,Tabasco,5,05/12/2020,Residencias,,MX-TAB,,7,Tab
+27,Tabasco,5,06/12/2020,Residencias,,MX-TAB,,7,Tab
 27,Tabasco,6,15/02/2020,Lugares de trabajo,,MX-TAB,,5,Tab
 27,Tabasco,6,16/02/2020,Lugares de trabajo,,MX-TAB,,3,Tab
 27,Tabasco,6,17/02/2020,Lugares de trabajo,,MX-TAB,,20,Tab
@@ -49391,6 +49725,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 27,Tabasco,6,02/12/2020,Lugares de trabajo,,MX-TAB,,-22,Tab
 27,Tabasco,6,03/12/2020,Lugares de trabajo,,MX-TAB,,-23,Tab
 27,Tabasco,6,04/12/2020,Lugares de trabajo,,MX-TAB,,-20,Tab
+27,Tabasco,6,05/12/2020,Lugares de trabajo,,MX-TAB,,0,Tab
+27,Tabasco,6,06/12/2020,Lugares de trabajo,,MX-TAB,,5,Tab
 28,Tamaulipas,1,15/02/2020,Supermercados y farmacias,,MX-TAM,,6,Tamps
 28,Tamaulipas,1,16/02/2020,Supermercados y farmacias,,MX-TAM,,5,Tamps
 28,Tamaulipas,1,17/02/2020,Supermercados y farmacias,,MX-TAM,,3,Tamps
@@ -49685,6 +50021,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 28,Tamaulipas,1,02/12/2020,Supermercados y farmacias,,MX-TAM,,-5,Tamps
 28,Tamaulipas,1,03/12/2020,Supermercados y farmacias,,MX-TAM,,-3,Tamps
 28,Tamaulipas,1,04/12/2020,Supermercados y farmacias,,MX-TAM,,0,Tamps
+28,Tamaulipas,1,05/12/2020,Supermercados y farmacias,,MX-TAM,,-2,Tamps
+28,Tamaulipas,1,06/12/2020,Supermercados y farmacias,,MX-TAM,,-1,Tamps
 28,Tamaulipas,2,15/02/2020,Parques,,MX-TAM,,8,Tamps
 28,Tamaulipas,2,16/02/2020,Parques,,MX-TAM,,10,Tamps
 28,Tamaulipas,2,17/02/2020,Parques,,MX-TAM,,5,Tamps
@@ -49979,6 +50317,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 28,Tamaulipas,2,02/12/2020,Parques,,MX-TAM,,-36,Tamps
 28,Tamaulipas,2,03/12/2020,Parques,,MX-TAM,,-37,Tamps
 28,Tamaulipas,2,04/12/2020,Parques,,MX-TAM,,-37,Tamps
+28,Tamaulipas,2,05/12/2020,Parques,,MX-TAM,,-44,Tamps
+28,Tamaulipas,2,06/12/2020,Parques,,MX-TAM,,-41,Tamps
 28,Tamaulipas,3,15/02/2020,Transporte público,,MX-TAM,,0,Tamps
 28,Tamaulipas,3,16/02/2020,Transporte público,,MX-TAM,,7,Tamps
 28,Tamaulipas,3,17/02/2020,Transporte público,,MX-TAM,,3,Tamps
@@ -50273,6 +50613,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 28,Tamaulipas,3,02/12/2020,Transporte público,,MX-TAM,,-28,Tamps
 28,Tamaulipas,3,03/12/2020,Transporte público,,MX-TAM,,-27,Tamps
 28,Tamaulipas,3,04/12/2020,Transporte público,,MX-TAM,,-28,Tamps
+28,Tamaulipas,3,05/12/2020,Transporte público,,MX-TAM,,-33,Tamps
+28,Tamaulipas,3,06/12/2020,Transporte público,,MX-TAM,,-19,Tamps
 28,Tamaulipas,4,15/02/2020,Centros comerciales y otros,,MX-TAM,,7,Tamps
 28,Tamaulipas,4,16/02/2020,Centros comerciales y otros,,MX-TAM,,8,Tamps
 28,Tamaulipas,4,17/02/2020,Centros comerciales y otros,,MX-TAM,,3,Tamps
@@ -50567,6 +50909,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 28,Tamaulipas,4,02/12/2020,Centros comerciales y otros,,MX-TAM,,-21,Tamps
 28,Tamaulipas,4,03/12/2020,Centros comerciales y otros,,MX-TAM,,-21,Tamps
 28,Tamaulipas,4,04/12/2020,Centros comerciales y otros,,MX-TAM,,-21,Tamps
+28,Tamaulipas,4,05/12/2020,Centros comerciales y otros,,MX-TAM,,-24,Tamps
+28,Tamaulipas,4,06/12/2020,Centros comerciales y otros,,MX-TAM,,-21,Tamps
 28,Tamaulipas,5,15/02/2020,Residencias,,MX-TAM,,-1,Tamps
 28,Tamaulipas,5,16/02/2020,Residencias,,MX-TAM,,-1,Tamps
 28,Tamaulipas,5,17/02/2020,Residencias,,MX-TAM,,-2,Tamps
@@ -50861,6 +51205,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 28,Tamaulipas,5,02/12/2020,Residencias,,MX-TAM,,11,Tamps
 28,Tamaulipas,5,03/12/2020,Residencias,,MX-TAM,,11,Tamps
 28,Tamaulipas,5,04/12/2020,Residencias,,MX-TAM,,11,Tamps
+28,Tamaulipas,5,05/12/2020,Residencias,,MX-TAM,,7,Tamps
+28,Tamaulipas,5,06/12/2020,Residencias,,MX-TAM,,5,Tamps
 28,Tamaulipas,6,15/02/2020,Lugares de trabajo,,MX-TAM,,4,Tamps
 28,Tamaulipas,6,16/02/2020,Lugares de trabajo,,MX-TAM,,3,Tamps
 28,Tamaulipas,6,17/02/2020,Lugares de trabajo,,MX-TAM,,9,Tamps
@@ -51155,6 +51501,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 28,Tamaulipas,6,02/12/2020,Lugares de trabajo,,MX-TAM,,-22,Tamps
 28,Tamaulipas,6,03/12/2020,Lugares de trabajo,,MX-TAM,,-24,Tamps
 28,Tamaulipas,6,04/12/2020,Lugares de trabajo,,MX-TAM,,-19,Tamps
+28,Tamaulipas,6,05/12/2020,Lugares de trabajo,,MX-TAM,,-2,Tamps
+28,Tamaulipas,6,06/12/2020,Lugares de trabajo,,MX-TAM,,7,Tamps
 29,Tlaxcala,1,15/02/2020,Supermercados y farmacias,,MX-TLA,,3,Tlax
 29,Tlaxcala,1,16/02/2020,Supermercados y farmacias,,MX-TLA,,3,Tlax
 29,Tlaxcala,1,17/02/2020,Supermercados y farmacias,,MX-TLA,,2,Tlax
@@ -51449,6 +51797,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 29,Tlaxcala,1,02/12/2020,Supermercados y farmacias,,MX-TLA,,5,Tlax
 29,Tlaxcala,1,03/12/2020,Supermercados y farmacias,,MX-TLA,,5,Tlax
 29,Tlaxcala,1,04/12/2020,Supermercados y farmacias,,MX-TLA,,5,Tlax
+29,Tlaxcala,1,05/12/2020,Supermercados y farmacias,,MX-TLA,,9,Tlax
+29,Tlaxcala,1,06/12/2020,Supermercados y farmacias,,MX-TLA,,7,Tlax
 29,Tlaxcala,2,15/02/2020,Parques,,MX-TLA,,11,Tlax
 29,Tlaxcala,2,16/02/2020,Parques,,MX-TLA,,1,Tlax
 29,Tlaxcala,2,17/02/2020,Parques,,MX-TLA,,1,Tlax
@@ -51743,6 +52093,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 29,Tlaxcala,2,02/12/2020,Parques,,MX-TLA,,-28,Tlax
 29,Tlaxcala,2,03/12/2020,Parques,,MX-TLA,,-30,Tlax
 29,Tlaxcala,2,04/12/2020,Parques,,MX-TLA,,-27,Tlax
+29,Tlaxcala,2,05/12/2020,Parques,,MX-TLA,,-16,Tlax
+29,Tlaxcala,2,06/12/2020,Parques,,MX-TLA,,-24,Tlax
 29,Tlaxcala,3,15/02/2020,Transporte público,,MX-TLA,,4,Tlax
 29,Tlaxcala,3,16/02/2020,Transporte público,,MX-TLA,,1,Tlax
 29,Tlaxcala,3,17/02/2020,Transporte público,,MX-TLA,,7,Tlax
@@ -52037,6 +52389,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 29,Tlaxcala,3,02/12/2020,Transporte público,,MX-TLA,,-29,Tlax
 29,Tlaxcala,3,03/12/2020,Transporte público,,MX-TLA,,-31,Tlax
 29,Tlaxcala,3,04/12/2020,Transporte público,,MX-TLA,,-30,Tlax
+29,Tlaxcala,3,05/12/2020,Transporte público,,MX-TLA,,-21,Tlax
+29,Tlaxcala,3,06/12/2020,Transporte público,,MX-TLA,,-28,Tlax
 29,Tlaxcala,4,15/02/2020,Centros comerciales y otros,,MX-TLA,,9,Tlax
 29,Tlaxcala,4,16/02/2020,Centros comerciales y otros,,MX-TLA,,6,Tlax
 29,Tlaxcala,4,17/02/2020,Centros comerciales y otros,,MX-TLA,,1,Tlax
@@ -52331,6 +52685,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 29,Tlaxcala,4,02/12/2020,Centros comerciales y otros,,MX-TLA,,-19,Tlax
 29,Tlaxcala,4,03/12/2020,Centros comerciales y otros,,MX-TLA,,-19,Tlax
 29,Tlaxcala,4,04/12/2020,Centros comerciales y otros,,MX-TLA,,-22,Tlax
+29,Tlaxcala,4,05/12/2020,Centros comerciales y otros,,MX-TLA,,-17,Tlax
+29,Tlaxcala,4,06/12/2020,Centros comerciales y otros,,MX-TLA,,-19,Tlax
 29,Tlaxcala,5,15/02/2020,Residencias,,MX-TLA,,-2,Tlax
 29,Tlaxcala,5,16/02/2020,Residencias,,MX-TLA,,0,Tlax
 29,Tlaxcala,5,17/02/2020,Residencias,,MX-TLA,,-2,Tlax
@@ -52625,6 +52981,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 29,Tlaxcala,5,02/12/2020,Residencias,,MX-TLA,,13,Tlax
 29,Tlaxcala,5,03/12/2020,Residencias,,MX-TLA,,13,Tlax
 29,Tlaxcala,5,04/12/2020,Residencias,,MX-TLA,,12,Tlax
+29,Tlaxcala,5,05/12/2020,Residencias,,MX-TLA,,5,Tlax
+29,Tlaxcala,5,06/12/2020,Residencias,,MX-TLA,,4,Tlax
 29,Tlaxcala,6,15/02/2020,Lugares de trabajo,,MX-TLA,,5,Tlax
 29,Tlaxcala,6,16/02/2020,Lugares de trabajo,,MX-TLA,,3,Tlax
 29,Tlaxcala,6,17/02/2020,Lugares de trabajo,,MX-TLA,,11,Tlax
@@ -52919,6 +53277,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 29,Tlaxcala,6,02/12/2020,Lugares de trabajo,,MX-TLA,,-25,Tlax
 29,Tlaxcala,6,03/12/2020,Lugares de trabajo,,MX-TLA,,-24,Tlax
 29,Tlaxcala,6,04/12/2020,Lugares de trabajo,,MX-TLA,,-19,Tlax
+29,Tlaxcala,6,05/12/2020,Lugares de trabajo,,MX-TLA,,15,Tlax
+29,Tlaxcala,6,06/12/2020,Lugares de trabajo,,MX-TLA,,18,Tlax
 30,Veracruz,1,15/02/2020,Supermercados y farmacias,,MX-VER,,6,Ver
 30,Veracruz,1,16/02/2020,Supermercados y farmacias,,MX-VER,,6,Ver
 30,Veracruz,1,17/02/2020,Supermercados y farmacias,,MX-VER,,3,Ver
@@ -53213,6 +53573,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 30,Veracruz,1,02/12/2020,Supermercados y farmacias,,MX-VER,,1,Ver
 30,Veracruz,1,03/12/2020,Supermercados y farmacias,,MX-VER,,-1,Ver
 30,Veracruz,1,04/12/2020,Supermercados y farmacias,,MX-VER,,1,Ver
+30,Veracruz,1,05/12/2020,Supermercados y farmacias,,MX-VER,,5,Ver
+30,Veracruz,1,06/12/2020,Supermercados y farmacias,,MX-VER,,-1,Ver
 30,Veracruz,2,15/02/2020,Parques,,MX-VER,,11,Ver
 30,Veracruz,2,16/02/2020,Parques,,MX-VER,,7,Ver
 30,Veracruz,2,17/02/2020,Parques,,MX-VER,,1,Ver
@@ -53507,6 +53869,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 30,Veracruz,2,02/12/2020,Parques,,MX-VER,,-35,Ver
 30,Veracruz,2,03/12/2020,Parques,,MX-VER,,-39,Ver
 30,Veracruz,2,04/12/2020,Parques,,MX-VER,,-41,Ver
+30,Veracruz,2,05/12/2020,Parques,,MX-VER,,-30,Ver
+30,Veracruz,2,06/12/2020,Parques,,MX-VER,,-41,Ver
 30,Veracruz,3,15/02/2020,Transporte público,,MX-VER,,5,Ver
 30,Veracruz,3,16/02/2020,Transporte público,,MX-VER,,13,Ver
 30,Veracruz,3,17/02/2020,Transporte público,,MX-VER,,8,Ver
@@ -53801,6 +54165,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 30,Veracruz,3,02/12/2020,Transporte público,,MX-VER,,-32,Ver
 30,Veracruz,3,03/12/2020,Transporte público,,MX-VER,,-36,Ver
 30,Veracruz,3,04/12/2020,Transporte público,,MX-VER,,-38,Ver
+30,Veracruz,3,05/12/2020,Transporte público,,MX-VER,,-35,Ver
+30,Veracruz,3,06/12/2020,Transporte público,,MX-VER,,-36,Ver
 30,Veracruz,4,15/02/2020,Centros comerciales y otros,,MX-VER,,5,Ver
 30,Veracruz,4,16/02/2020,Centros comerciales y otros,,MX-VER,,8,Ver
 30,Veracruz,4,17/02/2020,Centros comerciales y otros,,MX-VER,,1,Ver
@@ -54095,6 +54461,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 30,Veracruz,4,02/12/2020,Centros comerciales y otros,,MX-VER,,-18,Ver
 30,Veracruz,4,03/12/2020,Centros comerciales y otros,,MX-VER,,-21,Ver
 30,Veracruz,4,04/12/2020,Centros comerciales y otros,,MX-VER,,-24,Ver
+30,Veracruz,4,05/12/2020,Centros comerciales y otros,,MX-VER,,-20,Ver
+30,Veracruz,4,06/12/2020,Centros comerciales y otros,,MX-VER,,-23,Ver
 30,Veracruz,5,15/02/2020,Residencias,,MX-VER,,-1,Ver
 30,Veracruz,5,16/02/2020,Residencias,,MX-VER,,-1,Ver
 30,Veracruz,5,17/02/2020,Residencias,,MX-VER,,-3,Ver
@@ -54389,6 +54757,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 30,Veracruz,5,02/12/2020,Residencias,,MX-VER,,9,Ver
 30,Veracruz,5,03/12/2020,Residencias,,MX-VER,,10,Ver
 30,Veracruz,5,04/12/2020,Residencias,,MX-VER,,11,Ver
+30,Veracruz,5,05/12/2020,Residencias,,MX-VER,,6,Ver
+30,Veracruz,5,06/12/2020,Residencias,,MX-VER,,6,Ver
 30,Veracruz,6,15/02/2020,Lugares de trabajo,,MX-VER,,4,Ver
 30,Veracruz,6,16/02/2020,Lugares de trabajo,,MX-VER,,2,Ver
 30,Veracruz,6,17/02/2020,Lugares de trabajo,,MX-VER,,18,Ver
@@ -54683,6 +55053,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 30,Veracruz,6,02/12/2020,Lugares de trabajo,,MX-VER,,-22,Ver
 30,Veracruz,6,03/12/2020,Lugares de trabajo,,MX-VER,,-24,Ver
 30,Veracruz,6,04/12/2020,Lugares de trabajo,,MX-VER,,-21,Ver
+30,Veracruz,6,05/12/2020,Lugares de trabajo,,MX-VER,,2,Ver
+30,Veracruz,6,06/12/2020,Lugares de trabajo,,MX-VER,,3,Ver
 31,Yucatán,1,15/02/2020,Supermercados y farmacias,,MX-YUC,,7,Yuc
 31,Yucatán,1,16/02/2020,Supermercados y farmacias,,MX-YUC,,4,Yuc
 31,Yucatán,1,17/02/2020,Supermercados y farmacias,,MX-YUC,,6,Yuc
@@ -54977,6 +55349,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 31,Yucatán,1,02/12/2020,Supermercados y farmacias,,MX-YUC,,-8,Yuc
 31,Yucatán,1,03/12/2020,Supermercados y farmacias,,MX-YUC,,-11,Yuc
 31,Yucatán,1,04/12/2020,Supermercados y farmacias,,MX-YUC,,-8,Yuc
+31,Yucatán,1,05/12/2020,Supermercados y farmacias,,MX-YUC,,-8,Yuc
+31,Yucatán,1,06/12/2020,Supermercados y farmacias,,MX-YUC,,-16,Yuc
 31,Yucatán,2,15/02/2020,Parques,,MX-YUC,,5,Yuc
 31,Yucatán,2,16/02/2020,Parques,,MX-YUC,,-1,Yuc
 31,Yucatán,2,17/02/2020,Parques,,MX-YUC,,2,Yuc
@@ -55271,6 +55645,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 31,Yucatán,2,02/12/2020,Parques,,MX-YUC,,-40,Yuc
 31,Yucatán,2,03/12/2020,Parques,,MX-YUC,,-45,Yuc
 31,Yucatán,2,04/12/2020,Parques,,MX-YUC,,-42,Yuc
+31,Yucatán,2,05/12/2020,Parques,,MX-YUC,,-43,Yuc
+31,Yucatán,2,06/12/2020,Parques,,MX-YUC,,-52,Yuc
 31,Yucatán,3,15/02/2020,Transporte público,,MX-YUC,,-2,Yuc
 31,Yucatán,3,16/02/2020,Transporte público,,MX-YUC,,-2,Yuc
 31,Yucatán,3,17/02/2020,Transporte público,,MX-YUC,,8,Yuc
@@ -55565,6 +55941,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 31,Yucatán,3,02/12/2020,Transporte público,,MX-YUC,,-52,Yuc
 31,Yucatán,3,03/12/2020,Transporte público,,MX-YUC,,-53,Yuc
 31,Yucatán,3,04/12/2020,Transporte público,,MX-YUC,,-51,Yuc
+31,Yucatán,3,05/12/2020,Transporte público,,MX-YUC,,-53,Yuc
+31,Yucatán,3,06/12/2020,Transporte público,,MX-YUC,,-51,Yuc
 31,Yucatán,4,15/02/2020,Centros comerciales y otros,,MX-YUC,,5,Yuc
 31,Yucatán,4,16/02/2020,Centros comerciales y otros,,MX-YUC,,2,Yuc
 31,Yucatán,4,17/02/2020,Centros comerciales y otros,,MX-YUC,,2,Yuc
@@ -55859,6 +56237,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 31,Yucatán,4,02/12/2020,Centros comerciales y otros,,MX-YUC,,-28,Yuc
 31,Yucatán,4,03/12/2020,Centros comerciales y otros,,MX-YUC,,-29,Yuc
 31,Yucatán,4,04/12/2020,Centros comerciales y otros,,MX-YUC,,-32,Yuc
+31,Yucatán,4,05/12/2020,Centros comerciales y otros,,MX-YUC,,-33,Yuc
+31,Yucatán,4,06/12/2020,Centros comerciales y otros,,MX-YUC,,-39,Yuc
 31,Yucatán,5,15/02/2020,Residencias,,MX-YUC,,-2,Yuc
 31,Yucatán,5,16/02/2020,Residencias,,MX-YUC,,-1,Yuc
 31,Yucatán,5,17/02/2020,Residencias,,MX-YUC,,-3,Yuc
@@ -56153,6 +56533,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 31,Yucatán,5,02/12/2020,Residencias,,MX-YUC,,13,Yuc
 31,Yucatán,5,03/12/2020,Residencias,,MX-YUC,,15,Yuc
 31,Yucatán,5,04/12/2020,Residencias,,MX-YUC,,13,Yuc
+31,Yucatán,5,05/12/2020,Residencias,,MX-YUC,,8,Yuc
+31,Yucatán,5,06/12/2020,Residencias,,MX-YUC,,8,Yuc
 31,Yucatán,6,15/02/2020,Lugares de trabajo,,MX-YUC,,5,Yuc
 31,Yucatán,6,16/02/2020,Lugares de trabajo,,MX-YUC,,1,Yuc
 31,Yucatán,6,17/02/2020,Lugares de trabajo,,MX-YUC,,10,Yuc
@@ -56447,6 +56829,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 31,Yucatán,6,02/12/2020,Lugares de trabajo,,MX-YUC,,-24,Yuc
 31,Yucatán,6,03/12/2020,Lugares de trabajo,,MX-YUC,,-26,Yuc
 31,Yucatán,6,04/12/2020,Lugares de trabajo,,MX-YUC,,-22,Yuc
+31,Yucatán,6,05/12/2020,Lugares de trabajo,,MX-YUC,,-2,Yuc
+31,Yucatán,6,06/12/2020,Lugares de trabajo,,MX-YUC,,9,Yuc
 32,Zacatecas,1,15/02/2020,Supermercados y farmacias,,MX-ZAC,,-1,Zac
 32,Zacatecas,1,16/02/2020,Supermercados y farmacias,,MX-ZAC,,2,Zac
 32,Zacatecas,1,17/02/2020,Supermercados y farmacias,,MX-ZAC,,-2,Zac
@@ -56741,6 +57125,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 32,Zacatecas,1,02/12/2020,Supermercados y farmacias,,MX-ZAC,,-2,Zac
 32,Zacatecas,1,03/12/2020,Supermercados y farmacias,,MX-ZAC,,-4,Zac
 32,Zacatecas,1,04/12/2020,Supermercados y farmacias,,MX-ZAC,,-9,Zac
+32,Zacatecas,1,05/12/2020,Supermercados y farmacias,,MX-ZAC,,-2,Zac
+32,Zacatecas,1,06/12/2020,Supermercados y farmacias,,MX-ZAC,,-5,Zac
 32,Zacatecas,2,15/02/2020,Parques,,MX-ZAC,,2,Zac
 32,Zacatecas,2,16/02/2020,Parques,,MX-ZAC,,12,Zac
 32,Zacatecas,2,17/02/2020,Parques,,MX-ZAC,,-2,Zac
@@ -57035,6 +57421,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 32,Zacatecas,2,02/12/2020,Parques,,MX-ZAC,,-45,Zac
 32,Zacatecas,2,03/12/2020,Parques,,MX-ZAC,,-47,Zac
 32,Zacatecas,2,04/12/2020,Parques,,MX-ZAC,,-52,Zac
+32,Zacatecas,2,05/12/2020,Parques,,MX-ZAC,,-41,Zac
+32,Zacatecas,2,06/12/2020,Parques,,MX-ZAC,,-42,Zac
 32,Zacatecas,3,15/02/2020,Transporte público,,MX-ZAC,,1,Zac
 32,Zacatecas,3,16/02/2020,Transporte público,,MX-ZAC,,3,Zac
 32,Zacatecas,3,17/02/2020,Transporte público,,MX-ZAC,,-1,Zac
@@ -57329,6 +57717,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 32,Zacatecas,3,02/12/2020,Transporte público,,MX-ZAC,,-32,Zac
 32,Zacatecas,3,03/12/2020,Transporte público,,MX-ZAC,,-34,Zac
 32,Zacatecas,3,04/12/2020,Transporte público,,MX-ZAC,,-36,Zac
+32,Zacatecas,3,05/12/2020,Transporte público,,MX-ZAC,,-32,Zac
+32,Zacatecas,3,06/12/2020,Transporte público,,MX-ZAC,,-34,Zac
 32,Zacatecas,4,15/02/2020,Centros comerciales y otros,,MX-ZAC,,1,Zac
 32,Zacatecas,4,16/02/2020,Centros comerciales y otros,,MX-ZAC,,4,Zac
 32,Zacatecas,4,17/02/2020,Centros comerciales y otros,,MX-ZAC,,-3,Zac
@@ -57623,6 +58013,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 32,Zacatecas,4,02/12/2020,Centros comerciales y otros,,MX-ZAC,,-31,Zac
 32,Zacatecas,4,03/12/2020,Centros comerciales y otros,,MX-ZAC,,-32,Zac
 32,Zacatecas,4,04/12/2020,Centros comerciales y otros,,MX-ZAC,,-38,Zac
+32,Zacatecas,4,05/12/2020,Centros comerciales y otros,,MX-ZAC,,-33,Zac
+32,Zacatecas,4,06/12/2020,Centros comerciales y otros,,MX-ZAC,,-32,Zac
 32,Zacatecas,5,15/02/2020,Residencias,,MX-ZAC,,-1,Zac
 32,Zacatecas,5,16/02/2020,Residencias,,MX-ZAC,,-1,Zac
 32,Zacatecas,5,17/02/2020,Residencias,,MX-ZAC,,-2,Zac
@@ -57917,6 +58309,8 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 32,Zacatecas,5,02/12/2020,Residencias,,MX-ZAC,,10,Zac
 32,Zacatecas,5,03/12/2020,Residencias,,MX-ZAC,,10,Zac
 32,Zacatecas,5,04/12/2020,Residencias,,MX-ZAC,,11,Zac
+32,Zacatecas,5,05/12/2020,Residencias,,MX-ZAC,,6,Zac
+32,Zacatecas,5,06/12/2020,Residencias,,MX-ZAC,,6,Zac
 32,Zacatecas,6,15/02/2020,Lugares de trabajo,,MX-ZAC,,2,Zac
 32,Zacatecas,6,16/02/2020,Lugares de trabajo,,MX-ZAC,,2,Zac
 32,Zacatecas,6,17/02/2020,Lugares de trabajo,,MX-ZAC,,18,Zac
@@ -58211,3 +58605,5 @@ CVE,Entidad,CVE_tipo,Periodo,Tipo,metro_area,iso_3166_2_code,census_fips_code,Ca
 32,Zacatecas,6,02/12/2020,Lugares de trabajo,,MX-ZAC,,-27,Zac
 32,Zacatecas,6,03/12/2020,Lugares de trabajo,,MX-ZAC,,-29,Zac
 32,Zacatecas,6,04/12/2020,Lugares de trabajo,,MX-ZAC,,-25,Zac
+32,Zacatecas,6,05/12/2020,Lugares de trabajo,,MX-ZAC,,1,Zac
+32,Zacatecas,6,06/12/2020,Lugares de trabajo,,MX-ZAC,,2,Zac
