@@ -220,8 +220,6 @@ Afghanistan,09/27/2020,39227,1455,32642,Afghanistan,1
 Afghanistan,09/28/2020,39239,1458,32642,Afghanistan,1
 Afghanistan,09/29/2020,39254,1460,32746,Afghanistan,1
 Afghanistan,09/30/2020,39268,1460,32789,Afghanistan,1
-Afghanistan,10/01/2020,39285,1460,32842,Afghanistan,1
-Afghanistan,10/02/2020,39290,1460,32842,Afghanistan,1
 Afghanistan,10/03/2020,39297,1464,32842,Afghanistan,1
 Afghanistan,10/04/2020,39341,1464,32852,Afghanistan,1
 Afghanistan,10/05/2020,39422,1468,32879,Afghanistan,1
@@ -296,6 +294,8 @@ Afghanistan,12/12/2020,48229,1956,38200,Afghanistan,1
 Afghanistan,12/13/2020,48527,1965,38250,Afghanistan,1
 Afghanistan,12/14/2020,48718,1969,38252,Afghanistan,1
 Afghanistan,12/15/2020,48952,1995,38336,Afghanistan,1
+Afghanistan,12/16/2020,49161,2011,38475,Afghanistan,1
+Afghanistan,12/17/2020,49378,2025,38505,Afghanistan,1
 Albania,03/09/2020,2,0,0,Albania,1
 Albania,03/10/2020,10,0,0,Albania,1
 Albania,03/11/2020,12,1,0,Albania,1
@@ -502,8 +502,6 @@ Albania,09/27/2020,13259,377,7397,Albania,1
 Albania,09/28/2020,13391,380,7629,Albania,1
 Albania,09/29/2020,13518,384,7732,Albania,1
 Albania,09/30/2020,13649,387,7847,Albania,1
-Albania,10/01/2020,13806,388,8077,Albania,1
-Albania,10/02/2020,13965,389,8342,Albania,1
 Albania,10/03/2020,14117,392,8536,Albania,1
 Albania,10/04/2020,14266,396,8675,Albania,1
 Albania,10/05/2020,14410,400,8825,Albania,1
@@ -578,6 +576,8 @@ Albania,12/12/2020,47742,989,24520,Albania,1
 Albania,12/13/2020,48530,1003,24820,Albania,1
 Albania,12/14/2020,49191,1016,24820,Albania,1
 Albania,12/15/2020,50000,1028,25876,Albania,1
+Albania,12/16/2020,50637,1040,26381,Albania,1
+Albania,12/17/2020,51424,1055,26898,Albania,1
 Algeria,02/25/2020,1,0,0,Algeria,1
 Algeria,02/26/2020,1,0,0,Algeria,1
 Algeria,02/27/2020,1,0,0,Algeria,1
@@ -797,8 +797,6 @@ Algeria,09/27/2020,51067,1714,35860,Algeria,1
 Algeria,09/28/2020,51213,1719,35962,Algeria,1
 Algeria,09/29/2020,51368,1726,36063,Algeria,1
 Algeria,09/30/2020,51530,1736,36174,Algeria,1
-Algeria,10/01/2020,51690,1741,36282,Algeria,1
-Algeria,10/02/2020,51847,1749,36385,Algeria,1
 Algeria,10/03/2020,51995,1756,36482,Algeria,1
 Algeria,10/04/2020,52136,1760,36578,Algeria,1
 Algeria,10/05/2020,52270,1768,36672,Algeria,1
@@ -873,6 +871,8 @@ Algeria,12/12/2020,91638,2584,60028,Algeria,1
 Algeria,12/13/2020,92102,2596,60457,Algeria,1
 Algeria,12/14/2020,92597,2609,60888,Algeria,1
 Algeria,12/15/2020,93065,2623,61307,Algeria,1
+Algeria,12/16/2020,93507,2631,61700,Algeria,1
+Algeria,12/17/2020,93933,2640,62089,Algeria,1
 Andorra,03/02/2020,1,0,0,Andorra,1
 Andorra,03/03/2020,1,0,0,Andorra,1
 Andorra,03/04/2020,1,0,0,Andorra,1
@@ -1086,8 +1086,6 @@ Andorra,09/27/2020,1836,53,1263,Andorra,1
 Andorra,09/28/2020,1966,53,1265,Andorra,1
 Andorra,09/29/2020,1966,53,1265,Andorra,1
 Andorra,09/30/2020,2050,53,1432,Andorra,1
-Andorra,10/01/2020,2050,53,1432,Andorra,1
-Andorra,10/02/2020,2110,53,1540,Andorra,1
 Andorra,10/03/2020,2110,53,1540,Andorra,1
 Andorra,10/04/2020,2110,53,1540,Andorra,1
 Andorra,10/05/2020,2370,53,1615,Andorra,1
@@ -1162,6 +1160,8 @@ Andorra,12/12/2020,7288,78,6629,Andorra,1
 Andorra,12/13/2020,7338,79,6629,Andorra,1
 Andorra,12/14/2020,7382,79,6706,Andorra,1
 Andorra,12/15/2020,7382,79,6706,Andorra,1
+Andorra,12/16/2020,7446,79,6819,Andorra,1
+Andorra,12/17/2020,7466,79,6875,Andorra,1
 Angola,03/20/2020,1,0,0,Angola,1
 Angola,03/21/2020,2,0,0,Angola,1
 Angola,03/22/2020,2,0,0,Angola,1
@@ -1357,8 +1357,6 @@ Angola,09/27/2020,4718,174,1707,Angola,1
 Angola,09/28/2020,4797,176,1813,Angola,1
 Angola,09/29/2020,4905,179,1833,Angola,1
 Angola,09/30/2020,4972,183,1941,Angola,1
-Angola,10/01/2020,5114,185,2082,Angola,1
-Angola,10/02/2020,5211,189,2215,Angola,1
 Angola,10/03/2020,5370,193,2436,Angola,1
 Angola,10/04/2020,5402,195,2577,Angola,1
 Angola,10/05/2020,5530,199,2591,Angola,1
@@ -1433,6 +1431,8 @@ Angola,12/12/2020,16161,366,8841,Angola,1
 Angola,12/13/2020,16188,371,8898,Angola,1
 Angola,12/14/2020,16277,372,8924,Angola,1
 Angola,12/15/2020,16362,372,8990,Angola,1
+Angola,12/16/2020,16407,379,9194,Angola,1
+Angola,12/17/2020,16484,382,9266,Angola,1
 Antigua and Barbuda,03/13/2020,1,0,0,Antigua and Barbuda,1
 Antigua and Barbuda,03/14/2020,1,0,0,Antigua and Barbuda,1
 Antigua and Barbuda,03/15/2020,1,0,0,Antigua and Barbuda,1
@@ -1635,8 +1635,6 @@ Antigua and Barbuda,09/27/2020,101,3,92,Antigua and Barbuda,1
 Antigua and Barbuda,09/28/2020,101,3,92,Antigua and Barbuda,1
 Antigua and Barbuda,09/29/2020,101,3,92,Antigua and Barbuda,1
 Antigua and Barbuda,09/30/2020,101,3,92,Antigua and Barbuda,1
-Antigua and Barbuda,10/01/2020,101,3,92,Antigua and Barbuda,1
-Antigua and Barbuda,10/02/2020,106,3,94,Antigua and Barbuda,1
 Antigua and Barbuda,10/03/2020,107,3,96,Antigua and Barbuda,1
 Antigua and Barbuda,10/04/2020,107,3,96,Antigua and Barbuda,1
 Antigua and Barbuda,10/05/2020,107,3,96,Antigua and Barbuda,1
@@ -1711,6 +1709,8 @@ Antigua and Barbuda,12/12/2020,148,4,138,Antigua and Barbuda,1
 Antigua and Barbuda,12/13/2020,148,5,138,Antigua and Barbuda,1
 Antigua and Barbuda,12/14/2020,148,5,138,Antigua and Barbuda,1
 Antigua and Barbuda,12/15/2020,148,5,138,Antigua and Barbuda,1
+Antigua and Barbuda,12/16/2020,151,5,141,Antigua and Barbuda,1
+Antigua and Barbuda,12/17/2020,151,5,141,Antigua and Barbuda,1
 Argentina,03/03/2020,1,0,0,Argentina,1
 Argentina,03/04/2020,1,0,0,Argentina,1
 Argentina,03/05/2020,1,0,0,Argentina,1
@@ -1923,8 +1923,6 @@ Argentina,09/27/2020,711325,15749,565935,Argentina,1
 Argentina,09/28/2020,723132,16113,576715,Argentina,1
 Argentina,09/29/2020,736609,16519,585857,Argentina,1
 Argentina,09/30/2020,751001,16937,594645,Argentina,1
-Argentina,10/01/2020,765002,20288,603140,Argentina,1
-Argentina,10/02/2020,779689,20599,614515,Argentina,1
 Argentina,10/03/2020,790818,20795,626114,Argentina,1
 Argentina,10/04/2020,798486,21018,636672,Argentina,1
 Argentina,10/05/2020,809728,21468,649017,Argentina,1
@@ -1999,6 +1997,8 @@ Argentina,12/12/2020,1494602,40668,1330160,Argentina,1
 Argentina,12/13/2020,1498160,40766,1335317,Argentina,1
 Argentina,12/14/2020,1503222,41041,1340120,Argentina,1
 Argentina,12/15/2020,1510203,41204,1344300,Argentina,1
+Argentina,12/16/2020,1517046,41365,1347914,Argentina,1
+Argentina,12/17/2020,1524372,41534,1352556,Argentina,1
 Armenia,03/01/2020,1,0,0,Armenia,1
 Armenia,03/02/2020,1,0,0,Armenia,1
 Armenia,03/03/2020,1,0,0,Armenia,1
@@ -2213,8 +2213,6 @@ Armenia,09/27/2020,49400,951,43613,Armenia,1
 Armenia,09/28/2020,49574,957,43665,Armenia,1
 Armenia,09/29/2020,49901,958,43849,Armenia,1
 Armenia,09/30/2020,50359,959,44001,Armenia,1
-Armenia,10/01/2020,50850,963,44219,Armenia,1
-Armenia,10/02/2020,51382,966,44406,Armenia,1
 Armenia,10/03/2020,51925,972,44583,Armenia,1
 Armenia,10/04/2020,52496,977,44672,Armenia,1
 Armenia,10/05/2020,52677,984,44710,Armenia,1
@@ -2289,6 +2287,8 @@ Armenia,12/12/2020,147312,2462,124521,Armenia,1
 Armenia,12/13/2020,148325,2486,125169,Armenia,1
 Armenia,12/14/2020,148682,2503,125966,Armenia,1
 Armenia,12/15/2020,149120,2529,127452,Armenia,1
+Armenia,12/16/2020,150218,2556,128694,Armenia,1
+Armenia,12/17/2020,151392,2581,129990,Armenia,1
 Aruba,03/13/2020,2,0,0,Aruba,1
 Aruba,03/14/2020,2,0,0,Aruba,1
 Aruba,03/15/2020,2,0,0,Aruba,1
@@ -2296,7 +2296,6 @@ Aruba,03/16/2020,2,0,0,Aruba,1
 Aruba,03/17/2020,3,0,0,Aruba,1
 Aruba,03/18/2020,4,0,0,Aruba,1
 Aruba,03/19/2020,4,0,0,Aruba,1
-Australia,01/23/2020,0,0,0,Australia,1
 Australia,01/25/2020,4,0,0,Australia,1
 Australia,01/26/2020,4,0,0,Australia,1
 Australia,01/27/2020,5,0,0,Australia,1
@@ -2547,8 +2546,6 @@ Australia,09/27/2020,27044,875,24633,Australia,1
 Australia,09/28/2020,27055,882,24681,Australia,1
 Australia,09/29/2020,27078,886,24752,Australia,1
 Australia,09/30/2020,27096,888,24784,Australia,1
-Australia,10/01/2020,27109,890,24788,Australia,1
-Australia,10/02/2020,27121,893,24850,Australia,1
 Australia,10/03/2020,27135,894,24866,Australia,1
 Australia,10/04/2020,27148,894,24890,Australia,1
 Australia,10/05/2020,27173,895,24892,Australia,1
@@ -2623,6 +2620,8 @@ Australia,12/12/2020,28030,908,25675,Australia,1
 Australia,12/13/2020,28037,908,25676,Australia,1
 Australia,12/14/2020,28048,908,25689,Australia,1
 Australia,12/15/2020,28060,908,25690,Australia,1
+Australia,12/16/2020,28072,908,25696,Australia,1
+Australia,12/17/2020,28093,908,25699,Australia,1
 Austria,02/25/2020,2,0,0,Austria,1
 Austria,02/26/2020,2,0,0,Austria,1
 Austria,02/27/2020,3,0,0,Austria,1
@@ -2842,8 +2841,6 @@ Austria,09/27/2020,42876,787,33589,Austria,1
 Austria,09/28/2020,43432,790,34052,Austria,1
 Austria,09/29/2020,44041,796,34916,Austria,1
 Austria,09/30/2020,44813,799,35644,Austria,1
-Austria,10/01/2020,45686,802,36476,Austria,1
-Austria,10/02/2020,46374,803,37186,Austria,1
 Austria,10/03/2020,47432,809,38045,Austria,1
 Austria,10/04/2020,48146,813,38629,Austria,1
 Austria,10/05/2020,48896,818,39058,Austria,1
@@ -2918,6 +2915,8 @@ Austria,12/12/2020,319822,4415,277883,Austria,1
 Austria,12/13/2020,322463,4473,281106,Austria,1
 Austria,12/14/2020,325051,4530,284174,Austria,1
 Austria,12/15/2020,327679,4648,287750,Austria,1
+Austria,12/16/2020,330343,4764,291042,Austria,1
+Austria,12/17/2020,332828,4982,294315,Austria,1
 Azerbaijan,03/01/2020,3,0,0,Azerbaijan,1
 Azerbaijan,03/02/2020,3,0,0,Azerbaijan,1
 Azerbaijan,03/03/2020,3,0,0,Azerbaijan,1
@@ -3132,8 +3131,6 @@ Azerbaijan,09/27/2020,40023,586,37655,Azerbaijan,1
 Azerbaijan,09/28/2020,40061,588,37725,Azerbaijan,1
 Azerbaijan,09/29/2020,40119,590,37827,Azerbaijan,1
 Azerbaijan,09/30/2020,40229,591,37954,Azerbaijan,1
-Azerbaijan,10/01/2020,40309,593,38068,Azerbaijan,1
-Azerbaijan,10/02/2020,40453,594,38217,Azerbaijan,1
 Azerbaijan,10/03/2020,40561,595,38354,Azerbaijan,1
 Azerbaijan,10/04/2020,40691,596,38496,Azerbaijan,1
 Azerbaijan,10/05/2020,40788,598,38587,Azerbaijan,1
@@ -3208,6 +3205,8 @@ Azerbaijan,12/12/2020,171423,1883,107635,Azerbaijan,1
 Azerbaijan,12/13/2020,175874,1922,111918,Azerbaijan,1
 Azerbaijan,12/14/2020,178986,1966,114841,Azerbaijan,1
 Azerbaijan,12/15/2020,183259,2007,119005,Azerbaijan,1
+Azerbaijan,12/16/2020,187336,2050,122859,Azerbaijan,1
+Azerbaijan,12/17/2020,191460,2088,127064,Azerbaijan,1
 Bahamas,03/22/2020,4,0,0,Bahamas,1
 Bahamas,03/23/2020,4,0,0,Bahamas,1
 Bahamas,03/24/2020,5,0,1,Bahamas,1
@@ -3401,8 +3400,6 @@ Bahamas,09/27/2020,3838,89,2005,Bahamas,1
 Bahamas,09/28/2020,3838,89,2005,Bahamas,1
 Bahamas,09/29/2020,3903,91,2072,Bahamas,1
 Bahamas,09/30/2020,4123,96,2206,Bahamas,1
-Bahamas,10/01/2020,4123,96,2206,Bahamas,1
-Bahamas,10/02/2020,4220,96,2290,Bahamas,1
 Bahamas,10/03/2020,4332,96,2375,Bahamas,1
 Bahamas,10/04/2020,4409,96,2375,Bahamas,1
 Bahamas,10/05/2020,4452,96,2375,Bahamas,1
@@ -3477,6 +3474,8 @@ Bahamas,12/12/2020,7648,163,6043,Bahamas,1
 Bahamas,12/13/2020,7659,163,6069,Bahamas,1
 Bahamas,12/14/2020,7674,163,6070,Bahamas,1
 Bahamas,12/15/2020,7698,164,6081,Bahamas,1
+Bahamas,12/16/2020,7714,164,6087,Bahamas,1
+Bahamas,12/17/2020,7725,164,6098,Bahamas,1
 "Bahamas, The",03/19/2020,3,0,0,"Bahamas, The",1
 "Bahamas, The",03/20/2020,3,0,0,"Bahamas, The",1
 "Bahamas, The",03/21/2020,4,0,0,"Bahamas, The",1
@@ -3700,8 +3699,6 @@ Bahrain,09/27/2020,69361,242,62887,Bahrain,1
 Bahrain,09/28/2020,69848,245,63549,Bahrain,1
 Bahrain,09/29/2020,70422,246,64267,Bahrain,1
 Bahrain,09/30/2020,70864,251,64838,Bahrain,1
-Bahrain,10/01/2020,71374,254,65550,Bahrain,1
-Bahrain,10/02/2020,71803,255,66184,Bahrain,1
 Bahrain,10/03/2020,72310,258,66813,Bahrain,1
 Bahrain,10/04/2020,72662,260,67475,Bahrain,1
 Bahrain,10/05/2020,73116,261,67933,Bahrain,1
@@ -3776,6 +3773,8 @@ Bahrain,12/12/2020,88965,348,87025,Bahrain,1
 Bahrain,12/13/2020,89143,348,87182,Bahrain,1
 Bahrain,12/14/2020,89268,348,87332,Bahrain,1
 Bahrain,12/15/2020,89444,348,87490,Bahrain,1
+Bahrain,12/16/2020,89600,349,87690,Bahrain,1
+Bahrain,12/17/2020,89743,349,87846,Bahrain,1
 Bangladesh,03/08/2020,3,0,0,Bangladesh,1
 Bangladesh,03/09/2020,3,0,0,Bangladesh,1
 Bangladesh,03/10/2020,3,0,0,Bangladesh,1
@@ -3983,8 +3982,6 @@ Bangladesh,09/27/2020,359148,5161,270491,Bangladesh,1
 Bangladesh,09/28/2020,360555,5193,272073,Bangladesh,1
 Bangladesh,09/29/2020,362043,5219,273698,Bangladesh,1
 Bangladesh,09/30/2020,363479,5251,275487,Bangladesh,1
-Bangladesh,10/01/2020,364987,5272,277078,Bangladesh,1
-Bangladesh,10/02/2020,366383,5305,278627,Bangladesh,1
 Bangladesh,10/03/2020,367565,5325,280069,Bangladesh,1
 Bangladesh,10/04/2020,368690,5348,281656,Bangladesh,1
 Bangladesh,10/05/2020,370132,5375,283182,Bangladesh,1
@@ -4059,6 +4056,8 @@ Bangladesh,12/12/2020,489178,7020,417503,Bangladesh,1
 Bangladesh,12/13/2020,490533,7052,420896,Bangladesh,1
 Bangladesh,12/14/2020,492332,7089,423845,Bangladesh,1
 Bangladesh,12/15/2020,494209,7129,426729,Bangladesh,1
+Bangladesh,12/16/2020,495841,7156,429351,Bangladesh,1
+Bangladesh,12/17/2020,496975,7192,431590,Bangladesh,1
 Barbados,03/17/2020,2,0,0,Barbados,1
 Barbados,03/18/2020,2,0,0,Barbados,1
 Barbados,03/19/2020,5,0,0,Barbados,1
@@ -4257,8 +4256,6 @@ Barbados,09/27/2020,190,7,178,Barbados,1
 Barbados,09/28/2020,190,7,178,Barbados,1
 Barbados,09/29/2020,190,7,178,Barbados,1
 Barbados,09/30/2020,190,7,179,Barbados,1
-Barbados,10/01/2020,193,7,179,Barbados,1
-Barbados,10/02/2020,193,7,179,Barbados,1
 Barbados,10/03/2020,196,7,182,Barbados,1
 Barbados,10/04/2020,199,7,182,Barbados,1
 Barbados,10/05/2020,200,7,182,Barbados,1
@@ -4333,6 +4330,8 @@ Barbados,12/12/2020,292,7,269,Barbados,1
 Barbados,12/13/2020,292,7,269,Barbados,1
 Barbados,12/14/2020,296,7,272,Barbados,1
 Barbados,12/15/2020,297,7,273,Barbados,1
+Barbados,12/16/2020,301,7,274,Barbados,1
+Barbados,12/17/2020,305,7,278,Barbados,1
 Belarus,02/28/2020,1,0,0,Belarus,1
 Belarus,02/29/2020,1,0,0,Belarus,1
 Belarus,03/01/2020,1,0,0,Belarus,1
@@ -4549,8 +4548,6 @@ Belarus,09/27/2020,77609,818,74120,Belarus,1
 Belarus,09/28/2020,77946,822,74167,Belarus,1
 Belarus,09/29/2020,78260,828,74320,Belarus,1
 Belarus,09/30/2020,78631,833,74525,Belarus,1
-Belarus,10/01/2020,79019,839,74777,Belarus,1
-Belarus,10/02/2020,79421,844,74982,Belarus,1
 Belarus,10/03/2020,79852,851,75148,Belarus,1
 Belarus,10/04/2020,79852,851,75148,Belarus,1
 Belarus,10/05/2020,80696,862,75303,Belarus,1
@@ -4625,6 +4622,8 @@ Belarus,12/12/2020,158334,1254,135922,Belarus,1
 Belarus,12/13/2020,160295,1263,138464,Belarus,1
 Belarus,12/14/2020,162148,1273,139785,Belarus,1
 Belarus,12/15/2020,164059,1282,141443,Belarus,1
+Belarus,12/16/2020,165897,1291,143373,Belarus,1
+Belarus,12/17/2020,167731,1299,145397,Belarus,1
 Belgium,02/04/2020,1,0,0,Belgium,1
 Belgium,02/05/2020,1,0,0,Belgium,1
 Belgium,02/06/2020,1,0,0,Belgium,1
@@ -4865,8 +4864,6 @@ Belgium,09/27/2020,114179,9980,19275,Belgium,1
 Belgium,09/28/2020,115353,9987,19301,Belgium,1
 Belgium,09/29/2020,117115,10001,19386,Belgium,1
 Belgium,09/30/2020,118452,10016,19454,Belgium,1
-Belgium,10/01/2020,121059,10023,19521,Belgium,1
-Belgium,10/02/2020,124234,10037,19521,Belgium,1
 Belgium,10/03/2020,127623,10044,19645,Belgium,1
 Belgium,10/04/2020,130235,10064,19679,Belgium,1
 Belgium,10/05/2020,132203,10078,19712,Belgium,1
@@ -4941,6 +4938,8 @@ Belgium,12/12/2020,603159,17792,0,Belgium,1
 Belgium,12/13/2020,608137,17951,0,Belgium,1
 Belgium,12/14/2020,609211,18054,0,Belgium,1
 Belgium,12/15/2020,611422,18178,0,Belgium,1
+Belgium,12/16/2020,615058,18278,0,Belgium,1
+Belgium,12/17/2020,618204,18371,0,Belgium,1
 Belize,03/23/2020,1,0,0,Belize,1
 Belize,03/24/2020,1,0,0,Belize,1
 Belize,03/25/2020,2,0,0,Belize,1
@@ -5133,8 +5132,6 @@ Belize,09/27/2020,1825,24,1165,Belize,1
 Belize,09/28/2020,1891,24,1208,Belize,1
 Belize,09/29/2020,1891,24,1208,Belize,1
 Belize,09/30/2020,1992,27,1246,Belize,1
-Belize,10/01/2020,1992,27,1246,Belize,1
-Belize,10/02/2020,2080,28,1290,Belize,1
 Belize,10/03/2020,2080,28,1290,Belize,1
 Belize,10/04/2020,2131,29,1346,Belize,1
 Belize,10/05/2020,2196,30,1378,Belize,1
@@ -5209,6 +5206,8 @@ Belize,12/12/2020,9173,192,4279,Belize,1
 Belize,12/13/2020,9295,195,4321,Belize,1
 Belize,12/14/2020,9377,197,4414,Belize,1
 Belize,12/15/2020,9511,211,4514,Belize,1
+Belize,12/16/2020,9672,212,4628,Belize,1
+Belize,12/17/2020,9791,213,4779,Belize,1
 Benin,03/16/2020,1,0,0,Benin,1
 Benin,03/17/2020,1,0,0,Benin,1
 Benin,03/18/2020,2,0,0,Benin,1
@@ -5408,8 +5407,6 @@ Benin,09/27/2020,2340,40,1960,Benin,1
 Benin,09/28/2020,2340,40,1960,Benin,1
 Benin,09/29/2020,2340,40,1960,Benin,1
 Benin,09/30/2020,2357,41,1973,Benin,1
-Benin,10/01/2020,2357,41,1973,Benin,1
-Benin,10/02/2020,2357,41,1973,Benin,1
 Benin,10/03/2020,2357,41,1973,Benin,1
 Benin,10/04/2020,2357,41,1973,Benin,1
 Benin,10/05/2020,2357,41,1973,Benin,1
@@ -5484,6 +5481,8 @@ Benin,12/12/2020,3090,44,2972,Benin,1
 Benin,12/13/2020,3090,44,2972,Benin,1
 Benin,12/14/2020,3090,44,2972,Benin,1
 Benin,12/15/2020,3090,44,2972,Benin,1
+Benin,12/16/2020,3152,44,2972,Benin,1
+Benin,12/17/2020,3152,44,2972,Benin,1
 Bhutan,03/06/2020,1,0,0,Bhutan,1
 Bhutan,03/07/2020,1,0,0,Bhutan,1
 Bhutan,03/08/2020,1,0,0,Bhutan,1
@@ -5693,8 +5692,6 @@ Bhutan,09/27/2020,273,0,210,Bhutan,1
 Bhutan,09/28/2020,280,0,210,Bhutan,1
 Bhutan,09/29/2020,281,0,219,Bhutan,1
 Bhutan,09/30/2020,282,0,222,Bhutan,1
-Bhutan,10/01/2020,282,0,225,Bhutan,1
-Bhutan,10/02/2020,283,0,229,Bhutan,1
 Bhutan,10/03/2020,283,0,230,Bhutan,1
 Bhutan,10/04/2020,298,0,237,Bhutan,1
 Bhutan,10/05/2020,299,0,248,Bhutan,1
@@ -5769,6 +5766,8 @@ Bhutan,12/12/2020,437,0,400,Bhutan,1
 Bhutan,12/13/2020,438,0,403,Bhutan,1
 Bhutan,12/14/2020,438,0,404,Bhutan,1
 Bhutan,12/15/2020,439,0,408,Bhutan,1
+Bhutan,12/16/2020,440,0,409,Bhutan,1
+Bhutan,12/17/2020,440,0,409,Bhutan,1
 Bolivia,03/11/2020,2,0,0,Bolivia,1
 Bolivia,03/12/2020,2,0,0,Bolivia,1
 Bolivia,03/13/2020,3,0,0,Bolivia,1
@@ -5973,8 +5972,6 @@ Bolivia,09/27/2020,133901,7858,93791,Bolivia,1
 Bolivia,09/28/2020,134223,7900,94324,Bolivia,1
 Bolivia,09/29/2020,134641,7931,94895,Bolivia,1
 Bolivia,09/30/2020,135311,7965,95529,Bolivia,1
-Bolivia,10/01/2020,135716,8001,96165,Bolivia,1
-Bolivia,10/02/2020,136219,8045,96654,Bolivia,1
 Bolivia,10/03/2020,136569,8073,97105,Bolivia,1
 Bolivia,10/04/2020,136868,8101,97547,Bolivia,1
 Bolivia,10/05/2020,137107,8129,98007,Bolivia,1
@@ -6049,6 +6046,8 @@ Bolivia,12/12/2020,147030,9014,126092,Bolivia,1
 Bolivia,12/13/2020,147150,9018,126221,Bolivia,1
 Bolivia,12/14/2020,147345,9024,126439,Bolivia,1
 Bolivia,12/15/2020,147716,9026,126720,Bolivia,1
+Bolivia,12/16/2020,148214,9029,126950,Bolivia,1
+Bolivia,12/17/2020,148665,9031,127155,Bolivia,1
 Bosnia and Herzegovina,03/05/2020,2,0,0,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,03/06/2020,2,0,0,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,03/07/2020,3,0,0,Bosnia and Herzegovina,1
@@ -6259,8 +6258,6 @@ Bosnia and Herzegovina,09/27/2020,26920,822,19746,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,09/28/2020,27001,829,20005,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,09/29/2020,27226,843,20322,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,09/30/2020,27469,856,20616,Bosnia and Herzegovina,1
-Bosnia and Herzegovina,10/01/2020,27749,861,20947,Bosnia and Herzegovina,1
-Bosnia and Herzegovina,10/02/2020,27975,871,21108,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,10/03/2020,27975,871,21108,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,10/04/2020,28354,879,21859,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,10/05/2020,28449,888,22032,Bosnia and Herzegovina,1
@@ -6335,6 +6332,8 @@ Bosnia and Herzegovina,12/12/2020,100306,3298,65289,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,12/13/2020,101117,3336,65758,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,12/14/2020,101461,3391,66486,Bosnia and Herzegovina,1
 Bosnia and Herzegovina,12/15/2020,102330,3457,67649,Bosnia and Herzegovina,1
+Bosnia and Herzegovina,12/16/2020,103232,3511,68245,Bosnia and Herzegovina,1
+Bosnia and Herzegovina,12/17/2020,104087,3549,69495,Bosnia and Herzegovina,1
 Botswana,03/30/2020,3,0,0,Botswana,1
 Botswana,03/31/2020,4,1,0,Botswana,1
 Botswana,04/01/2020,4,1,0,Botswana,1
@@ -6520,8 +6519,6 @@ Botswana,09/27/2020,2921,16,701,Botswana,1
 Botswana,09/28/2020,3172,16,710,Botswana,1
 Botswana,09/29/2020,3172,16,710,Botswana,1
 Botswana,09/30/2020,3172,16,710,Botswana,1
-Botswana,10/01/2020,3172,16,710,Botswana,1
-Botswana,10/02/2020,3172,16,710,Botswana,1
 Botswana,10/03/2020,3172,16,710,Botswana,1
 Botswana,10/04/2020,3172,16,710,Botswana,1
 Botswana,10/05/2020,3172,16,710,Botswana,1
@@ -6596,7 +6593,8 @@ Botswana,12/12/2020,12501,37,9940,Botswana,1
 Botswana,12/13/2020,12501,37,9940,Botswana,1
 Botswana,12/14/2020,12873,38,10456,Botswana,1
 Botswana,12/15/2020,12873,38,10456,Botswana,1
-Brazil,01/23/2020,0,0,0,Brazil,1
+Botswana,12/16/2020,12873,38,10456,Botswana,1
+Botswana,12/17/2020,13014,38,10535,Botswana,1
 Brazil,02/26/2020,1,0,0,Brazil,1
 Brazil,02/27/2020,1,0,0,Brazil,1
 Brazil,02/28/2020,1,0,0,Brazil,1
@@ -6815,8 +6813,6 @@ Brazil,09/27/2020,4732309,141741,4172711,Brazil,1
 Brazil,09/28/2020,4745464,142058,4197372,Brazil,1
 Brazil,09/29/2020,4777522,142921,4237152,Brazil,1
 Brazil,09/30/2020,4810935,143952,4274774,Brazil,1
-Brazil,10/01/2020,4847092,144680,4299659,Brazil,1
-Brazil,10/02/2020,4847092,144680,4299659,Brazil,1
 Brazil,10/03/2020,4906833,145987,4361108,Brazil,1
 Brazil,10/04/2020,4915289,146352,4375354,Brazil,1
 Brazil,10/05/2020,4927235,146675,4397882,Brazil,1
@@ -6891,6 +6887,8 @@ Brazil,12/12/2020,6880127,181123,6078287,Brazil,1
 Brazil,12/13/2020,6901952,181402,6138349,Brazil,1
 Brazil,12/14/2020,6927145,181835,6158049,Brazil,1
 Brazil,12/15/2020,6970034,182799,6206483,Brazil,1
+Brazil,12/16/2020,7040608,183735,6239192,Brazil,1
+Brazil,12/17/2020,7110434,184827,6301547,Brazil,1
 Brunei,03/09/2020,1,0,0,Brunei,1
 Brunei,03/10/2020,1,0,0,Brunei,1
 Brunei,03/11/2020,11,0,0,Brunei,1
@@ -7097,8 +7095,6 @@ Brunei,09/27/2020,146,3,142,Brunei,1
 Brunei,09/28/2020,146,3,142,Brunei,1
 Brunei,09/29/2020,146,3,142,Brunei,1
 Brunei,09/30/2020,146,3,142,Brunei,1
-Brunei,10/01/2020,146,3,142,Brunei,1
-Brunei,10/02/2020,146,3,142,Brunei,1
 Brunei,10/03/2020,146,3,142,Brunei,1
 Brunei,10/04/2020,146,3,142,Brunei,1
 Brunei,10/05/2020,146,3,142,Brunei,1
@@ -7173,6 +7169,8 @@ Brunei,12/12/2020,152,3,147,Brunei,1
 Brunei,12/13/2020,152,3,147,Brunei,1
 Brunei,12/14/2020,152,3,147,Brunei,1
 Brunei,12/15/2020,152,3,147,Brunei,1
+Brunei,12/16/2020,152,3,148,Brunei,1
+Brunei,12/17/2020,152,3,148,Brunei,1
 Bulgaria,03/08/2020,4,0,0,Bulgaria,1
 Bulgaria,03/09/2020,4,0,0,Bulgaria,1
 Bulgaria,03/10/2020,4,0,0,Bulgaria,1
@@ -7380,8 +7378,6 @@ Bulgaria,09/27/2020,20055,796,14176,Bulgaria,1
 Bulgaria,09/28/2020,20271,807,14339,Bulgaria,1
 Bulgaria,09/29/2020,20547,813,14489,Bulgaria,1
 Bulgaria,09/30/2020,20833,825,14634,Bulgaria,1
-Bulgaria,10/01/2020,20833,825,14634,Bulgaria,1
-Bulgaria,10/02/2020,21336,838,14939,Bulgaria,1
 Bulgaria,10/03/2020,21518,841,14984,Bulgaria,1
 Bulgaria,10/04/2020,21587,844,15014,Bulgaria,1
 Bulgaria,10/05/2020,21870,854,15179,Bulgaria,1
@@ -7456,6 +7452,8 @@ Bulgaria,12/12/2020,178952,5626,81757,Bulgaria,1
 Bulgaria,12/13/2020,179449,5688,83720,Bulgaria,1
 Bulgaria,12/14/2020,181544,5838,85578,Bulgaria,1
 Bulgaria,12/15/2020,184287,6005,87935,Bulgaria,1
+Bulgaria,12/16/2020,186246,6196,90510,Bulgaria,1
+Bulgaria,12/17/2020,188288,6339,93728,Bulgaria,1
 Burkina Faso,03/10/2020,1,0,0,Burkina Faso,1
 Burkina Faso,03/11/2020,2,0,0,Burkina Faso,1
 Burkina Faso,03/12/2020,2,0,0,Burkina Faso,1
@@ -7661,8 +7659,6 @@ Burkina Faso,09/27/2020,2008,56,1276,Burkina Faso,1
 Burkina Faso,09/28/2020,2028,57,1279,Burkina Faso,1
 Burkina Faso,09/29/2020,2032,58,1309,Burkina Faso,1
 Burkina Faso,09/30/2020,2056,58,1335,Burkina Faso,1
-Burkina Faso,10/01/2020,2088,58,1363,Burkina Faso,1
-Burkina Faso,10/02/2020,2123,59,1385,Burkina Faso,1
 Burkina Faso,10/03/2020,2154,59,1397,Burkina Faso,1
 Burkina Faso,10/04/2020,2167,59,1419,Burkina Faso,1
 Burkina Faso,10/05/2020,2184,59,1420,Burkina Faso,1
@@ -7737,6 +7733,8 @@ Burkina Faso,12/12/2020,3894,71,2858,Burkina Faso,1
 Burkina Faso,12/13/2020,4030,71,2910,Burkina Faso,1
 Burkina Faso,12/14/2020,4209,71,2940,Burkina Faso,1
 Burkina Faso,12/15/2020,4300,73,2940,Burkina Faso,1
+Burkina Faso,12/16/2020,4449,73,3088,Burkina Faso,1
+Burkina Faso,12/17/2020,4611,73,3311,Burkina Faso,1
 Burma,03/27/2020,8,0,0,Burma,1
 Burma,03/28/2020,8,0,0,Burma,1
 Burma,03/29/2020,10,0,0,Burma,1
@@ -7925,8 +7923,6 @@ Burma,09/27/2020,10734,226,2862,Burma,1
 Burma,09/28/2020,11631,256,3073,Burma,1
 Burma,09/29/2020,12425,284,3391,Burma,1
 Burma,09/30/2020,13373,310,3755,Burma,1
-Burma,10/01/2020,14383,321,4156,Burma,1
-Burma,10/02/2020,15525,353,4378,Burma,1
 Burma,10/03/2020,16503,371,4795,Burma,1
 Burma,10/04/2020,17794,412,5195,Burma,1
 Burma,10/05/2020,18781,444,5548,Burma,1
@@ -8001,6 +7997,8 @@ Burma,12/12/2020,107215,2245,85406,Burma,1
 Burma,12/13/2020,108342,2268,86795,Burma,1
 Burma,12/14/2020,109512,2292,88131,Burma,1
 Burma,12/15/2020,110667,2319,89418,Burma,1
+Burma,12/16/2020,111900,2346,90453,Burma,1
+Burma,12/17/2020,113082,2377,91537,Burma,1
 Burundi,03/31/2020,2,0,0,Burundi,1
 Burundi,04/01/2020,2,0,0,Burundi,1
 Burundi,04/02/2020,3,0,0,Burundi,1
@@ -8185,8 +8183,6 @@ Burundi,09/27/2020,485,1,472,Burundi,1
 Burundi,09/28/2020,502,1,472,Burundi,1
 Burundi,09/29/2020,506,1,472,Burundi,1
 Burundi,09/30/2020,508,1,472,Burundi,1
-Burundi,10/01/2020,510,1,472,Burundi,1
-Burundi,10/02/2020,513,1,472,Burundi,1
 Burundi,10/03/2020,513,1,472,Burundi,1
 Burundi,10/04/2020,513,1,472,Burundi,1
 Burundi,10/05/2020,514,1,472,Burundi,1
@@ -8261,6 +8257,8 @@ Burundi,12/12/2020,728,1,640,Burundi,1
 Burundi,12/13/2020,729,1,640,Burundi,1
 Burundi,12/14/2020,729,1,640,Burundi,1
 Burundi,12/15/2020,735,1,640,Burundi,1
+Burundi,12/16/2020,741,1,640,Burundi,1
+Burundi,12/17/2020,751,1,640,Burundi,1
 Cabo Verde,03/20/2020,1,0,0,Cabo Verde,1
 Cabo Verde,03/21/2020,3,0,0,Cabo Verde,1
 Cabo Verde,03/22/2020,3,0,0,Cabo Verde,1
@@ -8456,8 +8454,6 @@ Cabo Verde,09/27/2020,5771,57,5031,Cabo Verde,1
 Cabo Verde,09/28/2020,5817,59,5134,Cabo Verde,1
 Cabo Verde,09/29/2020,5900,59,5228,Cabo Verde,1
 Cabo Verde,09/30/2020,6024,60,5277,Cabo Verde,1
-Cabo Verde,10/01/2020,6126,61,5338,Cabo Verde,1
-Cabo Verde,10/02/2020,6205,62,5399,Cabo Verde,1
 Cabo Verde,10/03/2020,6296,62,5409,Cabo Verde,1
 Cabo Verde,10/04/2020,6360,65,5416,Cabo Verde,1
 Cabo Verde,10/05/2020,6433,68,5524,Cabo Verde,1
@@ -8532,6 +8528,8 @@ Cabo Verde,12/12/2020,11302,110,10922,Cabo Verde,1
 Cabo Verde,12/13/2020,11357,110,10962,Cabo Verde,1
 Cabo Verde,12/14/2020,11361,110,11036,Cabo Verde,1
 Cabo Verde,12/15/2020,11395,110,11055,Cabo Verde,1
+Cabo Verde,12/16/2020,11458,110,11106,Cabo Verde,1
+Cabo Verde,12/17/2020,11502,110,11137,Cabo Verde,1
 Cambodia,01/27/2020,1,0,0,Cambodia,1
 Cambodia,01/28/2020,1,0,0,Cambodia,1
 Cambodia,01/29/2020,1,0,0,Cambodia,1
@@ -8780,8 +8778,6 @@ Cambodia,09/27/2020,276,0,275,Cambodia,1
 Cambodia,09/28/2020,277,0,275,Cambodia,1
 Cambodia,09/29/2020,277,0,275,Cambodia,1
 Cambodia,09/30/2020,277,0,275,Cambodia,1
-Cambodia,10/01/2020,278,0,275,Cambodia,1
-Cambodia,10/02/2020,278,0,275,Cambodia,1
 Cambodia,10/03/2020,278,0,275,Cambodia,1
 Cambodia,10/04/2020,278,0,275,Cambodia,1
 Cambodia,10/05/2020,280,0,276,Cambodia,1
@@ -8856,6 +8852,8 @@ Cambodia,12/12/2020,359,0,307,Cambodia,1
 Cambodia,12/13/2020,359,0,309,Cambodia,1
 Cambodia,12/14/2020,362,0,312,Cambodia,1
 Cambodia,12/15/2020,362,0,319,Cambodia,1
+Cambodia,12/16/2020,362,0,324,Cambodia,1
+Cambodia,12/17/2020,362,0,341,Cambodia,1
 Cameroon,03/06/2020,1,0,0,Cameroon,1
 Cameroon,03/07/2020,1,0,0,Cameroon,1
 Cameroon,03/08/2020,2,0,0,Cameroon,1
@@ -9065,8 +9063,6 @@ Cameroon,09/27/2020,20735,418,19440,Cameroon,1
 Cameroon,09/28/2020,20838,418,19440,Cameroon,1
 Cameroon,09/29/2020,20838,418,19440,Cameroon,1
 Cameroon,09/30/2020,20838,418,19440,Cameroon,1
-Cameroon,10/01/2020,20838,418,19440,Cameroon,1
-Cameroon,10/02/2020,20924,420,19764,Cameroon,1
 Cameroon,10/03/2020,20924,420,19764,Cameroon,1
 Cameroon,10/04/2020,20924,420,19764,Cameroon,1
 Cameroon,10/05/2020,20924,420,19764,Cameroon,1
@@ -9141,6 +9137,8 @@ Cameroon,12/12/2020,25143,443,23851,Cameroon,1
 Cameroon,12/13/2020,25143,443,23851,Cameroon,1
 Cameroon,12/14/2020,25214,443,23851,Cameroon,1
 Cameroon,12/15/2020,25359,445,23851,Cameroon,1
+Cameroon,12/16/2020,25472,445,23851,Cameroon,1
+Cameroon,12/17/2020,25472,445,23851,Cameroon,1
 Canada,01/26/2020,1,0,0,Canada,1
 Canada,01/27/2020,1,0,0,Canada,1
 Canada,01/28/2020,2,0,0,Canada,1
@@ -9390,8 +9388,6 @@ Canada,09/27/2020,155428,9318,133204,Canada,1
 Canada,09/28/2020,157219,9328,134551,Canada,1
 Canada,09/29/2020,158991,9340,135765,Canada,1
 Canada,09/30/2020,161107,9346,137181,Canada,1
-Canada,10/01/2020,162930,9368,138548,Canada,1
-Canada,10/02/2020,165054,9466,139817,Canada,1
 Canada,10/03/2020,166360,9488,140711,Canada,1
 Canada,10/04/2020,168501,9533,142502,Canada,1
 Canada,10/05/2020,171384,9560,144653,Canada,1
@@ -9466,6 +9462,8 @@ Canada,12/12/2020,458527,13367,373898,Canada,1
 Canada,12/13/2020,464443,13451,378653,Canada,1
 Canada,12/14/2020,472820,13570,385021,Canada,1
 Canada,12/15/2020,479064,13685,391435,Canada,1
+Canada,12/16/2020,485576,13815,397217,Canada,1
+Canada,12/17/2020,492582,13940,403667,Canada,1
 Cape Verde,03/21/2020,1,0,0,Cape Verde,1
 Cayman Islands,03/13/2020,1,0,0,Cayman Islands,1
 Cayman Islands,03/14/2020,1,0,0,Cayman Islands,1
@@ -9670,8 +9668,6 @@ Central African Republic,09/27/2020,4806,62,1840,Central African Republic,1
 Central African Republic,09/28/2020,4806,62,1840,Central African Republic,1
 Central African Republic,09/29/2020,4806,62,1840,Central African Republic,1
 Central African Republic,09/30/2020,4829,62,1914,Central African Republic,1
-Central African Republic,10/01/2020,4829,62,1914,Central African Republic,1
-Central African Republic,10/02/2020,4829,62,1914,Central African Republic,1
 Central African Republic,10/03/2020,4845,62,1914,Central African Republic,1
 Central African Republic,10/04/2020,4845,62,1914,Central African Republic,1
 Central African Republic,10/05/2020,4845,62,1914,Central African Republic,1
@@ -9746,6 +9742,8 @@ Central African Republic,12/12/2020,4936,63,1924,Central African Republic,1
 Central African Republic,12/13/2020,4936,63,1924,Central African Republic,1
 Central African Republic,12/14/2020,4936,63,1924,Central African Republic,1
 Central African Republic,12/15/2020,4936,63,1924,Central African Republic,1
+Central African Republic,12/16/2020,4936,63,1924,Central African Republic,1
+Central African Republic,12/17/2020,4936,63,1924,Central African Republic,1
 Chad,03/19/2020,1,0,0,Chad,1
 Chad,03/20/2020,1,0,0,Chad,1
 Chad,03/21/2020,1,0,0,Chad,1
@@ -9942,8 +9940,6 @@ Chad,09/27/2020,1178,84,1005,Chad,1
 Chad,09/28/2020,1185,85,1006,Chad,1
 Chad,09/29/2020,1193,85,1007,Chad,1
 Chad,09/30/2020,1200,85,1007,Chad,1
-Chad,10/01/2020,1203,85,1067,Chad,1
-Chad,10/02/2020,1211,85,1070,Chad,1
 Chad,10/03/2020,1214,85,1075,Chad,1
 Chad,10/04/2020,1217,86,1075,Chad,1
 Chad,10/05/2020,1223,86,1075,Chad,1
@@ -10018,6 +10014,8 @@ Chad,12/12/2020,1751,102,1603,Chad,1
 Chad,12/13/2020,1770,102,1607,Chad,1
 Chad,12/14/2020,1771,102,1608,Chad,1
 Chad,12/15/2020,1784,102,1611,Chad,1
+Chad,12/16/2020,1800,102,1620,Chad,1
+Chad,12/17/2020,1818,102,1626,Chad,1
 Channel Islands,03/10/2020,1,0,0,Channel Islands,1
 Chile,03/03/2020,1,0,0,Chile,1
 Chile,03/04/2020,1,0,0,Chile,1
@@ -10231,8 +10229,6 @@ Chile,09/27/2020,457901,12641,431704,Chile,1
 Chile,09/28/2020,459671,12698,433016,Chile,1
 Chile,09/29/2020,461300,12725,434794,Chile,1
 Chile,09/30/2020,462991,12741,436589,Chile,1
-Chile,10/01/2020,464750,12822,438148,Chile,1
-Chile,10/02/2020,466590,12867,439607,Chile,1
 Chile,10/03/2020,468471,12919,440881,Chile,1
 Chile,10/04/2020,470179,12979,442070,Chile,1
 Chile,10/05/2020,471746,13037,443453,Chile,1
@@ -10307,8 +10303,8 @@ Chile,12/12/2020,569781,15846,543086,Chile,1
 Chile,12/13/2020,571919,15886,544832,Chile,1
 Chile,12/14/2020,573830,15931,546538,Chile,1
 Chile,12/15/2020,575329,15949,548190,Chile,1
-China,01/22/2020,547,17,28,China,1
-China,01/23/2020,639,18,30,China,1
+Chile,12/16/2020,576731,15959,549852,Chile,1
+Chile,12/17/2020,578732,16007,551200,Chile,1
 China,01/24/2020,916,26,36,China,1
 China,01/25/2020,1399,42,39,China,1
 China,01/26/2020,2062,56,49,China,1
@@ -10560,8 +10556,6 @@ China,09/27/2020,90483,4739,85381,China,1
 China,09/28/2020,90505,4739,85398,China,1
 China,09/29/2020,90528,4739,85423,China,1
 China,09/30/2020,90545,4739,85460,China,1
-China,10/01/2020,90567,4739,85479,China,1
-China,10/02/2020,90584,4739,85494,China,1
 China,10/03/2020,90604,4739,85511,China,1
 China,10/04/2020,90629,4739,85530,China,1
 China,10/05/2020,90652,4739,85540,China,1
@@ -10636,7 +10630,8 @@ China,12/12/2020,94217,4749,87944,China,1
 China,12/13/2020,94328,4751,88041,China,1
 China,12/14/2020,94427,4754,88122,China,1
 China,12/15/2020,94537,4757,88211,China,1
-Colombia,01/23/2020,0,0,0,Colombia,1
+China,12/16/2020,94626,4757,88326,China,1
+China,12/17/2020,94734,4759,88429,China,1
 Colombia,03/06/2020,1,0,0,Colombia,1
 Colombia,03/07/2020,1,0,0,Colombia,1
 Colombia,03/08/2020,1,0,0,Colombia,1
@@ -10846,8 +10841,6 @@ Colombia,09/27/2020,813056,25488,711472,Colombia,1
 Colombia,09/28/2020,818203,25641,722536,Colombia,1
 Colombia,09/29/2020,824042,25828,734154,Colombia,1
 Colombia,09/30/2020,829679,25998,743653,Colombia,1
-Colombia,10/01/2020,835339,26196,751691,Colombia,1
-Colombia,10/02/2020,841532,26397,753953,Colombia,1
 Colombia,10/03/2020,848147,26556,757801,Colombia,1
 Colombia,10/04/2020,855052,26712,761674,Colombia,1
 Colombia,10/05/2020,862158,26844,766300,Colombia,1
@@ -10922,6 +10915,8 @@ Colombia,12/12/2020,1417072,38866,1310425,Colombia,1
 Colombia,12/13/2020,1425774,39053,1314836,Colombia,1
 Colombia,12/14/2020,1434516,39195,1321469,Colombia,1
 Colombia,12/15/2020,1444646,39356,1328430,Colombia,1
+Colombia,12/16/2020,1456599,39560,1336166,Colombia,1
+Colombia,12/17/2020,1468795,39787,1343819,Colombia,1
 Comoros,04/30/2020,1,0,0,Comoros,1
 Comoros,05/01/2020,1,0,0,Comoros,1
 Comoros,05/02/2020,3,0,0,Comoros,1
@@ -11076,8 +11071,6 @@ Comoros,09/27/2020,478,7,458,Comoros,1
 Comoros,09/28/2020,478,7,458,Comoros,1
 Comoros,09/29/2020,479,7,464,Comoros,1
 Comoros,09/30/2020,479,7,464,Comoros,1
-Comoros,10/01/2020,484,7,466,Comoros,1
-Comoros,10/02/2020,484,7,466,Comoros,1
 Comoros,10/03/2020,487,7,466,Comoros,1
 Comoros,10/04/2020,487,7,466,Comoros,1
 Comoros,10/05/2020,487,7,466,Comoros,1
@@ -11152,6 +11145,8 @@ Comoros,12/12/2020,628,7,606,Comoros,1
 Comoros,12/13/2020,628,7,606,Comoros,1
 Comoros,12/14/2020,628,7,606,Comoros,1
 Comoros,12/15/2020,633,7,606,Comoros,1
+Comoros,12/16/2020,633,7,606,Comoros,1
+Comoros,12/17/2020,643,7,610,Comoros,1
 Congo (Brazzaville),03/15/2020,1,0,0,Congo (Brazzaville),1
 Congo (Brazzaville),03/16/2020,1,0,0,Congo (Brazzaville),1
 Congo (Brazzaville),03/17/2020,1,0,0,Congo (Brazzaville),1
@@ -11352,8 +11347,6 @@ Congo (Brazzaville),09/27/2020,5008,89,3887,Congo (Brazzaville),1
 Congo (Brazzaville),09/28/2020,5008,89,3887,Congo (Brazzaville),1
 Congo (Brazzaville),09/29/2020,5008,89,3887,Congo (Brazzaville),1
 Congo (Brazzaville),09/30/2020,5089,89,3887,Congo (Brazzaville),1
-Congo (Brazzaville),10/01/2020,5089,89,3887,Congo (Brazzaville),1
-Congo (Brazzaville),10/02/2020,5089,89,3887,Congo (Brazzaville),1
 Congo (Brazzaville),10/03/2020,5089,89,3887,Congo (Brazzaville),1
 Congo (Brazzaville),10/04/2020,5089,89,3887,Congo (Brazzaville),1
 Congo (Brazzaville),10/05/2020,5089,89,3887,Congo (Brazzaville),1
@@ -11428,6 +11421,8 @@ Congo (Brazzaville),12/12/2020,6049,99,4988,Congo (Brazzaville),1
 Congo (Brazzaville),12/13/2020,6049,99,4988,Congo (Brazzaville),1
 Congo (Brazzaville),12/14/2020,6200,100,4988,Congo (Brazzaville),1
 Congo (Brazzaville),12/15/2020,6200,100,4988,Congo (Brazzaville),1
+Congo (Brazzaville),12/16/2020,6200,100,4988,Congo (Brazzaville),1
+Congo (Brazzaville),12/17/2020,6200,100,4988,Congo (Brazzaville),1
 Congo (Kinshasa),03/11/2020,1,0,0,Congo (Kinshasa),1
 Congo (Kinshasa),03/12/2020,1,0,0,Congo (Kinshasa),1
 Congo (Kinshasa),03/13/2020,2,0,0,Congo (Kinshasa),1
@@ -11632,8 +11627,6 @@ Congo (Kinshasa),09/27/2020,10612,271,10093,Congo (Kinshasa),1
 Congo (Kinshasa),09/28/2020,10624,271,10093,Congo (Kinshasa),1
 Congo (Kinshasa),09/29/2020,10631,272,10129,Congo (Kinshasa),1
 Congo (Kinshasa),09/30/2020,10659,272,10139,Congo (Kinshasa),1
-Congo (Kinshasa),10/01/2020,10685,272,10165,Congo (Kinshasa),1
-Congo (Kinshasa),10/02/2020,10729,272,10183,Congo (Kinshasa),1
 Congo (Kinshasa),10/03/2020,10752,274,10212,Congo (Kinshasa),1
 Congo (Kinshasa),10/04/2020,10760,274,10239,Congo (Kinshasa),1
 Congo (Kinshasa),10/05/2020,10778,274,10239,Congo (Kinshasa),1
@@ -11708,6 +11701,8 @@ Congo (Kinshasa),12/12/2020,14342,352,12465,Congo (Kinshasa),1
 Congo (Kinshasa),12/13/2020,14461,352,12465,Congo (Kinshasa),1
 Congo (Kinshasa),12/14/2020,14513,356,12653,Congo (Kinshasa),1
 Congo (Kinshasa),12/15/2020,14597,358,12773,Congo (Kinshasa),1
+Congo (Kinshasa),12/16/2020,14930,364,12859,Congo (Kinshasa),1
+Congo (Kinshasa),12/17/2020,15089,366,13010,Congo (Kinshasa),1
 Costa Rica,03/06/2020,1,0,0,Costa Rica,1
 Costa Rica,03/07/2020,1,0,0,Costa Rica,1
 Costa Rica,03/08/2020,5,0,0,Costa Rica,1
@@ -11917,8 +11912,6 @@ Costa Rica,09/27/2020,72049,828,27760,Costa Rica,1
 Costa Rica,09/28/2020,73714,861,29420,Costa Rica,1
 Costa Rica,09/29/2020,74604,880,30703,Costa Rica,1
 Costa Rica,09/30/2020,75760,904,37841,Costa Rica,1
-Costa Rica,10/01/2020,76828,917,39843,Costa Rica,1
-Costa Rica,10/02/2020,77829,930,42621,Costa Rica,1
 Costa Rica,10/03/2020,79182,950,45007,Costa Rica,1
 Costa Rica,10/04/2020,79182,950,45007,Costa Rica,1
 Costa Rica,10/05/2020,81129,987,49703,Costa Rica,1
@@ -11993,6 +11986,8 @@ Costa Rica,12/12/2020,150947,1895,112622,Costa Rica,1
 Costa Rica,12/13/2020,150947,1895,112622,Costa Rica,1
 Costa Rica,12/14/2020,153169,1936,118511,Costa Rica,1
 Costa Rica,12/15/2020,154096,1956,121031,Costa Rica,1
+Costa Rica,12/16/2020,155263,1967,122947,Costa Rica,1
+Costa Rica,12/17/2020,156388,1980,124907,Costa Rica,1
 Cote d'Ivoire,03/11/2020,1,0,0,Cote d'Ivoire,1
 Cote d'Ivoire,03/12/2020,1,0,0,Cote d'Ivoire,1
 Cote d'Ivoire,03/13/2020,1,0,0,Cote d'Ivoire,1
@@ -12197,8 +12192,6 @@ Cote d'Ivoire,09/27/2020,19629,120,19163,Cote d'Ivoire,1
 Cote d'Ivoire,09/28/2020,19641,120,19202,Cote d'Ivoire,1
 Cote d'Ivoire,09/29/2020,19669,120,19241,Cote d'Ivoire,1
 Cote d'Ivoire,09/30/2020,19724,120,19291,Cote d'Ivoire,1
-Cote d'Ivoire,10/01/2020,19755,120,19320,Cote d'Ivoire,1
-Cote d'Ivoire,10/02/2020,19793,120,19357,Cote d'Ivoire,1
 Cote d'Ivoire,10/03/2020,19849,120,19421,Cote d'Ivoire,1
 Cote d'Ivoire,10/04/2020,19882,120,19449,Cote d'Ivoire,1
 Cote d'Ivoire,10/05/2020,19885,120,19490,Cote d'Ivoire,1
@@ -12273,6 +12266,8 @@ Cote d'Ivoire,12/12/2020,21639,133,21261,Cote d'Ivoire,1
 Cote d'Ivoire,12/13/2020,21680,133,21298,Cote d'Ivoire,1
 Cote d'Ivoire,12/14/2020,21705,133,21318,Cote d'Ivoire,1
 Cote d'Ivoire,12/15/2020,21775,133,21335,Cote d'Ivoire,1
+Cote d'Ivoire,12/16/2020,21741,133,21364,Cote d'Ivoire,1
+Cote d'Ivoire,12/17/2020,21772,133,21401,Cote d'Ivoire,1
 Croatia,02/25/2020,1,0,0,Croatia,1
 Croatia,02/26/2020,3,0,0,Croatia,1
 Croatia,02/27/2020,3,0,0,Croatia,1
@@ -12492,8 +12487,6 @@ Croatia,09/27/2020,16197,272,14609,Croatia,1
 Croatia,09/28/2020,16245,272,14793,Croatia,1
 Croatia,09/29/2020,16380,275,14947,Croatia,1
 Croatia,09/30/2020,16593,280,15057,Croatia,1
-Croatia,10/01/2020,16827,284,15218,Croatia,1
-Croatia,10/02/2020,17160,291,15423,Croatia,1
 Croatia,10/03/2020,17401,293,15661,Croatia,1
 Croatia,10/04/2020,17659,298,15849,Croatia,1
 Croatia,10/05/2020,17797,300,16031,Croatia,1
@@ -12568,6 +12561,8 @@ Croatia,12/12/2020,172523,2562,144691,Croatia,1
 Croatia,12/13/2020,175886,2640,148211,Croatia,1
 Croatia,12/14/2020,177358,2705,151884,Croatia,1
 Croatia,12/15/2020,179718,2778,155079,Croatia,1
+Croatia,12/16/2020,183045,2870,157773,Croatia,1
+Croatia,12/17/2020,186963,2955,161563,Croatia,1
 Cruise Ship,03/11/2020,696,7,325,Cruise Ship,1
 Cruise Ship,03/12/2020,696,7,325,Cruise Ship,1
 Cruise Ship,03/13/2020,696,7,325,Cruise Ship,1
@@ -12784,8 +12779,6 @@ Cuba,09/27/2020,5457,122,4751,Cuba,1
 Cuba,09/28/2020,5483,122,4787,Cuba,1
 Cuba,09/29/2020,5531,122,4866,Cuba,1
 Cuba,09/30/2020,5597,122,4893,Cuba,1
-Cuba,10/01/2020,5670,122,4922,Cuba,1
-Cuba,10/02/2020,5718,122,4922,Cuba,1
 Cuba,10/03/2020,5780,122,5118,Cuba,1
 Cuba,10/04/2020,5809,122,5145,Cuba,1
 Cuba,10/05/2020,5845,123,5232,Cuba,1
@@ -12860,6 +12853,8 @@ Cuba,12/12/2020,9354,137,8371,Cuba,1
 Cuba,12/13/2020,9423,137,8434,Cuba,1
 Cuba,12/14/2020,9492,137,8484,Cuba,1
 Cuba,12/15/2020,9588,137,8592,Cuba,1
+Cuba,12/16/2020,9671,137,8658,Cuba,1
+Cuba,12/17/2020,9771,137,8770,Cuba,1
 Curacao,03/14/2020,1,0,0,Curacao,1
 Curacao,03/15/2020,1,0,0,Curacao,1
 Cyprus,03/09/2020,2,0,0,Cyprus,1
@@ -13068,8 +13063,6 @@ Cyprus,09/27/2020,1696,22,1369,Cyprus,1
 Cyprus,09/28/2020,1713,22,1369,Cyprus,1
 Cyprus,09/29/2020,1743,22,1369,Cyprus,1
 Cyprus,09/30/2020,1755,22,1369,Cyprus,1
-Cyprus,10/01/2020,1772,22,1369,Cyprus,1
-Cyprus,10/02/2020,1789,22,1369,Cyprus,1
 Cyprus,10/03/2020,1811,22,1369,Cyprus,1
 Cyprus,10/04/2020,1824,22,1369,Cyprus,1
 Cyprus,10/05/2020,1847,22,1369,Cyprus,1
@@ -13144,6 +13137,8 @@ Cyprus,12/12/2020,14476,75,2057,Cyprus,1
 Cyprus,12/13/2020,15101,78,2057,Cyprus,1
 Cyprus,12/14/2020,15450,82,2057,Cyprus,1
 Cyprus,12/15/2020,15789,84,2057,Cyprus,1
+Cyprus,12/16/2020,16190,85,2057,Cyprus,1
+Cyprus,12/17/2020,16190,85,2057,Cyprus,1
 Czech Republic,03/01/2020,3,0,0,Czech Republic,1
 Czech Republic,03/02/2020,3,0,0,Czech Republic,1
 Czech Republic,03/03/2020,5,0,0,Czech Republic,1
@@ -13358,8 +13353,6 @@ Czechia,09/27/2020,64597,606,31268,Czechia,1
 Czechia,09/28/2020,65883,618,31799,Czechia,1
 Czechia,09/29/2020,67843,636,32759,Czechia,1
 Czechia,09/30/2020,68919,655,33443,Czechia,1
-Czechia,10/01/2020,74255,678,34186,Czechia,1
-Czechia,10/02/2020,78051,699,35032,Czechia,1
 Czechia,10/03/2020,80605,711,39073,Czechia,1
 Czechia,10/04/2020,82446,727,44149,Czechia,1
 Czechia,10/05/2020,85566,758,46636,Czechia,1
@@ -13434,6 +13427,8 @@ Czechia,12/12/2020,575422,9450,503017,Czechia,1
 Czechia,12/13/2020,579079,9535,504666,Czechia,1
 Czechia,12/14/2020,581079,9609,505922,Czechia,1
 Czechia,12/15/2020,586251,9743,511798,Czechia,1
+Czechia,12/16/2020,594148,9882,518423,Czechia,1
+Czechia,12/17/2020,602404,10036,522649,Czechia,1
 Denmark,02/27/2020,1,0,0,Denmark,1
 Denmark,02/28/2020,1,0,0,Denmark,1
 Denmark,02/29/2020,3,0,0,Denmark,1
@@ -13651,8 +13646,6 @@ Denmark,09/27/2020,27111,649,20087,Denmark,1
 Denmark,09/28/2020,27546,649,20379,Denmark,1
 Denmark,09/29/2020,27941,650,20762,Denmark,1
 Denmark,09/30/2020,28479,650,21197,Denmark,1
-Denmark,10/01/2020,28882,651,21752,Denmark,1
-Denmark,10/02/2020,29418,652,22270,Denmark,1
 Denmark,10/03/2020,29789,654,22743,Denmark,1
 Denmark,10/04/2020,30168,658,23165,Denmark,1
 Denmark,10/05/2020,30546,659,23577,Denmark,1
@@ -13727,6 +13720,8 @@ Denmark,12/12/2020,107660,935,78760,Denmark,1
 Denmark,12/13/2020,110305,941,79918,Denmark,1
 Denmark,12/14/2020,113642,950,81088,Denmark,1
 Denmark,12/15/2020,116636,961,82623,Denmark,1
+Denmark,12/16/2020,120330,975,84331,Denmark,1
+Denmark,12/17/2020,124366,992,86192,Denmark,1
 Diamond Princess,03/25/2020,712,10,587,Diamond Princess,1
 Diamond Princess,03/26/2020,712,10,597,Diamond Princess,1
 Diamond Princess,03/27/2020,712,10,597,Diamond Princess,1
@@ -13917,8 +13912,6 @@ Diamond Princess,09/27/2020,712,13,651,Diamond Princess,1
 Diamond Princess,09/28/2020,712,13,651,Diamond Princess,1
 Diamond Princess,09/29/2020,712,13,651,Diamond Princess,1
 Diamond Princess,09/30/2020,712,13,651,Diamond Princess,1
-Diamond Princess,10/01/2020,712,13,651,Diamond Princess,1
-Diamond Princess,10/02/2020,712,13,651,Diamond Princess,1
 Diamond Princess,10/03/2020,712,13,651,Diamond Princess,1
 Diamond Princess,10/04/2020,712,13,651,Diamond Princess,1
 Diamond Princess,10/05/2020,712,13,651,Diamond Princess,1
@@ -13993,6 +13986,8 @@ Diamond Princess,12/12/2020,712,13,699,Diamond Princess,1
 Diamond Princess,12/13/2020,712,13,699,Diamond Princess,1
 Diamond Princess,12/14/2020,712,13,699,Diamond Princess,1
 Diamond Princess,12/15/2020,712,13,699,Diamond Princess,1
+Diamond Princess,12/16/2020,712,13,699,Diamond Princess,1
+Diamond Princess,12/17/2020,712,13,699,Diamond Princess,1
 Djibouti,03/18/2020,1,0,0,Djibouti,1
 Djibouti,03/19/2020,1,0,0,Djibouti,1
 Djibouti,03/20/2020,1,0,0,Djibouti,1
@@ -14190,8 +14185,6 @@ Djibouti,09/27/2020,5409,61,5340,Djibouti,1
 Djibouti,09/28/2020,5410,61,5340,Djibouti,1
 Djibouti,09/29/2020,5416,61,5344,Djibouti,1
 Djibouti,09/30/2020,5416,61,5344,Djibouti,1
-Djibouti,10/01/2020,5417,61,5346,Djibouti,1
-Djibouti,10/02/2020,5417,61,5346,Djibouti,1
 Djibouti,10/03/2020,5418,61,5347,Djibouti,1
 Djibouti,10/04/2020,5419,61,5349,Djibouti,1
 Djibouti,10/05/2020,5421,61,5352,Djibouti,1
@@ -14266,6 +14259,8 @@ Djibouti,12/12/2020,5725,61,5612,Djibouti,1
 Djibouti,12/13/2020,5728,61,5618,Djibouti,1
 Djibouti,12/14/2020,5733,61,5622,Djibouti,1
 Djibouti,12/15/2020,5749,61,5628,Djibouti,1
+Djibouti,12/16/2020,5759,61,5628,Djibouti,1
+Djibouti,12/17/2020,5770,61,5635,Djibouti,1
 Dominica,03/22/2020,1,0,0,Dominica,1
 Dominica,03/23/2020,2,0,0,Dominica,1
 Dominica,03/24/2020,2,0,0,Dominica,1
@@ -14459,8 +14454,6 @@ Dominica,09/27/2020,30,0,24,Dominica,1
 Dominica,09/28/2020,30,0,24,Dominica,1
 Dominica,09/29/2020,30,0,24,Dominica,1
 Dominica,09/30/2020,30,0,24,Dominica,1
-Dominica,10/01/2020,31,0,24,Dominica,1
-Dominica,10/02/2020,31,0,24,Dominica,1
 Dominica,10/03/2020,31,0,24,Dominica,1
 Dominica,10/04/2020,31,0,24,Dominica,1
 Dominica,10/05/2020,31,0,24,Dominica,1
@@ -14535,6 +14528,8 @@ Dominica,12/12/2020,87,0,76,Dominica,1
 Dominica,12/13/2020,88,0,83,Dominica,1
 Dominica,12/14/2020,88,0,83,Dominica,1
 Dominica,12/15/2020,88,0,83,Dominica,1
+Dominica,12/16/2020,88,0,83,Dominica,1
+Dominica,12/17/2020,88,0,83,Dominica,1
 Dominican Republic,03/01/2020,1,0,0,Dominican Republic,1
 Dominican Republic,03/02/2020,1,0,0,Dominican Republic,1
 Dominican Republic,03/03/2020,1,0,0,Dominican Republic,1
@@ -14749,8 +14744,6 @@ Dominican Republic,09/27/2020,111386,2095,85965,Dominican Republic,1
 Dominican Republic,09/28/2020,111666,2098,86422,Dominican Republic,1
 Dominican Republic,09/29/2020,111900,2101,86998,Dominican Republic,1
 Dominican Republic,09/30/2020,112209,2105,87629,Dominican Republic,1
-Dominican Republic,10/01/2020,112728,2108,88205,Dominican Republic,1
-Dominican Republic,10/02/2020,113350,2117,88840,Dominican Republic,1
 Dominican Republic,10/03/2020,113926,2128,89635,Dominican Republic,1
 Dominican Republic,10/04/2020,114480,2134,90366,Dominican Republic,1
 Dominican Republic,10/05/2020,115054,2144,90942,Dominican Republic,1
@@ -14825,6 +14818,8 @@ Dominican Republic,12/12/2020,153585,2360,119616,Dominican Republic,1
 Dominican Republic,12/13/2020,154692,2361,120481,Dominican Republic,1
 Dominican Republic,12/14/2020,155184,2364,121007,Dominican Republic,1
 Dominican Republic,12/15/2020,155797,2367,121323,Dominican Republic,1
+Dominican Republic,12/16/2020,156585,2372,121988,Dominican Republic,1
+Dominican Republic,12/17/2020,157305,2375,122205,Dominican Republic,1
 East Timor,03/21/2020,1,0,0,East Timor,1
 Ecuador,03/01/2020,6,0,0,Ecuador,1
 Ecuador,03/02/2020,6,0,0,Ecuador,1
@@ -15040,8 +15035,6 @@ Ecuador,09/27/2020,134747,11279,112296,Ecuador,1
 Ecuador,09/28/2020,134965,11280,112296,Ecuador,1
 Ecuador,09/29/2020,135749,11312,112296,Ecuador,1
 Ecuador,09/30/2020,137047,11355,112296,Ecuador,1
-Ecuador,10/01/2020,138584,11433,112296,Ecuador,1
-Ecuador,10/02/2020,139534,11495,112296,Ecuador,1
 Ecuador,10/03/2020,140351,11597,112296,Ecuador,1
 Ecuador,10/04/2020,141034,11647,120511,Ecuador,1
 Ecuador,10/05/2020,141339,11681,120511,Ecuador,1
@@ -15116,6 +15109,8 @@ Ecuador,12/12/2020,201524,13874,174188,Ecuador,1
 Ecuador,12/13/2020,202110,13875,177951,Ecuador,1
 Ecuador,12/14/2020,202180,13875,177951,Ecuador,1
 Ecuador,12/15/2020,202356,13896,177951,Ecuador,1
+Ecuador,12/16/2020,203461,13915,177951,Ecuador,1
+Ecuador,12/17/2020,204249,13932,177951,Ecuador,1
 Egypt,02/14/2020,1,0,0,Egypt,1
 Egypt,02/15/2020,1,0,0,Egypt,1
 Egypt,02/16/2020,1,0,0,Egypt,1
@@ -15346,8 +15341,6 @@ Egypt,09/27/2020,102840,5883,95080,Egypt,1
 Egypt,09/28/2020,102955,5901,95586,Egypt,1
 Egypt,09/29/2020,103079,5914,96094,Egypt,1
 Egypt,09/30/2020,103198,5930,96494,Egypt,1
-Egypt,10/01/2020,103317,5946,96855,Egypt,1
-Egypt,10/02/2020,103466,5956,97143,Egypt,1
 Egypt,10/03/2020,103575,5970,97274,Egypt,1
 Egypt,10/04/2020,103683,5981,97355,Egypt,1
 Egypt,10/05/2020,103781,5990,97398,Egypt,1
@@ -15422,6 +15415,8 @@ Egypt,12/12/2020,121089,6898,104710,Egypt,1
 Egypt,12/13/2020,121575,6920,104875,Egypt,1
 Egypt,12/14/2020,122086,6943,105132,Egypt,1
 Egypt,12/15/2020,122609,6966,105450,Egypt,1
+Egypt,12/16/2020,123153,6990,105719,Egypt,1
+Egypt,12/17/2020,123701,7015,105919,Egypt,1
 El Salvador,03/19/2020,1,0,0,El Salvador,1
 El Salvador,03/20/2020,1,0,0,El Salvador,1
 El Salvador,03/21/2020,3,0,0,El Salvador,1
@@ -15618,8 +15613,6 @@ El Salvador,09/27/2020,28630,826,22879,El Salvador,1
 El Salvador,09/28/2020,28809,831,23317,El Salvador,1
 El Salvador,09/29/2020,28981,839,23685,El Salvador,1
 El Salvador,09/30/2020,29077,843,23813,El Salvador,1
-El Salvador,10/01/2020,29175,848,23930,El Salvador,1
-El Salvador,10/02/2020,29175,853,23930,El Salvador,1
 El Salvador,10/03/2020,29358,857,24175,El Salvador,1
 El Salvador,10/04/2020,29450,863,24296,El Salvador,1
 El Salvador,10/05/2020,29539,865,24406,El Salvador,1
@@ -15694,6 +15687,8 @@ El Salvador,12/12/2020,41394,1193,37667,El Salvador,1
 El Salvador,12/13/2020,41394,1200,37667,El Salvador,1
 El Salvador,12/14/2020,41880,1205,38087,El Salvador,1
 El Salvador,12/15/2020,42132,1212,38260,El Salvador,1
+El Salvador,12/16/2020,42397,1219,38481,El Salvador,1
+El Salvador,12/17/2020,42397,1227,38481,El Salvador,1
 Equatorial Guinea,03/15/2020,1,0,0,Equatorial Guinea,1
 Equatorial Guinea,03/16/2020,1,0,0,Equatorial Guinea,1
 Equatorial Guinea,03/17/2020,1,0,0,Equatorial Guinea,1
@@ -15894,8 +15889,6 @@ Equatorial Guinea,09/27/2020,5028,83,4740,Equatorial Guinea,1
 Equatorial Guinea,09/28/2020,5028,83,4740,Equatorial Guinea,1
 Equatorial Guinea,09/29/2020,5030,83,4769,Equatorial Guinea,1
 Equatorial Guinea,09/30/2020,5030,83,4769,Equatorial Guinea,1
-Equatorial Guinea,10/01/2020,5045,83,4879,Equatorial Guinea,1
-Equatorial Guinea,10/02/2020,5045,83,4879,Equatorial Guinea,1
 Equatorial Guinea,10/03/2020,5045,83,4879,Equatorial Guinea,1
 Equatorial Guinea,10/04/2020,5045,83,4879,Equatorial Guinea,1
 Equatorial Guinea,10/05/2020,5045,83,4879,Equatorial Guinea,1
@@ -15970,6 +15963,8 @@ Equatorial Guinea,12/12/2020,5185,85,5058,Equatorial Guinea,1
 Equatorial Guinea,12/13/2020,5185,85,5058,Equatorial Guinea,1
 Equatorial Guinea,12/14/2020,5185,85,5058,Equatorial Guinea,1
 Equatorial Guinea,12/15/2020,5195,85,5061,Equatorial Guinea,1
+Equatorial Guinea,12/16/2020,5195,85,5061,Equatorial Guinea,1
+Equatorial Guinea,12/17/2020,5214,85,5064,Equatorial Guinea,1
 Eritrea,03/21/2020,1,0,0,Eritrea,1
 Eritrea,03/22/2020,1,0,0,Eritrea,1
 Eritrea,03/23/2020,1,0,0,Eritrea,1
@@ -16164,8 +16159,6 @@ Eritrea,09/27/2020,375,0,341,Eritrea,1
 Eritrea,09/28/2020,375,0,341,Eritrea,1
 Eritrea,09/29/2020,375,0,341,Eritrea,1
 Eritrea,09/30/2020,375,0,341,Eritrea,1
-Eritrea,10/01/2020,381,0,353,Eritrea,1
-Eritrea,10/02/2020,381,0,353,Eritrea,1
 Eritrea,10/03/2020,398,0,358,Eritrea,1
 Eritrea,10/04/2020,398,0,358,Eritrea,1
 Eritrea,10/05/2020,398,0,358,Eritrea,1
@@ -16240,6 +16233,8 @@ Eritrea,12/12/2020,711,0,564,Eritrea,1
 Eritrea,12/13/2020,711,0,564,Eritrea,1
 Eritrea,12/14/2020,711,0,564,Eritrea,1
 Eritrea,12/15/2020,711,0,564,Eritrea,1
+Eritrea,12/16/2020,711,0,564,Eritrea,1
+Eritrea,12/17/2020,741,0,572,Eritrea,1
 Estonia,02/27/2020,1,0,0,Estonia,1
 Estonia,02/28/2020,1,0,0,Estonia,1
 Estonia,02/29/2020,1,0,0,Estonia,1
@@ -16457,8 +16452,6 @@ Estonia,09/27/2020,3200,64,2506,Estonia,1
 Estonia,09/28/2020,3267,64,2513,Estonia,1
 Estonia,09/29/2020,3315,64,2564,Estonia,1
 Estonia,09/30/2020,3371,64,2605,Estonia,1
-Estonia,10/01/2020,3450,65,2643,Estonia,1
-Estonia,10/02/2020,3507,66,2675,Estonia,1
 Estonia,10/03/2020,3577,67,2727,Estonia,1
 Estonia,10/04/2020,3607,67,2749,Estonia,1
 Estonia,10/05/2020,3617,67,2755,Estonia,1
@@ -16533,6 +16526,8 @@ Estonia,12/12/2020,17713,148,10626,Estonia,1
 Estonia,12/13/2020,18055,149,11037,Estonia,1
 Estonia,12/14/2020,18385,154,11121,Estonia,1
 Estonia,12/15/2020,18682,157,11669,Estonia,1
+Estonia,12/16/2020,19271,160,12117,Estonia,1
+Estonia,12/17/2020,20004,164,12533,Estonia,1
 Eswatini,03/14/2020,1,0,0,Eswatini,1
 Eswatini,03/15/2020,1,0,0,Eswatini,1
 Eswatini,03/16/2020,1,0,0,Eswatini,1
@@ -16734,8 +16729,6 @@ Eswatini,09/27/2020,5431,108,4821,Eswatini,1
 Eswatini,09/28/2020,5452,108,4844,Eswatini,1
 Eswatini,09/29/2020,5462,108,4859,Eswatini,1
 Eswatini,09/30/2020,5482,109,4912,Eswatini,1
-Eswatini,10/01/2020,5500,111,5000,Eswatini,1
-Eswatini,10/02/2020,5521,111,5061,Eswatini,1
 Eswatini,10/03/2020,5530,111,5076,Eswatini,1
 Eswatini,10/04/2020,5569,111,5127,Eswatini,1
 Eswatini,10/05/2020,5579,112,5141,Eswatini,1
@@ -16810,6 +16803,8 @@ Eswatini,12/12/2020,6714,127,6331,Eswatini,1
 Eswatini,12/13/2020,6768,127,6379,Eswatini,1
 Eswatini,12/14/2020,6825,130,6416,Eswatini,1
 Eswatini,12/15/2020,6912,132,6476,Eswatini,1
+Eswatini,12/16/2020,7026,135,6531,Eswatini,1
+Eswatini,12/17/2020,7093,135,6579,Eswatini,1
 Ethiopia,03/13/2020,1,0,0,Ethiopia,1
 Ethiopia,03/14/2020,1,0,0,Ethiopia,1
 Ethiopia,03/15/2020,1,0,0,Ethiopia,1
@@ -17012,8 +17007,6 @@ Ethiopia,09/27/2020,73332,1170,30363,Ethiopia,1
 Ethiopia,09/28/2020,73944,1177,30753,Ethiopia,1
 Ethiopia,09/29/2020,74584,1191,30952,Ethiopia,1
 Ethiopia,09/30/2020,75368,1198,31204,Ethiopia,1
-Ethiopia,10/01/2020,76098,1205,31430,Ethiopia,1
-Ethiopia,10/02/2020,76988,1208,31677,Ethiopia,1
 Ethiopia,10/03/2020,77860,1214,32325,Ethiopia,1
 Ethiopia,10/04/2020,78819,1222,33060,Ethiopia,1
 Ethiopia,10/05/2020,79437,1230,34016,Ethiopia,1
@@ -17088,6 +17081,8 @@ Ethiopia,12/12/2020,116297,1803,92449,Ethiopia,1
 Ethiopia,12/13/2020,116769,1806,93890,Ethiopia,1
 Ethiopia,12/14/2020,117242,1809,95225,Ethiopia,1
 Ethiopia,12/15/2020,117542,1813,96307,Ethiopia,1
+Ethiopia,12/16/2020,118006,1818,97969,Ethiopia,1
+Ethiopia,12/17/2020,118481,1831,99751,Ethiopia,1
 Faroe Islands,03/04/2020,1,0,0,Faroe Islands,1
 Faroe Islands,03/05/2020,1,0,0,Faroe Islands,1
 Faroe Islands,03/06/2020,1,0,0,Faroe Islands,1
@@ -17291,8 +17286,6 @@ Fiji,09/27/2020,32,2,28,Fiji,1
 Fiji,09/28/2020,32,2,28,Fiji,1
 Fiji,09/29/2020,32,2,28,Fiji,1
 Fiji,09/30/2020,32,2,28,Fiji,1
-Fiji,10/01/2020,32,2,28,Fiji,1
-Fiji,10/02/2020,32,2,28,Fiji,1
 Fiji,10/03/2020,32,2,28,Fiji,1
 Fiji,10/04/2020,32,2,28,Fiji,1
 Fiji,10/05/2020,32,2,28,Fiji,1
@@ -17367,6 +17360,8 @@ Fiji,12/12/2020,44,2,35,Fiji,1
 Fiji,12/13/2020,46,2,38,Fiji,1
 Fiji,12/14/2020,46,2,38,Fiji,1
 Fiji,12/15/2020,46,2,38,Fiji,1
+Fiji,12/16/2020,46,2,38,Fiji,1
+Fiji,12/17/2020,46,2,38,Fiji,1
 Finland,01/29/2020,1,0,0,Finland,1
 Finland,01/30/2020,1,0,0,Finland,1
 Finland,01/31/2020,1,0,0,Finland,1
@@ -17613,8 +17608,6 @@ Finland,09/27/2020,9682,343,7850,Finland,1
 Finland,09/28/2020,9743,345,7850,Finland,1
 Finland,09/29/2020,9892,345,7850,Finland,1
 Finland,09/30/2020,9992,344,8100,Finland,1
-Finland,10/01/2020,10103,344,8100,Finland,1
-Finland,10/02/2020,10244,345,8100,Finland,1
 Finland,10/03/2020,10391,345,8100,Finland,1
 Finland,10/04/2020,10538,345,8100,Finland,1
 Finland,10/05/2020,10702,346,8100,Finland,1
@@ -17689,6 +17682,8 @@ Finland,12/12/2020,30450,453,20000,Finland,1
 Finland,12/13/2020,30810,453,20000,Finland,1
 Finland,12/14/2020,31110,461,20000,Finland,1
 Finland,12/15/2020,31459,466,20000,Finland,1
+Finland,12/16/2020,31870,472,22500,Finland,1
+Finland,12/17/2020,32228,484,22500,Finland,1
 France,01/24/2020,2,0,0,France,1
 France,01/25/2020,3,0,0,France,1
 France,01/26/2020,3,0,0,France,1
@@ -17940,8 +17935,6 @@ France,09/27/2020,579223,31741,96937,France,1
 France,09/28/2020,583522,31825,97127,France,1
 France,09/29/2020,591527,31898,98088,France,1
 France,09/30/2020,605893,31978,98632,France,1
-France,10/01/2020,618944,32035,99154,France,1
-France,10/02/2020,631380,32171,100253,France,1
 France,10/03/2020,647868,32196,100281,France,1
 France,10/04/2020,660372,32228,100281,France,1
 France,10/05/2020,666011,32299,100873,France,1
@@ -18016,6 +18009,8 @@ France,12/12/2020,2407079,57671,181581,France,1
 France,12/13/2020,2432559,58015,182685,France,1
 France,12/14/2020,2435751,58391,183340,France,1
 France,12/15/2020,2447406,59182,184780,France,1
+France,12/16/2020,2465126,59472,186004,France,1
+France,12/17/2020,2483524,59733,187199,France,1
 French Guiana,03/07/2020,5,0,0,French Guiana,1
 French Guiana,03/08/2020,5,0,0,French Guiana,1
 French Guiana,03/09/2020,5,0,0,French Guiana,1
@@ -18231,8 +18226,6 @@ Gabon,09/27/2020,8728,54,7934,Gabon,1
 Gabon,09/28/2020,8728,54,7934,Gabon,1
 Gabon,09/29/2020,8752,54,7955,Gabon,1
 Gabon,09/30/2020,8766,54,8005,Gabon,1
-Gabon,10/01/2020,8766,54,8005,Gabon,1
-Gabon,10/02/2020,8797,54,8067,Gabon,1
 Gabon,10/03/2020,8797,54,8067,Gabon,1
 Gabon,10/04/2020,8797,54,8067,Gabon,1
 Gabon,10/05/2020,8808,54,8135,Gabon,1
@@ -18307,6 +18300,8 @@ Gabon,12/12/2020,9330,63,9182,Gabon,1
 Gabon,12/13/2020,9330,63,9182,Gabon,1
 Gabon,12/14/2020,9351,63,9204,Gabon,1
 Gabon,12/15/2020,9351,63,9204,Gabon,1
+Gabon,12/16/2020,9373,63,9223,Gabon,1
+Gabon,12/17/2020,9373,63,9223,Gabon,1
 Gambia,03/22/2020,1,0,0,Gambia,1
 Gambia,03/23/2020,2,1,0,Gambia,1
 Gambia,03/24/2020,3,1,0,Gambia,1
@@ -18500,8 +18495,6 @@ Gambia,09/27/2020,3569,111,2161,Gambia,1
 Gambia,09/28/2020,3569,111,2161,Gambia,1
 Gambia,09/29/2020,3579,112,2161,Gambia,1
 Gambia,09/30/2020,3579,112,2161,Gambia,1
-Gambia,10/01/2020,3584,113,2216,Gambia,1
-Gambia,10/02/2020,3585,115,2224,Gambia,1
 Gambia,10/03/2020,3590,115,2226,Gambia,1
 Gambia,10/04/2020,3594,115,2226,Gambia,1
 Gambia,10/05/2020,3594,115,2226,Gambia,1
@@ -18576,6 +18569,8 @@ Gambia,12/12/2020,3779,123,3645,Gambia,1
 Gambia,12/13/2020,3782,123,3647,Gambia,1
 Gambia,12/14/2020,3782,123,3647,Gambia,1
 Gambia,12/15/2020,3785,123,3653,Gambia,1
+Gambia,12/16/2020,3786,123,3653,Gambia,1
+Gambia,12/17/2020,3786,123,3654,Gambia,1
 "Gambia, The",03/18/2020,1,0,0,"Gambia, The",1
 "Gambia, The",03/19/2020,1,0,0,"Gambia, The",1
 "Gambia, The",03/20/2020,1,0,0,"Gambia, The",1
@@ -18798,8 +18793,6 @@ Georgia,09/27/2020,5254,28,1906,Georgia,1
 Georgia,09/28/2020,5552,32,2054,Georgia,1
 Georgia,09/29/2020,5866,36,2324,Georgia,1
 Georgia,09/30/2020,6192,39,3120,Georgia,1
-Georgia,10/01/2020,6640,41,3419,Georgia,1
-Georgia,10/02/2020,7093,46,3714,Georgia,1
 Georgia,10/03/2020,7564,48,3992,Georgia,1
 Georgia,10/04/2020,8118,50,4244,Georgia,1
 Georgia,10/05/2020,8696,54,4619,Georgia,1
@@ -18874,6 +18867,8 @@ Georgia,12/12/2020,187006,1744,154241,Georgia,1
 Georgia,12/13/2020,189726,1790,158183,Georgia,1
 Georgia,12/14/2020,191063,1839,161681,Georgia,1
 Georgia,12/15/2020,194900,1883,164786,Georgia,1
+Georgia,12/16/2020,198387,1922,167281,Georgia,1
+Georgia,12/17/2020,201368,1953,169282,Georgia,1
 Germany,01/28/2020,4,0,0,Germany,1
 Germany,01/29/2020,4,0,0,Germany,1
 Germany,01/30/2020,4,0,0,Germany,1
@@ -19121,8 +19116,6 @@ Germany,09/27/2020,286339,9464,250866,Germany,1
 Germany,09/28/2020,288631,9468,252693,Germany,1
 Germany,09/29/2020,290471,9483,255212,Germany,1
 Germany,09/30/2020,292913,9495,256861,Germany,1
-Germany,10/01/2020,295539,9509,258220,Germany,1
-Germany,10/02/2020,298374,9518,259722,Germany,1
 Germany,10/03/2020,300027,9531,260916,Germany,1
 Germany,10/04/2020,301573,9533,262002,Germany,1
 Germany,10/05/2020,304673,9554,265624,Germany,1
@@ -19197,6 +19190,8 @@ Germany,12/12/2020,1336101,21900,975931,Germany,1
 Germany,12/13/2020,1350810,22106,990707,Germany,1
 Germany,12/14/2020,1357261,22634,1012077,Germany,1
 Germany,12/15/2020,1391086,23544,1031721,Germany,1
+Germany,12/16/2020,1423830,24273,1056477,Germany,1
+Germany,12/17/2020,1454009,25027,1078944,Germany,1
 Ghana,03/14/2020,3,0,0,Ghana,1
 Ghana,03/15/2020,6,0,0,Ghana,1
 Ghana,03/16/2020,6,0,0,Ghana,1
@@ -19398,8 +19393,6 @@ Ghana,09/27/2020,46387,299,45618,Ghana,1
 Ghana,09/28/2020,46444,299,45646,Ghana,1
 Ghana,09/29/2020,46482,301,45651,Ghana,1
 Ghana,09/30/2020,46626,301,45757,Ghana,1
-Ghana,10/01/2020,46656,301,45942,Ghana,1
-Ghana,10/02/2020,46694,301,45945,Ghana,1
 Ghana,10/03/2020,46803,303,46006,Ghana,1
 Ghana,10/04/2020,46829,303,46060,Ghana,1
 Ghana,10/05/2020,46829,303,46060,Ghana,1
@@ -19474,6 +19467,8 @@ Ghana,12/12/2020,52933,327,51676,Ghana,1
 Ghana,12/13/2020,52933,327,51676,Ghana,1
 Ghana,12/14/2020,53014,327,51761,Ghana,1
 Ghana,12/15/2020,53270,327,51965,Ghana,1
+Ghana,12/16/2020,53386,327,52048,Ghana,1
+Ghana,12/17/2020,53553,331,52266,Ghana,1
 Gibraltar,03/04/2020,1,0,0,Gibraltar,1
 Gibraltar,03/05/2020,1,0,0,Gibraltar,1
 Gibraltar,03/06/2020,1,0,0,Gibraltar,1
@@ -19699,8 +19694,6 @@ Greece,09/27/2020,17444,379,1347,Greece,1
 Greece,09/28/2020,17707,383,1347,Greece,1
 Greece,09/29/2020,18123,388,1347,Greece,1
 Greece,09/30/2020,18475,391,1347,Greece,1
-Greece,10/01/2020,18886,393,1347,Greece,1
-Greece,10/02/2020,19346,398,1347,Greece,1
 Greece,10/03/2020,19613,405,1347,Greece,1
 Greece,10/04/2020,19842,409,1347,Greece,1
 Greece,10/05/2020,20142,417,1347,Greece,1
@@ -19775,6 +19768,8 @@ Greece,12/12/2020,123842,3540,23074,Greece,1
 Greece,12/13/2020,124534,3625,23074,Greece,1
 Greece,12/14/2020,125173,3687,23074,Greece,1
 Greece,12/15/2020,126372,3785,23074,Greece,1
+Greece,12/16/2020,127557,3870,23074,Greece,1
+Greece,12/17/2020,128710,3948,23074,Greece,1
 Greenland,03/16/2020,1,0,0,Greenland,1
 Greenland,03/17/2020,1,0,0,Greenland,1
 Greenland,03/18/2020,1,0,0,Greenland,1
@@ -19974,8 +19969,6 @@ Grenada,09/27/2020,24,0,24,Grenada,1
 Grenada,09/28/2020,24,0,24,Grenada,1
 Grenada,09/29/2020,24,0,24,Grenada,1
 Grenada,09/30/2020,24,0,24,Grenada,1
-Grenada,10/01/2020,24,0,24,Grenada,1
-Grenada,10/02/2020,24,0,24,Grenada,1
 Grenada,10/03/2020,24,0,24,Grenada,1
 Grenada,10/04/2020,24,0,24,Grenada,1
 Grenada,10/05/2020,24,0,24,Grenada,1
@@ -20050,6 +20043,8 @@ Grenada,12/12/2020,43,0,41,Grenada,1
 Grenada,12/13/2020,69,0,41,Grenada,1
 Grenada,12/14/2020,69,0,41,Grenada,1
 Grenada,12/15/2020,69,0,41,Grenada,1
+Grenada,12/16/2020,85,0,41,Grenada,1
+Grenada,12/17/2020,85,0,41,Grenada,1
 Guadeloupe,03/13/2020,1,0,0,Guadeloupe,1
 Guadeloupe,03/14/2020,1,0,0,Guadeloupe,1
 Guadeloupe,03/15/2020,3,0,0,Guadeloupe,1
@@ -20266,8 +20261,6 @@ Guatemala,09/27/2020,90092,3229,78698,Guatemala,1
 Guatemala,09/28/2020,90263,3234,79067,Guatemala,1
 Guatemala,09/29/2020,90968,3238,79654,Guatemala,1
 Guatemala,09/30/2020,91746,3246,80256,Guatemala,1
-Guatemala,10/01/2020,92409,3261,80800,Guatemala,1
-Guatemala,10/02/2020,93090,3267,81466,Guatemala,1
 Guatemala,10/03/2020,93748,3285,82040,Guatemala,1
 Guatemala,10/04/2020,93963,3293,82454,Guatemala,1
 Guatemala,10/05/2020,94182,3302,82828,Guatemala,1
@@ -20342,6 +20335,8 @@ Guatemala,12/12/2020,129099,4405,117615,Guatemala,1
 Guatemala,12/13/2020,129282,4423,117923,Guatemala,1
 Guatemala,12/14/2020,129405,4445,118217,Guatemala,1
 Guatemala,12/15/2020,130082,4476,118793,Guatemala,1
+Guatemala,12/16/2020,130828,4510,119288,Guatemala,1
+Guatemala,12/17/2020,131435,4551,119748,Guatemala,1
 Guernsey,03/14/2020,1,0,0,Guernsey,1
 Guernsey,03/15/2020,1,0,0,Guernsey,1
 Guernsey,03/16/2020,1,0,0,Guernsey,1
@@ -20552,8 +20547,6 @@ Guinea,09/27/2020,10580,66,9892,Guinea,1
 Guinea,09/28/2020,10598,66,9940,Guinea,1
 Guinea,09/29/2020,10634,66,9960,Guinea,1
 Guinea,09/30/2020,10652,66,9996,Guinea,1
-Guinea,10/01/2020,10652,66,9996,Guinea,1
-Guinea,10/02/2020,10735,66,10066,Guinea,1
 Guinea,10/03/2020,10735,66,10066,Guinea,1
 Guinea,10/04/2020,10754,66,10098,Guinea,1
 Guinea,10/05/2020,10800,67,10161,Guinea,1
@@ -20628,6 +20621,8 @@ Guinea,12/12/2020,13420,79,12657,Guinea,1
 Guinea,12/13/2020,13420,79,12657,Guinea,1
 Guinea,12/14/2020,13457,80,12713,Guinea,1
 Guinea,12/15/2020,13457,80,12713,Guinea,1
+Guinea,12/16/2020,13474,80,12727,Guinea,1
+Guinea,12/17/2020,13485,80,12773,Guinea,1
 Guinea-Bissau,03/25/2020,2,0,0,Guinea-Bissau,1
 Guinea-Bissau,03/26/2020,2,0,0,Guinea-Bissau,1
 Guinea-Bissau,03/27/2020,2,0,0,Guinea-Bissau,1
@@ -20818,8 +20813,6 @@ Guinea-Bissau,09/27/2020,2324,39,1549,Guinea-Bissau,1
 Guinea-Bissau,09/28/2020,2324,39,1549,Guinea-Bissau,1
 Guinea-Bissau,09/29/2020,2324,39,1549,Guinea-Bissau,1
 Guinea-Bissau,09/30/2020,2324,39,1549,Guinea-Bissau,1
-Guinea-Bissau,10/01/2020,2324,39,1549,Guinea-Bissau,1
-Guinea-Bissau,10/02/2020,2362,39,1549,Guinea-Bissau,1
 Guinea-Bissau,10/03/2020,2362,39,1549,Guinea-Bissau,1
 Guinea-Bissau,10/04/2020,2362,39,1549,Guinea-Bissau,1
 Guinea-Bissau,10/05/2020,2385,40,1728,Guinea-Bissau,1
@@ -20894,6 +20887,8 @@ Guinea-Bissau,12/12/2020,2444,44,2337,Guinea-Bissau,1
 Guinea-Bissau,12/13/2020,2444,44,2337,Guinea-Bissau,1
 Guinea-Bissau,12/14/2020,2444,44,2337,Guinea-Bissau,1
 Guinea-Bissau,12/15/2020,2447,44,2378,Guinea-Bissau,1
+Guinea-Bissau,12/16/2020,2447,44,2378,Guinea-Bissau,1
+Guinea-Bissau,12/17/2020,2447,44,2378,Guinea-Bissau,1
 Guyana,03/12/2020,1,1,0,Guyana,1
 Guyana,03/13/2020,1,1,0,Guyana,1
 Guyana,03/14/2020,1,1,0,Guyana,1
@@ -21097,8 +21092,6 @@ Guyana,09/27/2020,2772,76,1564,Guyana,1
 Guyana,09/28/2020,2787,78,1608,Guyana,1
 Guyana,09/29/2020,2846,78,1644,Guyana,1
 Guyana,09/30/2020,2894,80,1680,Guyana,1
-Guyana,10/01/2020,2929,82,1760,Guyana,1
-Guyana,10/02/2020,2968,85,1776,Guyana,1
 Guyana,10/03/2020,2968,85,1776,Guyana,1
 Guyana,10/04/2020,3093,87,1920,Guyana,1
 Guyana,10/05/2020,3188,90,1972,Guyana,1
@@ -21173,6 +21166,8 @@ Guyana,12/12/2020,5879,154,5044,Guyana,1
 Guyana,12/13/2020,5920,155,5073,Guyana,1
 Guyana,12/14/2020,5943,156,5077,Guyana,1
 Guyana,12/15/2020,5973,156,5144,Guyana,1
+Guyana,12/16/2020,6016,158,5185,Guyana,1
+Guyana,12/17/2020,6042,158,5197,Guyana,1
 Haiti,03/20/2020,2,0,0,Haiti,1
 Haiti,03/21/2020,2,0,0,Haiti,1
 Haiti,03/22/2020,2,0,0,Haiti,1
@@ -21368,8 +21363,6 @@ Haiti,09/27/2020,8740,227,6688,Haiti,1
 Haiti,09/28/2020,8740,227,6757,Haiti,1
 Haiti,09/29/2020,8740,227,6757,Haiti,1
 Haiti,09/30/2020,8766,229,6829,Haiti,1
-Haiti,10/01/2020,8781,229,6907,Haiti,1
-Haiti,10/02/2020,8792,229,6949,Haiti,1
 Haiti,10/03/2020,8811,229,6949,Haiti,1
 Haiti,10/04/2020,8819,229,6992,Haiti,1
 Haiti,10/05/2020,8827,229,6992,Haiti,1
@@ -21444,6 +21437,8 @@ Haiti,12/12/2020,9491,233,8241,Haiti,1
 Haiti,12/13/2020,9491,233,8241,Haiti,1
 Haiti,12/14/2020,9588,234,8280,Haiti,1
 Haiti,12/15/2020,9597,234,8280,Haiti,1
+Haiti,12/16/2020,9597,234,8280,Haiti,1
+Haiti,12/17/2020,9627,234,8310,Haiti,1
 Holy See,03/10/2020,1,0,0,Holy See,1
 Holy See,03/11/2020,1,0,0,Holy See,1
 Holy See,03/12/2020,1,0,0,Holy See,1
@@ -21649,8 +21644,6 @@ Holy See,09/27/2020,12,0,12,Holy See,1
 Holy See,09/28/2020,12,0,12,Holy See,1
 Holy See,09/29/2020,12,0,12,Holy See,1
 Holy See,09/30/2020,12,0,12,Holy See,1
-Holy See,10/01/2020,12,0,12,Holy See,1
-Holy See,10/02/2020,12,0,12,Holy See,1
 Holy See,10/03/2020,12,0,12,Holy See,1
 Holy See,10/04/2020,12,0,12,Holy See,1
 Holy See,10/05/2020,12,0,12,Holy See,1
@@ -21725,6 +21718,8 @@ Holy See,12/12/2020,27,0,15,Holy See,1
 Holy See,12/13/2020,27,0,15,Holy See,1
 Holy See,12/14/2020,27,0,15,Holy See,1
 Holy See,12/15/2020,27,0,15,Holy See,1
+Holy See,12/16/2020,27,0,15,Holy See,1
+Holy See,12/17/2020,27,0,15,Holy See,1
 Honduras,03/11/2020,2,0,0,Honduras,1
 Honduras,03/12/2020,2,0,0,Honduras,1
 Honduras,03/13/2020,2,0,0,Honduras,1
@@ -21929,8 +21924,6 @@ Honduras,09/27/2020,74548,2288,26088,Honduras,1
 Honduras,09/28/2020,75537,2301,26957,Honduras,1
 Honduras,09/29/2020,76098,2323,27383,Honduras,1
 Honduras,09/30/2020,76900,2353,27922,Honduras,1
-Honduras,10/01/2020,77598,2380,28517,Honduras,1
-Honduras,10/02/2020,78269,2386,28978,Honduras,1
 Honduras,10/03/2020,78788,2399,29187,Honduras,1
 Honduras,10/04/2020,79629,2422,29305,Honduras,1
 Honduras,10/05/2020,80020,2433,29768,Honduras,1
@@ -22005,8 +21998,8 @@ Honduras,12/12/2020,114043,2974,51410,Honduras,1
 Honduras,12/13/2020,114359,2975,51478,Honduras,1
 Honduras,12/14/2020,114642,2989,51688,Honduras,1
 Honduras,12/15/2020,114943,3001,52392,Honduras,1
-Hong Kong,01/22/2020,0,0,0,Hong Kong,1
-Hong Kong,01/23/2020,2,0,0,Hong Kong,1
+Honduras,12/16/2020,115317,3013,52945,Honduras,1
+Honduras,12/17/2020,115474,3021,53499,Honduras,1
 Hong Kong,01/24/2020,2,0,0,Hong Kong,1
 Hong Kong,01/25/2020,5,0,0,Hong Kong,1
 Hong Kong,01/26/2020,8,0,0,Hong Kong,1
@@ -22265,8 +22258,6 @@ Hungary,09/27/2020,24014,736,5141,Hungary,1
 Hungary,09/28/2020,24716,749,5152,Hungary,1
 Hungary,09/29/2020,25567,757,5173,Hungary,1
 Hungary,09/30/2020,26461,765,5890,Hungary,1
-Hungary,10/01/2020,27309,781,6118,Hungary,1
-Hungary,10/02/2020,28631,798,6349,Hungary,1
 Hungary,10/03/2020,29717,812,6824,Hungary,1
 Hungary,10/04/2020,30575,822,7470,Hungary,1
 Hungary,10/05/2020,31480,833,8165,Hungary,1
@@ -22341,6 +22332,8 @@ Hungary,12/12/2020,276247,6784,79769,Hungary,1
 Hungary,12/13/2020,280400,6965,80752,Hungary,1
 Hungary,12/14/2020,283870,7130,82546,Hungary,1
 Hungary,12/15/2020,285763,7237,83115,Hungary,1
+Hungary,12/16/2020,288567,7381,83940,Hungary,1
+Hungary,12/17/2020,291549,7538,86954,Hungary,1
 Iceland,02/28/2020,1,0,0,Iceland,1
 Iceland,02/29/2020,1,0,0,Iceland,1
 Iceland,03/01/2020,3,0,0,Iceland,1
@@ -22557,8 +22550,6 @@ Iceland,09/27/2020,2623,10,2158,Iceland,1
 Iceland,09/28/2020,2663,10,2161,Iceland,1
 Iceland,09/29/2020,2695,10,2162,Iceland,1
 Iceland,09/30/2020,2728,10,2167,Iceland,1
-Iceland,10/01/2020,2769,10,2177,Iceland,1
-Iceland,10/02/2020,2809,10,2194,Iceland,1
 Iceland,10/03/2020,2872,10,2212,Iceland,1
 Iceland,10/04/2020,2921,10,2277,Iceland,1
 Iceland,10/05/2020,2980,10,2300,Iceland,1
@@ -22633,6 +22624,8 @@ Iceland,12/12/2020,5552,28,5346,Iceland,1
 Iceland,12/13/2020,5557,28,5366,Iceland,1
 Iceland,12/14/2020,5564,28,5392,Iceland,1
 Iceland,12/15/2020,5571,28,5401,Iceland,1
+Iceland,12/16/2020,5578,28,5421,Iceland,1
+Iceland,12/17/2020,5588,28,5423,Iceland,1
 India,01/30/2020,1,0,0,India,1
 India,01/31/2020,1,0,0,India,1
 India,02/01/2020,1,0,0,India,1
@@ -22878,8 +22871,6 @@ India,09/27/2020,6074702,95542,5016520,India,1
 India,09/28/2020,6145291,96318,5101397,India,1
 India,09/29/2020,6225763,97497,5187825,India,1
 India,09/30/2020,6312584,98678,5273201,India,1
-India,10/01/2020,6386526,99620,5343837,India,1
-India,10/02/2020,6473544,100842,5427706,India,1
 India,10/03/2020,6549373,101782,5509966,India,1
 India,10/04/2020,6623815,102685,5586703,India,1
 India,10/05/2020,6685082,103569,5662490,India,1
@@ -22954,6 +22945,8 @@ India,12/12/2020,9857029,143019,9357464,India,1
 India,12/13/2020,9884100,143355,9388159,India,1
 India,12/14/2020,9906165,143709,9422636,India,1
 India,12/15/2020,9932547,144096,9456449,India,1
+India,12/16/2020,9956557,144451,9489740,India,1
+India,12/17/2020,9979447,144789,9520827,India,1
 Indonesia,03/02/2020,2,0,0,Indonesia,1
 Indonesia,03/03/2020,2,0,0,Indonesia,1
 Indonesia,03/04/2020,2,0,0,Indonesia,1
@@ -23167,8 +23160,6 @@ Indonesia,09/27/2020,275213,10386,203014,Indonesia,1
 Indonesia,09/28/2020,278722,10473,206870,Indonesia,1
 Indonesia,09/29/2020,282724,10601,210437,Indonesia,1
 Indonesia,09/30/2020,287008,10740,214947,Indonesia,1
-Indonesia,10/01/2020,291182,10856,218487,Indonesia,1
-Indonesia,10/02/2020,295499,10972,221340,Indonesia,1
 Indonesia,10/03/2020,299506,11055,225052,Indonesia,1
 Indonesia,10/04/2020,303498,11151,228453,Indonesia,1
 Indonesia,10/05/2020,307120,11253,232593,Indonesia,1
@@ -23243,6 +23234,8 @@ Indonesia,12/12/2020,611631,18653,501376,Indonesia,1
 Indonesia,12/13/2020,617820,18819,505836,Indonesia,1
 Indonesia,12/14/2020,623309,18956,510957,Indonesia,1
 Indonesia,12/15/2020,629429,19111,516656,Indonesia,1
+Indonesia,12/16/2020,636154,19248,521984,Indonesia,1
+Indonesia,12/17/2020,643508,19390,526979,Indonesia,1
 Iran,02/19/2020,2,2,0,Iran,1
 Iran,02/20/2020,5,2,0,Iran,1
 Iran,02/21/2020,18,4,0,Iran,1
@@ -23467,8 +23460,6 @@ Iran,09/27/2020,446448,25589,374170,Iran,1
 Iran,09/28/2020,449960,25779,376531,Iran,1
 Iran,09/29/2020,453637,25986,378727,Iran,1
 Iran,09/30/2020,457219,26169,380956,Iran,1
-Iran,10/01/2020,461044,26380,383368,Iran,1
-Iran,10/02/2020,464596,26567,385264,Iran,1
 Iran,10/03/2020,468119,26746,387675,Iran,1
 Iran,10/04/2020,471772,26957,389966,Iran,1
 Iran,10/05/2020,475674,27192,392293,Iran,1
@@ -23543,6 +23534,8 @@ Iran,12/12/2020,1100818,51949,800853,Iran,1
 Iran,12/13/2020,1108269,52196,812270,Iran,1
 Iran,12/14/2020,1115770,52447,823231,Iran,1
 Iran,12/15/2020,1123474,52670,833276,Iran,1
+Iran,12/16/2020,1131077,52883,844430,Iran,1
+Iran,12/17/2020,1138530,53095,856513,Iran,1
 Iran (Islamic Republic of),03/10/2020,8042,291,2731,Iran (Islamic Republic of),1
 Iraq,02/23/2020,0,0,0,Iraq,1
 Iraq,02/24/2020,1,0,0,Iraq,1
@@ -23765,8 +23758,6 @@ Iraq,09/27/2020,349450,8990,280673,Iraq,1
 Iraq,09/28/2020,353566,9052,284784,Iraq,1
 Iraq,09/29/2020,358290,9122,288812,Iraq,1
 Iraq,09/30/2020,362981,9181,292197,Iraq,1
-Iraq,10/01/2020,367474,9231,295882,Iraq,1
-Iraq,10/02/2020,372259,9298,299804,Iraq,1
 Iraq,10/03/2020,375931,9347,303665,Iraq,1
 Iraq,10/04/2020,379141,9399,307482,Iraq,1
 Iraq,10/05/2020,382949,9464,312158,Iraq,1
@@ -23841,6 +23832,8 @@ Iraq,12/12/2020,573622,12565,505669,Iraq,1
 Iraq,12/13/2020,574634,12579,507446,Iraq,1
 Iraq,12/14/2020,575972,12603,509474,Iraq,1
 Iraq,12/15/2020,577363,12614,511639,Iraq,1
+Iraq,12/16/2020,578916,12636,513405,Iraq,1
+Iraq,12/17/2020,580449,12650,515321,Iraq,1
 Ireland,02/29/2020,1,0,0,Ireland,1
 Ireland,03/01/2020,1,0,0,Ireland,1
 Ireland,03/02/2020,1,0,0,Ireland,1
@@ -24056,8 +24049,6 @@ Ireland,09/27/2020,34990,1802,23364,Ireland,1
 Ireland,09/28/2020,35377,1802,23364,Ireland,1
 Ireland,09/29/2020,35740,1803,23364,Ireland,1
 Ireland,09/30/2020,36155,1804,23364,Ireland,1
-Ireland,10/01/2020,36597,1806,23364,Ireland,1
-Ireland,10/02/2020,37063,1801,23364,Ireland,1
 Ireland,10/03/2020,37668,1810,23364,Ireland,1
 Ireland,10/04/2020,38032,1810,23364,Ireland,1
 Ireland,10/05/2020,38549,1810,23364,Ireland,1
@@ -24132,6 +24123,8 @@ Ireland,12/12/2020,75756,2123,23364,Ireland,1
 Ireland,12/13/2020,76185,2124,23364,Ireland,1
 Ireland,12/14/2020,76449,2126,23364,Ireland,1
 Ireland,12/15/2020,76776,2134,23364,Ireland,1
+Ireland,12/16/2020,77197,2140,23364,Ireland,1
+Ireland,12/17/2020,77678,2143,23364,Ireland,1
 Israel,02/21/2020,1,0,0,Israel,1
 Israel,02/22/2020,1,0,0,Israel,1
 Israel,02/23/2020,1,0,0,Israel,1
@@ -24355,8 +24348,6 @@ Israel,09/27/2020,232183,1503,164268,Israel,1
 Israel,09/28/2020,233342,1532,166490,Israel,1
 Israel,09/29/2020,238333,1567,172464,Israel,1
 Israel,09/30/2020,247411,1604,177829,Israel,1
-Israel,10/01/2020,255142,1650,183723,Israel,1
-Israel,10/02/2020,262200,1675,189411,Israel,1
 Israel,10/03/2020,264793,1712,192966,Israel,1
 Israel,10/04/2020,267730,1748,201274,Israel,1
 Israel,10/05/2020,273451,1775,208378,Israel,1
@@ -24431,6 +24422,8 @@ Israel,12/12/2020,355786,2983,335243,Israel,1
 Israel,12/13/2020,357176,2999,337186,Israel,1
 Israel,12/14/2020,359506,3004,338418,Israel,1
 Israel,12/15/2020,360630,3014,338784,Israel,1
+Israel,12/16/2020,365042,3034,341217,Israel,1
+Israel,12/17/2020,367975,3050,342985,Israel,1
 Italy,01/31/2020,2,0,0,Italy,1
 Italy,02/01/2020,2,0,0,Italy,1
 Italy,02/02/2020,2,0,0,Italy,1
@@ -24675,8 +24668,6 @@ Italy,09/27/2020,309870,35835,224417,Italy,1
 Italy,09/28/2020,311364,35851,225190,Italy,1
 Italy,09/29/2020,313011,35875,226506,Italy,1
 Italy,09/30/2020,314861,35894,227704,Italy,1
-Italy,10/01/2020,317409,35918,228844,Italy,1
-Italy,10/02/2020,319908,35941,229970,Italy,1
 Italy,10/03/2020,322751,35968,231217,Italy,1
 Italy,10/04/2020,325329,35986,231914,Italy,1
 Italy,10/05/2020,327586,36002,232681,Italy,1
@@ -24751,6 +24742,8 @@ Italy,12/12/2020,1825775,64036,1076891,Italy,1
 Italy,12/13/2020,1843712,64520,1093161,Italy,1
 Italy,12/14/2020,1855737,65011,1115617,Italy,1
 Italy,12/15/2020,1870576,65857,1141406,Italy,1
+Italy,12/16/2020,1888144,66537,1175901,Italy,1
+Italy,12/17/2020,1906377,67220,1203814,Italy,1
 Ivory Coast,01/27/2020,1,0,0,Ivory Coast,1
 Jamaica,03/11/2020,1,0,0,Jamaica,1
 Jamaica,03/12/2020,2,0,0,Jamaica,1
@@ -24956,8 +24949,6 @@ Jamaica,09/27/2020,6017,89,1706,Jamaica,1
 Jamaica,09/28/2020,6170,93,1741,Jamaica,1
 Jamaica,09/29/2020,6408,101,1770,Jamaica,1
 Jamaica,09/30/2020,6482,107,1867,Jamaica,1
-Jamaica,10/01/2020,6555,111,1991,Jamaica,1
-Jamaica,10/02/2020,6704,116,2112,Jamaica,1
 Jamaica,10/03/2020,6795,119,2345,Jamaica,1
 Jamaica,10/04/2020,6895,120,2460,Jamaica,1
 Jamaica,10/05/2020,7012,120,2635,Jamaica,1
@@ -25032,8 +25023,8 @@ Jamaica,12/12/2020,11608,271,7799,Jamaica,1
 Jamaica,12/13/2020,11710,273,7954,Jamaica,1
 Jamaica,12/14/2020,11792,273,8098,Jamaica,1
 Jamaica,12/15/2020,11875,276,8212,Jamaica,1
-Japan,01/22/2020,2,0,0,Japan,1
-Japan,01/23/2020,1,0,0,Japan,1
+Jamaica,12/16/2020,11907,276,8371,Jamaica,1
+Jamaica,12/17/2020,11968,279,8525,Jamaica,1
 Japan,01/24/2020,2,0,0,Japan,1
 Japan,01/25/2020,2,0,0,Japan,1
 Japan,01/26/2020,4,0,1,Japan,1
@@ -25285,8 +25276,6 @@ Japan,09/27/2020,82186,1549,73677,Japan,1
 Japan,09/28/2020,82484,1561,74495,Japan,1
 Japan,09/29/2020,83022,1568,74962,Japan,1
 Japan,09/30/2020,83591,1575,75522,Japan,1
-Japan,10/01/2020,84244,1580,76081,Japan,1
-Japan,10/02/2020,84768,1591,76700,Japan,1
 Japan,10/03/2020,85345,1594,76700,Japan,1
 Japan,10/04/2020,85746,1598,77851,Japan,1
 Japan,10/05/2020,86027,1602,78071,Japan,1
@@ -25361,6 +25350,8 @@ Japan,12/12/2020,178272,2462,147368,Japan,1
 Japan,12/13/2020,180639,2481,149130,Japan,1
 Japan,12/14/2020,182311,2530,150791,Japan,1
 Japan,12/15/2020,184752,2581,153363,Japan,1
+Japan,12/16/2020,187751,2623,155391,Japan,1
+Japan,12/17/2020,190950,2661,158131,Japan,1
 Jersey,03/14/2020,2,0,0,Jersey,1
 Jersey,03/15/2020,2,0,0,Jersey,1
 Jersey,03/16/2020,2,0,0,Jersey,1
@@ -25581,8 +25572,6 @@ Jordan,09/27/2020,8492,45,4222,Jordan,1
 Jordan,09/28/2020,9226,51,4359,Jordan,1
 Jordan,09/29/2020,10049,57,4496,Jordan,1
 Jordan,09/30/2020,11825,61,4626,Jordan,1
-Jordan,10/01/2020,13101,69,4752,Jordan,1
-Jordan,10/02/2020,13650,79,4929,Jordan,1
 Jordan,10/03/2020,14749,88,5101,Jordan,1
 Jordan,10/04/2020,15640,101,5240,Jordan,1
 Jordan,10/05/2020,17464,110,5292,Jordan,1
@@ -25657,6 +25646,8 @@ Jordan,12/12/2020,257275,3335,213344,Jordan,1
 Jordan,12/13/2020,259614,3365,218467,Jordan,1
 Jordan,12/14/2020,262477,3407,222654,Jordan,1
 Jordan,12/15/2020,265024,3437,226245,Jordan,1
+Jordan,12/16/2020,267585,3465,230274,Jordan,1
+Jordan,12/17/2020,269806,3496,233390,Jordan,1
 Kazakhstan,03/13/2020,4,0,0,Kazakhstan,1
 Kazakhstan,03/14/2020,6,0,0,Kazakhstan,1
 Kazakhstan,03/15/2020,9,0,0,Kazakhstan,1
@@ -25859,8 +25850,6 @@ Kazakhstan,09/27/2020,140175,2048,129701,Kazakhstan,1
 Kazakhstan,09/28/2020,140265,2049,129770,Kazakhstan,1
 Kazakhstan,09/29/2020,140333,2050,129839,Kazakhstan,1
 Kazakhstan,09/30/2020,140707,2078,129902,Kazakhstan,1
-Kazakhstan,10/01/2020,140958,2080,129993,Kazakhstan,1
-Kazakhstan,10/02/2020,141256,2082,130447,Kazakhstan,1
 Kazakhstan,10/03/2020,141484,2083,130542,Kazakhstan,1
 Kazakhstan,10/04/2020,141748,2083,130614,Kazakhstan,1
 Kazakhstan,10/05/2020,141844,2085,130874,Kazakhstan,1
@@ -25935,6 +25924,8 @@ Kazakhstan,12/12/2020,185513,2552,156848,Kazakhstan,1
 Kazakhstan,12/13/2020,186277,2552,157701,Kazakhstan,1
 Kazakhstan,12/14/2020,186960,2554,158705,Kazakhstan,1
 Kazakhstan,12/15/2020,187890,2613,159985,Kazakhstan,1
+Kazakhstan,12/16/2020,188837,2613,160889,Kazakhstan,1
+Kazakhstan,12/17/2020,189551,2615,161561,Kazakhstan,1
 Kenya,03/13/2020,1,0,0,Kenya,1
 Kenya,03/14/2020,1,0,0,Kenya,1
 Kenya,03/15/2020,3,0,0,Kenya,1
@@ -26137,8 +26128,6 @@ Kenya,09/27/2020,38115,691,24621,Kenya,1
 Kenya,09/28/2020,38168,700,24681,Kenya,1
 Kenya,09/29/2020,38378,707,24740,Kenya,1
 Kenya,09/30/2020,38529,711,24908,Kenya,1
-Kenya,10/01/2020,38713,711,24908,Kenya,1
-Kenya,10/02/2020,38923,725,25114,Kenya,1
 Kenya,10/03/2020,39184,728,25426,Kenya,1
 Kenya,10/04/2020,39427,731,25659,Kenya,1
 Kenya,10/05/2020,39449,735,27035,Kenya,1
@@ -26213,6 +26202,8 @@ Kenya,12/12/2020,91526,1586,72596,Kenya,1
 Kenya,12/13/2020,91892,1587,73028,Kenya,1
 Kenya,12/14/2020,92055,1593,73452,Kenya,1
 Kenya,12/15/2020,92459,1604,73979,Kenya,1
+Kenya,12/16/2020,92853,1614,74403,Kenya,1
+Kenya,12/17/2020,93405,1618,74999,Kenya,1
 "Korea, South",03/11/2020,7755,60,288,"Korea, South",1
 "Korea, South",03/12/2020,7869,66,333,"Korea, South",1
 "Korea, South",03/13/2020,7979,66,510,"Korea, South",1
@@ -26417,8 +26408,6 @@ Kenya,12/15/2020,92459,1604,73979,Kenya,1
 "Korea, South",09/28/2020,23699,407,21470,"Korea, South",1
 "Korea, South",09/29/2020,23812,413,21590,"Korea, South",1
 "Korea, South",09/30/2020,23889,415,21666,"Korea, South",1
-"Korea, South",10/01/2020,23952,416,21733,"Korea, South",1
-"Korea, South",10/02/2020,24027,420,21787,"Korea, South",1
 "Korea, South",10/03/2020,24091,421,21845,"Korea, South",1
 "Korea, South",10/04/2020,24164,422,21886,"Korea, South",1
 "Korea, South",10/05/2020,24239,422,22083,"Korea, South",1
@@ -26493,6 +26482,8 @@ Kenya,12/15/2020,92459,1604,73979,Kenya,1
 "Korea, South",12/13/2020,43484,587,32102,"Korea, South",1
 "Korea, South",12/14/2020,44364,600,32559,"Korea, South",1
 "Korea, South",12/15/2020,45442,612,32947,"Korea, South",1
+"Korea, South",12/16/2020,46453,634,33610,"Korea, South",1
+"Korea, South",12/17/2020,47515,645,33982,"Korea, South",1
 Kosovo,03/15/2020,2,0,0,Kosovo,1
 Kosovo,03/16/2020,2,0,0,Kosovo,1
 Kosovo,03/17/2020,2,0,0,Kosovo,1
@@ -26689,8 +26680,6 @@ Kosovo,09/27/2020,15472,622,13278,Kosovo,1
 Kosovo,09/28/2020,15520,625,13420,Kosovo,1
 Kosovo,09/29/2020,15574,625,13492,Kosovo,1
 Kosovo,09/30/2020,15620,625,13554,Kosovo,1
-Kosovo,10/01/2020,15663,627,13677,Kosovo,1
-Kosovo,10/02/2020,15705,627,13731,Kosovo,1
 Kosovo,10/03/2020,1578,630,13787,Kosovo,1
 Kosovo,10/04/2020,15814,630,13856,Kosovo,1
 Kosovo,10/05/2020,15855,633,13929,Kosovo,1
@@ -26765,6 +26754,8 @@ Kosovo,12/12/2020,46118,1186,33064,Kosovo,1
 Kosovo,12/13/2020,46580,1198,33600,Kosovo,1
 Kosovo,12/14/2020,46909,1203,34155,Kosovo,1
 Kosovo,12/15/2020,47203,1220,34637,Kosovo,1
+Kosovo,12/16/2020,47499,1225,34956,Kosovo,1
+Kosovo,12/17/2020,47499,1225,34956,Kosovo,1
 Kuwait,02/24/2020,1,0,0,Kuwait,1
 Kuwait,02/25/2020,11,0,0,Kuwait,1
 Kuwait,02/26/2020,26,0,0,Kuwait,1
@@ -26985,8 +26976,6 @@ Kuwait,09/27/2020,103544,601,94929,Kuwait,1
 Kuwait,09/28/2020,103981,605,95511,Kuwait,1
 Kuwait,09/29/2020,104568,607,96049,Kuwait,1
 Kuwait,09/30/2020,105182,610,96688,Kuwait,1
-Kuwait,10/01/2020,105676,612,97197,Kuwait,1
-Kuwait,10/02/2020,106087,615,97898,Kuwait,1
 Kuwait,10/03/2020,106458,620,98435,Kuwait,1
 Kuwait,10/04/2020,107025,624,99040,Kuwait,1
 Kuwait,10/05/2020,107592,628,99549,Kuwait,1
@@ -27061,6 +27050,8 @@ Kuwait,12/12/2020,146044,911,141825,Kuwait,1
 Kuwait,12/13/2020,146218,911,142094,Kuwait,1
 Kuwait,12/14/2020,146449,912,142357,Kuwait,1
 Kuwait,12/15/2020,146710,913,142599,Kuwait,1
+Kuwait,12/16/2020,146971,913,142909,Kuwait,1
+Kuwait,12/17/2020,147192,913,143113,Kuwait,1
 Kyrgyzstan,03/18/2020,3,0,0,Kyrgyzstan,1
 Kyrgyzstan,03/19/2020,3,0,0,Kyrgyzstan,1
 Kyrgyzstan,03/20/2020,6,0,0,Kyrgyzstan,1
@@ -27258,8 +27249,6 @@ Kyrgyzstan,09/27/2020,46251,1063,42453,Kyrgyzstan,1
 Kyrgyzstan,09/28/2020,46355,1064,42613,Kyrgyzstan,1
 Kyrgyzstan,09/29/2020,46522,1064,42761,Kyrgyzstan,1
 Kyrgyzstan,09/30/2020,46669,1064,42879,Kyrgyzstan,1
-Kyrgyzstan,10/01/2020,46841,1065,42983,Kyrgyzstan,1
-Kyrgyzstan,10/02/2020,47056,1065,43137,Kyrgyzstan,1
 Kyrgyzstan,10/03/2020,47184,1066,43278,Kyrgyzstan,1
 Kyrgyzstan,10/04/2020,47428,1066,43418,Kyrgyzstan,1
 Kyrgyzstan,10/05/2020,47635,1066,43521,Kyrgyzstan,1
@@ -27334,6 +27323,8 @@ Kyrgyzstan,12/12/2020,77059,1307,69794,Kyrgyzstan,1
 Kyrgyzstan,12/13/2020,77356,1312,70450,Kyrgyzstan,1
 Kyrgyzstan,12/14/2020,77674,1312,70450,Kyrgyzstan,1
 Kyrgyzstan,12/15/2020,78151,1317,71270,Kyrgyzstan,1
+Kyrgyzstan,12/16/2020,78151,1317,71270,Kyrgyzstan,1
+Kyrgyzstan,12/17/2020,78415,1321,71656,Kyrgyzstan,1
 Laos,03/24/2020,2,0,0,Laos,1
 Laos,03/25/2020,3,0,0,Laos,1
 Laos,03/26/2020,6,0,0,Laos,1
@@ -27525,8 +27516,6 @@ Laos,09/27/2020,23,0,22,Laos,1
 Laos,09/28/2020,23,0,22,Laos,1
 Laos,09/29/2020,23,0,22,Laos,1
 Laos,09/30/2020,23,0,22,Laos,1
-Laos,10/01/2020,23,0,22,Laos,1
-Laos,10/02/2020,23,0,22,Laos,1
 Laos,10/03/2020,23,0,22,Laos,1
 Laos,10/04/2020,23,0,22,Laos,1
 Laos,10/05/2020,23,0,22,Laos,1
@@ -27601,6 +27590,8 @@ Laos,12/12/2020,41,0,33,Laos,1
 Laos,12/13/2020,41,0,33,Laos,1
 Laos,12/14/2020,41,0,34,Laos,1
 Laos,12/15/2020,41,0,34,Laos,1
+Laos,12/16/2020,41,0,36,Laos,1
+Laos,12/17/2020,41,0,36,Laos,1
 Latvia,03/02/2020,1,0,0,Latvia,1
 Latvia,03/03/2020,1,0,0,Latvia,1
 Latvia,03/04/2020,1,0,0,Latvia,1
@@ -27814,8 +27805,6 @@ Latvia,09/27/2020,1676,36,1304,Latvia,1
 Latvia,09/28/2020,1697,36,1304,Latvia,1
 Latvia,09/29/2020,1729,37,1307,Latvia,1
 Latvia,09/30/2020,1824,37,1307,Latvia,1
-Latvia,10/01/2020,1868,37,1307,Latvia,1
-Latvia,10/02/2020,1945,38,1307,Latvia,1
 Latvia,10/03/2020,2019,38,1307,Latvia,1
 Latvia,10/04/2020,2086,38,1307,Latvia,1
 Latvia,10/05/2020,2126,39,1307,Latvia,1
@@ -27890,6 +27879,8 @@ Latvia,12/12/2020,25046,324,1866,Latvia,1
 Latvia,12/13/2020,25675,349,16778,Latvia,1
 Latvia,12/14/2020,25885,352,16869,Latvia,1
 Latvia,12/15/2020,26472,357,17477,Latvia,1
+Latvia,12/16/2020,27495,382,18153,Latvia,1
+Latvia,12/17/2020,28535,394,19072,Latvia,1
 Lebanon,02/21/2020,1,0,0,Lebanon,1
 Lebanon,02/22/2020,1,0,0,Lebanon,1
 Lebanon,02/23/2020,1,0,0,Lebanon,1
@@ -28113,8 +28104,6 @@ Lebanon,09/27/2020,36254,347,16089,Lebanon,1
 Lebanon,09/28/2020,37272,351,16676,Lebanon,1
 Lebanon,09/29/2020,38377,361,17110,Lebanon,1
 Lebanon,09/30/2020,39634,367,17565,Lebanon,1
-Lebanon,10/01/2020,40882,374,18103,Lebanon,1
-Lebanon,10/02/2020,42173,386,18739,Lebanon,1
 Lebanon,10/03/2020,43494,398,19259,Lebanon,1
 Lebanon,10/04/2020,44482,406,19782,Lebanon,1
 Lebanon,10/05/2020,45657,414,20243,Lebanon,1
@@ -28189,6 +28178,8 @@ Lebanon,12/12/2020,145245,1190,98584,Lebanon,1
 Lebanon,12/13/2020,146520,1200,101334,Lebanon,1
 Lebanon,12/14/2020,147613,1210,103057,Lebanon,1
 Lebanon,12/15/2020,148877,1223,104207,Lebanon,1
+Lebanon,12/16/2020,150933,1234,104207,Lebanon,1
+Lebanon,12/17/2020,153049,1248,106712,Lebanon,1
 Lesotho,05/13/2020,1,0,0,Lesotho,1
 Lesotho,05/14/2020,1,0,0,Lesotho,1
 Lesotho,05/15/2020,1,0,0,Lesotho,1
@@ -28330,8 +28321,6 @@ Lesotho,09/27/2020,1558,35,797,Lesotho,1
 Lesotho,09/28/2020,1565,35,822,Lesotho,1
 Lesotho,09/29/2020,1576,35,873,Lesotho,1
 Lesotho,09/30/2020,1595,36,873,Lesotho,1
-Lesotho,10/01/2020,1639,38,874,Lesotho,1
-Lesotho,10/02/2020,1680,39,926,Lesotho,1
 Lesotho,10/03/2020,1680,39,926,Lesotho,1
 Lesotho,10/04/2020,1683,39,926,Lesotho,1
 Lesotho,10/05/2020,1683,39,926,Lesotho,1
@@ -28406,6 +28395,8 @@ Lesotho,12/12/2020,2250,44,1319,Lesotho,1
 Lesotho,12/13/2020,2250,44,1319,Lesotho,1
 Lesotho,12/14/2020,2277,44,1340,Lesotho,1
 Lesotho,12/15/2020,2307,44,1398,Lesotho,1
+Lesotho,12/16/2020,2365,46,1423,Lesotho,1
+Lesotho,12/17/2020,2400,46,1435,Lesotho,1
 Liberia,03/16/2020,1,0,0,Liberia,1
 Liberia,03/17/2020,1,0,0,Liberia,1
 Liberia,03/18/2020,2,0,0,Liberia,1
@@ -28605,8 +28596,6 @@ Liberia,09/27/2020,1339,82,1221,Liberia,1
 Liberia,09/28/2020,1342,82,1221,Liberia,1
 Liberia,09/29/2020,1343,82,1221,Liberia,1
 Liberia,09/30/2020,1343,82,1221,Liberia,1
-Liberia,10/01/2020,1343,82,1221,Liberia,1
-Liberia,10/02/2020,1346,82,1221,Liberia,1
 Liberia,10/03/2020,1347,82,1221,Liberia,1
 Liberia,10/04/2020,1348,82,1236,Liberia,1
 Liberia,10/05/2020,1354,82,1236,Liberia,1
@@ -28681,6 +28670,8 @@ Liberia,12/12/2020,1676,83,1358,Liberia,1
 Liberia,12/13/2020,1676,83,1358,Liberia,1
 Liberia,12/14/2020,1676,83,1358,Liberia,1
 Liberia,12/15/2020,1676,83,1358,Liberia,1
+Liberia,12/16/2020,1773,83,1406,Liberia,1
+Liberia,12/17/2020,1779,83,1406,Liberia,1
 Libya,03/24/2020,1,0,0,Libya,1
 Libya,03/25/2020,1,0,0,Libya,1
 Libya,03/26/2020,1,0,0,Libya,1
@@ -28872,8 +28863,6 @@ Libya,09/27/2020,32364,520,18128,Libya,1
 Libya,09/28/2020,33213,527,18518,Libya,1
 Libya,09/29/2020,34014,540,18902,Libya,1
 Libya,09/30/2020,34525,551,19361,Libya,1
-Libya,10/01/2020,35208,559,19894,Libya,1
-Libya,10/02/2020,35717,570,20334,Libya,1
 Libya,10/03/2020,36087,578,20889,Libya,1
 Libya,10/04/2020,36809,592,21429,Libya,1
 Libya,10/05/2020,37437,596,22076,Libya,1
@@ -28948,6 +28937,8 @@ Libya,12/12/2020,89880,1278,59839,Libya,1
 Libya,12/13/2020,90779,1299,60895,Libya,1
 Libya,12/14/2020,91357,1314,61453,Libya,1
 Libya,12/15/2020,92017,1319,62144,Libya,1
+Libya,12/16/2020,92577,1324,62720,Libya,1
+Libya,12/17/2020,93283,1337,63231,Libya,1
 Liechtenstein,03/04/2020,1,0,0,Liechtenstein,1
 Liechtenstein,03/05/2020,1,0,0,Liechtenstein,1
 Liechtenstein,03/06/2020,1,0,0,Liechtenstein,1
@@ -29159,8 +29150,6 @@ Liechtenstein,09/27/2020,117,1,110,Liechtenstein,1
 Liechtenstein,09/28/2020,117,1,110,Liechtenstein,1
 Liechtenstein,09/29/2020,118,1,113,Liechtenstein,1
 Liechtenstein,09/30/2020,118,1,113,Liechtenstein,1
-Liechtenstein,10/01/2020,119,1,114,Liechtenstein,1
-Liechtenstein,10/02/2020,120,1,116,Liechtenstein,1
 Liechtenstein,10/03/2020,123,1,116,Liechtenstein,1
 Liechtenstein,10/04/2020,126,1,116,Liechtenstein,1
 Liechtenstein,10/05/2020,127,1,116,Liechtenstein,1
@@ -29235,6 +29224,8 @@ Liechtenstein,12/12/2020,1482,20,1296,Liechtenstein,1
 Liechtenstein,12/13/2020,1514,20,1296,Liechtenstein,1
 Liechtenstein,12/14/2020,1566,20,1351,Liechtenstein,1
 Liechtenstein,12/15/2020,1579,21,1366,Liechtenstein,1
+Liechtenstein,12/16/2020,1600,21,1377,Liechtenstein,1
+Liechtenstein,12/17/2020,1635,21,1395,Liechtenstein,1
 Lithuania,02/28/2020,1,0,0,Lithuania,1
 Lithuania,02/29/2020,1,0,0,Lithuania,1
 Lithuania,03/01/2020,1,0,0,Lithuania,1
@@ -29451,8 +29442,6 @@ Lithuania,09/27/2020,4385,91,2327,Lithuania,1
 Lithuania,09/28/2020,4490,92,2327,Lithuania,1
 Lithuania,09/29/2020,4587,92,2349,Lithuania,1
 Lithuania,09/30/2020,4693,92,2365,Lithuania,1
-Lithuania,10/01/2020,4784,92,2424,Lithuania,1
-Lithuania,10/02/2020,4956,93,2466,Lithuania,1
 Lithuania,10/03/2020,5081,94,2494,Lithuania,1
 Lithuania,10/04/2020,5185,94,2495,Lithuania,1
 Lithuania,10/05/2020,5285,94,2497,Lithuania,1
@@ -29527,6 +29516,8 @@ Lithuania,12/12/2020,90252,791,38768,Lithuania,1
 Lithuania,12/13/2020,93101,815,38893,Lithuania,1
 Lithuania,12/14/2020,95021,825,38957,Lithuania,1
 Lithuania,12/15/2020,96452,863,41665,Lithuania,1
+Lithuania,12/16/2020,99869,907,43379,Lithuania,1
+Lithuania,12/17/2020,103028,933,45113,Lithuania,1
 Luxembourg,02/29/2020,1,0,0,Luxembourg,1
 Luxembourg,03/01/2020,1,0,0,Luxembourg,1
 Luxembourg,03/02/2020,1,0,0,Luxembourg,1
@@ -29742,8 +29733,6 @@ Luxembourg,09/27/2020,8233,124,6976,Luxembourg,1
 Luxembourg,09/28/2020,8376,124,7128,Luxembourg,1
 Luxembourg,09/29/2020,8431,124,7136,Luxembourg,1
 Luxembourg,09/30/2020,8509,124,7174,Luxembourg,1
-Luxembourg,10/01/2020,8595,125,7280,Luxembourg,1
-Luxembourg,10/02/2020,8709,125,7428,Luxembourg,1
 Luxembourg,10/03/2020,8709,125,7428,Luxembourg,1
 Luxembourg,10/04/2020,8709,125,7428,Luxembourg,1
 Luxembourg,10/05/2020,8925,127,7793,Luxembourg,1
@@ -29818,6 +29807,8 @@ Luxembourg,12/12/2020,40755,392,31678,Luxembourg,1
 Luxembourg,12/13/2020,40755,392,31678,Luxembourg,1
 Luxembourg,12/14/2020,41900,410,33367,Luxembourg,1
 Luxembourg,12/15/2020,42250,418,33486,Luxembourg,1
+Luxembourg,12/16/2020,42845,421,33920,Luxembourg,1
+Luxembourg,12/17/2020,43279,428,34609,Luxembourg,1
 MS Zaandam,03/28/2020,2,0,0,MS Zaandam,1
 MS Zaandam,03/29/2020,2,0,0,MS Zaandam,1
 MS Zaandam,03/30/2020,2,0,0,MS Zaandam,1
@@ -30005,8 +29996,6 @@ MS Zaandam,09/27/2020,9,2,0,MS Zaandam,1
 MS Zaandam,09/28/2020,9,2,0,MS Zaandam,1
 MS Zaandam,09/29/2020,9,2,0,MS Zaandam,1
 MS Zaandam,09/30/2020,9,2,0,MS Zaandam,1
-MS Zaandam,10/01/2020,9,2,0,MS Zaandam,1
-MS Zaandam,10/02/2020,9,2,0,MS Zaandam,1
 MS Zaandam,10/03/2020,9,2,0,MS Zaandam,1
 MS Zaandam,10/04/2020,9,2,0,MS Zaandam,1
 MS Zaandam,10/05/2020,9,2,0,MS Zaandam,1
@@ -30081,9 +30070,9 @@ MS Zaandam,12/12/2020,9,2,7,MS Zaandam,1
 MS Zaandam,12/13/2020,9,2,7,MS Zaandam,1
 MS Zaandam,12/14/2020,9,2,7,MS Zaandam,1
 MS Zaandam,12/15/2020,9,2,7,MS Zaandam,1
+MS Zaandam,12/16/2020,9,2,7,MS Zaandam,1
+MS Zaandam,12/17/2020,9,2,7,MS Zaandam,1
 Macao SAR,03/10/2020,10,0,10,Macao SAR,1
-Macau,01/22/2020,1,0,0,Macau,1
-Macau,01/23/2020,2,0,0,Macau,1
 Macau,01/24/2020,2,0,0,Macau,1
 Macau,01/25/2020,2,0,0,Macau,1
 Macau,01/26/2020,5,0,0,Macau,1
@@ -30325,8 +30314,6 @@ Madagascar,09/27/2020,16285,229,14922,Madagascar,1
 Madagascar,09/28/2020,16348,229,14947,Madagascar,1
 Madagascar,09/29/2020,16377,229,15139,Madagascar,1
 Madagascar,09/30/2020,16408,230,15301,Madagascar,1
-Madagascar,10/01/2020,16454,232,15430,Madagascar,1
-Madagascar,10/02/2020,16493,232,15467,Madagascar,1
 Madagascar,10/03/2020,16529,232,15480,Madagascar,1
 Madagascar,10/04/2020,16558,232,15486,Madagascar,1
 Madagascar,10/05/2020,16570,233,15601,Madagascar,1
@@ -30401,6 +30388,8 @@ Madagascar,12/12/2020,17587,259,16992,Madagascar,1
 Madagascar,12/13/2020,17587,259,16992,Madagascar,1
 Madagascar,12/14/2020,17587,259,16992,Madagascar,1
 Madagascar,12/15/2020,17587,259,16992,Madagascar,1
+Madagascar,12/16/2020,17587,259,16992,Madagascar,1
+Madagascar,12/17/2020,17587,259,16992,Madagascar,1
 Malawi,04/02/2020,3,0,0,Malawi,1
 Malawi,04/03/2020,3,0,0,Malawi,1
 Malawi,04/04/2020,4,0,0,Malawi,1
@@ -30583,8 +30572,6 @@ Malawi,09/27/2020,5768,179,4206,Malawi,1
 Malawi,09/28/2020,5770,179,4243,Malawi,1
 Malawi,09/29/2020,5772,179,4245,Malawi,1
 Malawi,09/30/2020,5773,179,4263,Malawi,1
-Malawi,10/01/2020,5779,179,4514,Malawi,1
-Malawi,10/02/2020,5783,179,4535,Malawi,1
 Malawi,10/03/2020,5783,179,4539,Malawi,1
 Malawi,10/04/2020,5786,179,4541,Malawi,1
 Malawi,10/05/2020,5794,180,4541,Malawi,1
@@ -30659,7 +30646,8 @@ Malawi,12/12/2020,6063,186,5491,Malawi,1
 Malawi,12/13/2020,6066,187,5491,Malawi,1
 Malawi,12/14/2020,6070,187,5491,Malawi,1
 Malawi,12/15/2020,6080,187,5659,Malawi,1
-Malaysia,01/23/2020,0,0,0,Malaysia,1
+Malawi,12/16/2020,6091,187,5661,Malawi,1
+Malawi,12/17/2020,6138,187,5661,Malawi,1
 Malaysia,01/25/2020,3,0,0,Malaysia,1
 Malaysia,01/26/2020,4,0,0,Malaysia,1
 Malaysia,01/27/2020,4,0,0,Malaysia,1
@@ -30910,8 +30898,6 @@ Malaysia,09/27/2020,10919,134,9835,Malaysia,1
 Malaysia,09/28/2020,11034,134,9889,Malaysia,1
 Malaysia,09/29/2020,11135,134,9939,Malaysia,1
 Malaysia,09/30/2020,11224,136,9967,Malaysia,1
-Malaysia,10/01/2020,11484,136,10014,Malaysia,1
-Malaysia,10/02/2020,11771,136,10095,Malaysia,1
 Malaysia,10/03/2020,12088,137,10216,Malaysia,1
 Malaysia,10/04/2020,12381,137,10283,Malaysia,1
 Malaysia,10/05/2020,12813,137,10340,Malaysia,1
@@ -30986,6 +30972,8 @@ Malaysia,12/12/2020,82246,411,68084,Malaysia,1
 Malaysia,12/13/2020,83475,415,69393,Malaysia,1
 Malaysia,12/14/2020,84846,419,70597,Malaysia,1
 Malaysia,12/15/2020,86618,422,71681,Malaysia,1
+Malaysia,12/16/2020,87913,429,72733,Malaysia,1
+Malaysia,12/17/2020,89133,432,74030,Malaysia,1
 Maldives,03/08/2020,4,0,0,Maldives,1
 Maldives,03/09/2020,4,0,0,Maldives,1
 Maldives,03/10/2020,6,0,0,Maldives,1
@@ -31193,8 +31181,6 @@ Maldives,09/27/2020,10098,34,8847,Maldives,1
 Maldives,09/28/2020,10157,34,8950,Maldives,1
 Maldives,09/29/2020,10194,34,9037,Maldives,1
 Maldives,09/30/2020,10291,34,9108,Maldives,1
-Maldives,10/01/2020,10354,34,9187,Maldives,1
-Maldives,10/02/2020,10398,34,9213,Maldives,1
 Maldives,10/03/2020,10465,34,9310,Maldives,1
 Maldives,10/04/2020,10530,34,9364,Maldives,1
 Maldives,10/05/2020,10567,34,9427,Maldives,1
@@ -31269,6 +31255,8 @@ Maldives,12/12/2020,13348,48,12659,Maldives,1
 Maldives,12/13/2020,13368,48,12706,Maldives,1
 Maldives,12/14/2020,13379,48,12731,Maldives,1
 Maldives,12/15/2020,13392,48,12760,Maldives,1
+Maldives,12/16/2020,13402,48,12786,Maldives,1
+Maldives,12/17/2020,13418,48,12828,Maldives,1
 Mali,03/25/2020,2,0,0,Mali,1
 Mali,03/26/2020,4,0,0,Mali,1
 Mali,03/27/2020,11,0,0,Mali,1
@@ -31459,8 +31447,6 @@ Mali,09/27/2020,3086,130,2420,Mali,1
 Mali,09/28/2020,3090,130,2439,Mali,1
 Mali,09/29/2020,3101,131,2443,Mali,1
 Mali,09/30/2020,3118,131,2453,Mali,1
-Mali,10/01/2020,3131,131,2460,Mali,1
-Mali,10/02/2020,3156,131,2467,Mali,1
 Mali,10/03/2020,3170,131,2476,Mali,1
 Mali,10/04/2020,3184,131,2479,Mali,1
 Mali,10/05/2020,3189,131,2482,Mali,1
@@ -31535,6 +31521,8 @@ Mali,12/12/2020,5721,189,3566,Mali,1
 Mali,12/13/2020,5814,194,3591,Mali,1
 Mali,12/14/2020,5836,201,3630,Mali,1
 Mali,12/15/2020,5878,205,3697,Mali,1
+Mali,12/16/2020,5969,209,3702,Mali,1
+Mali,12/17/2020,6049,211,3718,Mali,1
 Malta,03/07/2020,3,0,0,Malta,1
 Malta,03/08/2020,3,0,0,Malta,1
 Malta,03/09/2020,3,0,0,Malta,1
@@ -31743,8 +31731,6 @@ Malta,09/27/2020,2979,31,2358,Malta,1
 Malta,09/28/2020,3006,32,2399,Malta,1
 Malta,09/29/2020,3035,34,2484,Malta,1
 Malta,09/30/2020,3058,35,2562,Malta,1
-Malta,10/01/2020,3095,35,2605,Malta,1
-Malta,10/02/2020,3139,37,2668,Malta,1
 Malta,10/03/2020,3204,38,2711,Malta,1
 Malta,10/04/2020,3270,39,2758,Malta,1
 Malta,10/05/2020,3327,39,2770,Malta,1
@@ -31819,6 +31805,8 @@ Malta,12/12/2020,11101,166,9079,Malta,1
 Malta,12/13/2020,11153,169,9169,Malta,1
 Malta,12/14/2020,11254,174,9319,Malta,1
 Malta,12/15/2020,11303,177,9420,Malta,1
+Malta,12/16/2020,11415,180,9516,Malta,1
+Malta,12/17/2020,11475,182,9670,Malta,1
 Marshall Islands,10/28/2020,2,0,0,Marshall Islands,1
 Marshall Islands,10/29/2020,2,0,0,Marshall Islands,1
 Marshall Islands,10/30/2020,2,0,0,Marshall Islands,1
@@ -31868,6 +31856,8 @@ Marshall Islands,12/12/2020,4,0,4,Marshall Islands,1
 Marshall Islands,12/13/2020,4,0,4,Marshall Islands,1
 Marshall Islands,12/14/2020,4,0,4,Marshall Islands,1
 Marshall Islands,12/15/2020,4,0,4,Marshall Islands,1
+Marshall Islands,12/16/2020,4,0,4,Marshall Islands,1
+Marshall Islands,12/17/2020,4,0,4,Marshall Islands,1
 Martinique,03/07/2020,2,0,0,Martinique,1
 Martinique,03/08/2020,2,0,0,Martinique,1
 Martinique,03/09/2020,2,0,0,Martinique,1
@@ -32084,8 +32074,6 @@ Mauritania,09/27/2020,7464,161,7070,Mauritania,1
 Mauritania,09/28/2020,7474,161,7091,Mauritania,1
 Mauritania,09/29/2020,7488,161,7111,Mauritania,1
 Mauritania,09/30/2020,7502,161,7120,Mauritania,1
-Mauritania,10/01/2020,7505,161,7138,Mauritania,1
-Mauritania,10/02/2020,7511,162,7163,Mauritania,1
 Mauritania,10/03/2020,7517,162,7174,Mauritania,1
 Mauritania,10/04/2020,7520,162,7188,Mauritania,1
 Mauritania,10/05/2020,7523,162,7204,Mauritania,1
@@ -32160,6 +32148,8 @@ Mauritania,12/12/2020,10780,222,8022,Mauritania,1
 Mauritania,12/13/2020,10971,225,8076,Mauritania,1
 Mauritania,12/14/2020,11135,228,8118,Mauritania,1
 Mauritania,12/15/2020,11431,236,8248,Mauritania,1
+Mauritania,12/16/2020,11629,244,8281,Mauritania,1
+Mauritania,12/17/2020,11805,254,8372,Mauritania,1
 Mauritius,03/18/2020,3,0,0,Mauritius,1
 Mauritius,03/19/2020,3,0,0,Mauritius,1
 Mauritius,03/20/2020,12,0,0,Mauritius,1
@@ -32357,8 +32347,6 @@ Mauritius,09/27/2020,367,10,343,Mauritius,1
 Mauritius,09/28/2020,367,10,343,Mauritius,1
 Mauritius,09/29/2020,367,10,343,Mauritius,1
 Mauritius,09/30/2020,381,10,344,Mauritius,1
-Mauritius,10/01/2020,381,10,344,Mauritius,1
-Mauritius,10/02/2020,385,10,344,Mauritius,1
 Mauritius,10/03/2020,385,10,357,Mauritius,1
 Mauritius,10/04/2020,385,10,357,Mauritius,1
 Mauritius,10/05/2020,387,10,357,Mauritius,1
@@ -32433,13 +32421,14 @@ Mauritius,12/12/2020,515,10,478,Mauritius,1
 Mauritius,12/13/2020,515,10,478,Mauritius,1
 Mauritius,12/14/2020,523,10,489,Mauritius,1
 Mauritius,12/15/2020,524,10,489,Mauritius,1
+Mauritius,12/16/2020,524,10,489,Mauritius,1
+Mauritius,12/17/2020,524,10,489,Mauritius,1
 Mayotte,03/16/2020,1,0,0,Mayotte,1
 Mayotte,03/17/2020,1,0,0,Mayotte,1
 Mayotte,03/18/2020,3,0,0,Mayotte,1
 Mayotte,03/19/2020,3,0,0,Mayotte,1
 Mayotte,03/20/2020,6,0,0,Mayotte,1
 Mayotte,03/21/2020,7,0,0,Mayotte,1
-Mexico,01/23/2020,0,0,0,Mexico,1
 Mexico,02/28/2020,1,0,0,Mexico,1
 Mexico,02/29/2020,4,0,0,Mexico,1
 Mexico,03/01/2020,5,0,0,Mexico,1
@@ -32656,8 +32645,6 @@ Mexico,09/27/2020,730317,76430,616696,Mexico,1
 Mexico,09/28/2020,733717,76603,622398,Mexico,1
 Mexico,09/29/2020,738163,77163,625512,Mexico,1
 Mexico,09/30/2020,743216,77646,628007,Mexico,1
-Mexico,10/01/2020,748315,78078,629630,Mexico,1
-Mexico,10/02/2020,753090,78492,633806,Mexico,1
 Mexico,10/03/2020,757953,78880,637993,Mexico,1
 Mexico,10/04/2020,761665,79088,645123,Mexico,1
 Mexico,10/05/2020,789780,81877,670034,Mexico,1
@@ -32732,6 +32719,8 @@ Mexico,12/12/2020,1241436,113704,911965,Mexico,1
 Mexico,12/13/2020,1250044,113953,918681,Mexico,1
 Mexico,12/14/2020,1255974,114298,927754,Mexico,1
 Mexico,12/15/2020,1267202,115099,938089,Mexico,1
+Mexico,12/16/2020,1277499,115769,945673,Mexico,1
+Mexico,12/17/2020,1289298,116487,953762,Mexico,1
 Moldova,03/08/2020,1,0,0,Moldova,1
 Moldova,03/09/2020,1,0,0,Moldova,1
 Moldova,03/11/2020,3,0,0,Moldova,1
@@ -32938,8 +32927,6 @@ Moldova,09/27/2020,50875,1287,37842,Moldova,1
 Moldova,09/28/2020,51194,1301,38217,Moldova,1
 Moldova,09/29/2020,52029,1310,38579,Moldova,1
 Moldova,09/30/2020,53042,1320,38997,Moldova,1
-Moldova,10/01/2020,54064,1336,39499,Moldova,1
-Moldova,10/02/2020,55016,1344,40002,Moldova,1
 Moldova,10/03/2020,55888,1353,40475,Moldova,1
 Moldova,10/04/2020,56579,1366,40955,Moldova,1
 Moldova,10/05/2020,56901,1375,41467,Moldova,1
@@ -33014,6 +33001,8 @@ Moldova,12/12/2020,125723,2547,107733,Moldova,1
 Moldova,12/13/2020,126518,2572,108901,Moldova,1
 Moldova,12/14/2020,127253,2598,110179,Moldova,1
 Moldova,12/15/2020,128656,2625,111314,Moldova,1
+Moldova,12/16/2020,130329,2650,112677,Moldova,1
+Moldova,12/17/2020,131919,2674,114230,Moldova,1
 Monaco,02/29/2020,1,0,0,Monaco,1
 Monaco,03/01/2020,1,0,0,Monaco,1
 Monaco,03/02/2020,1,0,0,Monaco,1
@@ -33229,8 +33218,6 @@ Monaco,09/27/2020,210,2,169,Monaco,1
 Monaco,09/28/2020,212,2,174,Monaco,1
 Monaco,09/29/2020,214,2,178,Monaco,1
 Monaco,09/30/2020,218,2,181,Monaco,1
-Monaco,10/01/2020,219,2,187,Monaco,1
-Monaco,10/02/2020,221,2,188,Monaco,1
 Monaco,10/03/2020,222,2,188,Monaco,1
 Monaco,10/04/2020,222,2,189,Monaco,1
 Monaco,10/05/2020,223,2,193,Monaco,1
@@ -33305,6 +33292,8 @@ Monaco,12/12/2020,668,3,596,Monaco,1
 Monaco,12/13/2020,668,3,597,Monaco,1
 Monaco,12/14/2020,671,3,605,Monaco,1
 Monaco,12/15/2020,678,3,609,Monaco,1
+Monaco,12/16/2020,685,3,611,Monaco,1
+Monaco,12/17/2020,700,3,611,Monaco,1
 Mongolia,03/10/2020,1,0,0,Mongolia,1
 Mongolia,03/11/2020,1,0,0,Mongolia,1
 Mongolia,03/12/2020,1,0,0,Mongolia,1
@@ -33510,8 +33499,6 @@ Mongolia,09/27/2020,313,0,305,Mongolia,1
 Mongolia,09/28/2020,313,0,305,Mongolia,1
 Mongolia,09/29/2020,313,0,305,Mongolia,1
 Mongolia,09/30/2020,313,0,307,Mongolia,1
-Mongolia,10/01/2020,313,0,307,Mongolia,1
-Mongolia,10/02/2020,313,0,307,Mongolia,1
 Mongolia,10/03/2020,313,0,307,Mongolia,1
 Mongolia,10/04/2020,314,0,307,Mongolia,1
 Mongolia,10/05/2020,315,0,307,Mongolia,1
@@ -33586,6 +33573,8 @@ Mongolia,12/12/2020,907,0,384,Mongolia,1
 Mongolia,12/13/2020,912,0,384,Mongolia,1
 Mongolia,12/14/2020,917,0,384,Mongolia,1
 Mongolia,12/15/2020,918,0,384,Mongolia,1
+Mongolia,12/16/2020,923,0,384,Mongolia,1
+Mongolia,12/17/2020,941,0,473,Mongolia,1
 Montenegro,03/17/2020,2,0,0,Montenegro,1
 Montenegro,03/18/2020,1,0,0,Montenegro,1
 Montenegro,03/19/2020,3,0,0,Montenegro,1
@@ -33784,8 +33773,6 @@ Montenegro,09/27/2020,10313,158,6456,Montenegro,1
 Montenegro,09/28/2020,10441,163,6720,Montenegro,1
 Montenegro,09/29/2020,10575,164,7002,Montenegro,1
 Montenegro,09/30/2020,10772,169,7192,Montenegro,1
-Montenegro,10/01/2020,10987,170,7397,Montenegro,1
-Montenegro,10/02/2020,11690,172,7618,Montenegro,1
 Montenegro,10/03/2020,11934,174,7803,Montenegro,1
 Montenegro,10/04/2020,12127,179,7953,Montenegro,1
 Montenegro,10/05/2020,12359,182,8308,Montenegro,1
@@ -33860,6 +33847,8 @@ Montenegro,12/12/2020,40948,578,29614,Montenegro,1
 Montenegro,12/13/2020,41426,582,30493,Montenegro,1
 Montenegro,12/14/2020,41803,585,31138,Montenegro,1
 Montenegro,12/15/2020,42148,597,32097,Montenegro,1
+Montenegro,12/16/2020,42563,610,32550,Montenegro,1
+Montenegro,12/17/2020,42995,614,33049,Montenegro,1
 Morocco,03/02/2020,1,0,0,Morocco,1
 Morocco,03/03/2020,1,0,0,Morocco,1
 Morocco,03/04/2020,1,0,0,Morocco,1
@@ -34073,8 +34062,6 @@ Morocco,09/27/2020,117685,2069,95591,Morocco,1
 Morocco,09/28/2020,119107,2113,97468,Morocco,1
 Morocco,09/29/2020,121183,2152,100253,Morocco,1
 Morocco,09/30/2020,123653,2194,102715,Morocco,1
-Morocco,10/01/2020,126044,2229,104136,Morocco,1
-Morocco,10/02/2020,128565,2263,106044,Morocco,1
 Morocco,10/03/2020,131228,2293,108687,Morocco,1
 Morocco,10/04/2020,133272,2330,111036,Morocco,1
 Morocco,10/05/2020,134695,2369,113336,Morocco,1
@@ -34149,6 +34136,8 @@ Morocco,12/12/2020,397597,6589,353098,Morocco,1
 Morocco,12/13/2020,399609,6624,356023,Morocco,1
 Morocco,12/14/2020,400826,6659,359065,Morocco,1
 Morocco,12/15/2020,403619,6711,362911,Morocco,1
+Morocco,12/16/2020,406970,6749,366835,Morocco,1
+Morocco,12/17/2020,409746,6804,369998,Morocco,1
 Mozambique,03/22/2020,1,0,0,Mozambique,1
 Mozambique,03/23/2020,1,0,0,Mozambique,1
 Mozambique,03/24/2020,3,0,0,Mozambique,1
@@ -34342,8 +34331,6 @@ Mozambique,09/27/2020,7983,58,4807,Mozambique,1
 Mozambique,09/28/2020,8288,59,4836,Mozambique,1
 Mozambique,09/29/2020,8556,59,5205,Mozambique,1
 Mozambique,09/30/2020,8728,61,5232,Mozambique,1
-Mozambique,10/01/2020,8888,62,5573,Mozambique,1
-Mozambique,10/02/2020,8979,64,5595,Mozambique,1
 Mozambique,10/03/2020,9049,64,5736,Mozambique,1
 Mozambique,10/04/2020,9196,66,5852,Mozambique,1
 Mozambique,10/05/2020,9296,66,6104,Mozambique,1
@@ -34418,6 +34405,8 @@ Mozambique,12/12/2020,16812,140,14795,Mozambique,1
 Mozambique,12/13/2020,16954,142,14818,Mozambique,1
 Mozambique,12/14/2020,17002,143,15006,Mozambique,1
 Mozambique,12/15/2020,17042,144,15117,Mozambique,1
+Mozambique,12/16/2020,17143,145,15241,Mozambique,1
+Mozambique,12/17/2020,17256,145,15257,Mozambique,1
 Namibia,03/14/2020,2,0,0,Namibia,1
 Namibia,03/15/2020,2,0,0,Namibia,1
 Namibia,03/16/2020,2,0,0,Namibia,1
@@ -34619,8 +34608,6 @@ Namibia,09/27/2020,11033,120,8776,Namibia,1
 Namibia,09/28/2020,11121,121,8787,Namibia,1
 Namibia,09/29/2020,11140,121,8937,Namibia,1
 Namibia,09/30/2020,11265,121,9014,Namibia,1
-Namibia,10/01/2020,11373,123,9083,Namibia,1
-Namibia,10/02/2020,11480,123,9351,Namibia,1
 Namibia,10/03/2020,11572,123,9419,Namibia,1
 Namibia,10/04/2020,11626,123,9429,Namibia,1
 Namibia,10/05/2020,11654,125,9451,Namibia,1
@@ -34695,6 +34682,8 @@ Namibia,12/12/2020,16269,160,14582,Namibia,1
 Namibia,12/13/2020,16536,160,14684,Namibia,1
 Namibia,12/14/2020,16726,163,14837,Namibia,1
 Namibia,12/15/2020,16913,164,14981,Namibia,1
+Namibia,12/16/2020,17276,164,15196,Namibia,1
+Namibia,12/17/2020,17607,164,15373,Namibia,1
 Nepal,01/25/2020,1,0,0,Nepal,1
 Nepal,01/26/2020,1,0,0,Nepal,1
 Nepal,01/27/2020,1,0,0,Nepal,1
@@ -34945,8 +34934,6 @@ Nepal,09/27/2020,73394,477,53898,Nepal,1
 Nepal,09/28/2020,74745,481,54640,Nepal,1
 Nepal,09/29/2020,76258,491,55371,Nepal,1
 Nepal,09/30/2020,77817,498,56428,Nepal,1
-Nepal,10/01/2020,79728,509,57389,Nepal,1
-Nepal,10/02/2020,82450,520,60696,Nepal,1
 Nepal,10/03/2020,84570,528,62740,Nepal,1
 Nepal,10/04/2020,86823,535,64069,Nepal,1
 Nepal,10/05/2020,89263,554,65202,Nepal,1
@@ -35021,6 +35008,8 @@ Nepal,12/12/2020,247593,1689,234231,Nepal,1
 Nepal,12/13/2020,248423,1698,235731,Nepal,1
 Nepal,12/14/2020,249244,1716,236573,Nepal,1
 Nepal,12/15/2020,250180,1730,238569,Nepal,1
+Nepal,12/16/2020,250916,1743,238569,Nepal,1
+Nepal,12/17/2020,251692,1749,240363,Nepal,1
 Netherlands,02/27/2020,1,0,0,Netherlands,1
 Netherlands,02/28/2020,1,0,0,Netherlands,1
 Netherlands,02/29/2020,6,0,0,Netherlands,1
@@ -35238,8 +35227,6 @@ Netherlands,09/27/2020,118869,6423,3642,Netherlands,1
 Netherlands,09/28/2020,119509,6429,3755,Netherlands,1
 Netherlands,09/29/2020,122620,6443,3919,Netherlands,1
 Netherlands,09/30/2020,125988,6457,4019,Netherlands,1
-Netherlands,10/01/2020,129283,6470,4111,Netherlands,1
-Netherlands,10/02/2020,133166,6482,4207,Netherlands,1
 Netherlands,10/03/2020,137194,6503,4305,Netherlands,1
 Netherlands,10/04/2020,141226,6508,4381,Netherlands,1
 Netherlands,10/05/2020,141258,6509,4492,Netherlands,1
@@ -35314,6 +35301,8 @@ Netherlands,12/12/2020,613630,10104,7838,Netherlands,1
 Netherlands,12/13/2020,623567,10134,7872,Netherlands,1
 Netherlands,12/14/2020,632085,10168,7944,Netherlands,1
 Netherlands,12/15/2020,638801,10254,8077,Netherlands,1
+Netherlands,12/16/2020,650072,10333,8152,Netherlands,1
+Netherlands,12/17/2020,662943,10408,8324,Netherlands,1
 New Zealand,02/28/2020,1,0,0,New Zealand,1
 New Zealand,02/29/2020,1,0,0,New Zealand,1
 New Zealand,03/01/2020,1,0,0,New Zealand,1
@@ -35530,8 +35519,6 @@ New Zealand,09/27/2020,1833,25,1753,New Zealand,1
 New Zealand,09/28/2020,1835,25,1755,New Zealand,1
 New Zealand,09/29/2020,1836,25,1767,New Zealand,1
 New Zealand,09/30/2020,1848,25,1770,New Zealand,1
-New Zealand,10/01/2020,1848,25,1780,New Zealand,1
-New Zealand,10/02/2020,1849,25,1783,New Zealand,1
 New Zealand,10/03/2020,1854,25,1788,New Zealand,1
 New Zealand,10/04/2020,1855,25,1790,New Zealand,1
 New Zealand,10/05/2020,1858,25,1790,New Zealand,1
@@ -35606,6 +35593,8 @@ New Zealand,12/12/2020,2096,25,2015,New Zealand,1
 New Zealand,12/13/2020,2096,25,2015,New Zealand,1
 New Zealand,12/14/2020,2096,25,2015,New Zealand,1
 New Zealand,12/15/2020,2100,25,2032,New Zealand,1
+New Zealand,12/16/2020,2100,25,2032,New Zealand,1
+New Zealand,12/17/2020,2110,25,2034,New Zealand,1
 Nicaragua,03/19/2020,1,0,0,Nicaragua,1
 Nicaragua,03/20/2020,1,0,0,Nicaragua,1
 Nicaragua,03/21/2020,2,0,0,Nicaragua,1
@@ -35802,8 +35791,6 @@ Nicaragua,09/27/2020,5073,149,2913,Nicaragua,1
 Nicaragua,09/28/2020,5073,149,2913,Nicaragua,1
 Nicaragua,09/29/2020,5170,151,2913,Nicaragua,1
 Nicaragua,09/30/2020,5170,151,2913,Nicaragua,1
-Nicaragua,10/01/2020,5170,151,2913,Nicaragua,1
-Nicaragua,10/02/2020,5170,151,2913,Nicaragua,1
 Nicaragua,10/03/2020,5170,151,2913,Nicaragua,1
 Nicaragua,10/04/2020,5170,151,2913,Nicaragua,1
 Nicaragua,10/05/2020,5170,151,2913,Nicaragua,1
@@ -35878,6 +35865,8 @@ Nicaragua,12/12/2020,5887,162,4225,Nicaragua,1
 Nicaragua,12/13/2020,5887,162,4225,Nicaragua,1
 Nicaragua,12/14/2020,5887,162,4225,Nicaragua,1
 Nicaragua,12/15/2020,5887,162,4225,Nicaragua,1
+Nicaragua,12/16/2020,5938,163,4225,Nicaragua,1
+Nicaragua,12/17/2020,5938,163,4225,Nicaragua,1
 Niger,03/20/2020,1,0,0,Niger,1
 Niger,03/21/2020,1,0,0,Niger,1
 Niger,03/22/2020,2,0,0,Niger,1
@@ -36073,8 +36062,6 @@ Niger,09/27/2020,1196,69,1107,Niger,1
 Niger,09/28/2020,1196,69,1110,Niger,1
 Niger,09/29/2020,1196,69,1110,Niger,1
 Niger,09/30/2020,1197,69,1114,Niger,1
-Niger,10/01/2020,1197,69,1114,Niger,1
-Niger,10/02/2020,1198,69,1115,Niger,1
 Niger,10/03/2020,1200,69,1115,Niger,1
 Niger,10/04/2020,1200,69,1115,Niger,1
 Niger,10/05/2020,1200,69,1115,Niger,1
@@ -36149,6 +36136,8 @@ Niger,12/12/2020,2199,80,1276,Niger,1
 Niger,12/13/2020,2258,80,1292,Niger,1
 Niger,12/14/2020,2322,82,1294,Niger,1
 Niger,12/15/2020,2361,82,1329,Niger,1
+Niger,12/16/2020,2361,82,1329,Niger,1
+Niger,12/17/2020,2506,84,1373,Niger,1
 Nigeria,02/28/2020,1,0,0,Nigeria,1
 Nigeria,02/29/2020,1,0,0,Nigeria,1
 Nigeria,03/01/2020,1,0,0,Nigeria,1
@@ -36365,8 +36354,6 @@ Nigeria,09/27/2020,58324,1108,49794,Nigeria,1
 Nigeria,09/28/2020,58460,1111,49895,Nigeria,1
 Nigeria,09/29/2020,58647,1111,49937,Nigeria,1
 Nigeria,09/30/2020,58848,1112,50358,Nigeria,1
-Nigeria,10/01/2020,59001,1112,50452,Nigeria,1
-Nigeria,10/02/2020,59127,1112,50593,Nigeria,1
 Nigeria,10/03/2020,59287,1113,50718,Nigeria,1
 Nigeria,10/04/2020,59345,1113,50768,Nigeria,1
 Nigeria,10/05/2020,59465,1113,50951,Nigeria,1
@@ -36441,6 +36428,8 @@ Nigeria,12/12/2020,72757,1194,65850,Nigeria,1
 Nigeria,12/13/2020,73175,1197,66090,Nigeria,1
 Nigeria,12/14/2020,73374,1197,66314,Nigeria,1
 Nigeria,12/15/2020,74132,1200,66494,Nigeria,1
+Nigeria,12/16/2020,75062,1200,66775,Nigeria,1
+Nigeria,12/17/2020,76207,1201,67110,Nigeria,1
 North Ireland,02/28/2020,1,0,0,North Ireland,1
 North Macedonia,02/26/2020,1,0,0,North Macedonia,1
 North Macedonia,02/27/2020,1,0,0,North Macedonia,1
@@ -36660,8 +36649,6 @@ North Macedonia,09/27/2020,17629,725,14581,North Macedonia,1
 North Macedonia,09/28/2020,17674,729,14642,North Macedonia,1
 North Macedonia,09/29/2020,17786,737,14801,North Macedonia,1
 North Macedonia,09/30/2020,17977,739,14959,North Macedonia,1
-North Macedonia,10/01/2020,18138,743,15068,North Macedonia,1
-North Macedonia,10/02/2020,18363,749,15164,North Macedonia,1
 North Macedonia,10/03/2020,18602,753,15264,North Macedonia,1
 North Macedonia,10/04/2020,18790,756,15341,North Macedonia,1
 North Macedonia,10/05/2020,18873,760,15487,North Macedonia,1
@@ -36736,6 +36723,8 @@ North Macedonia,12/12/2020,73025,2096,48726,North Macedonia,1
 North Macedonia,12/13/2020,73638,2121,49414,North Macedonia,1
 North Macedonia,12/14/2020,73851,2147,50046,North Macedonia,1
 North Macedonia,12/15/2020,74732,2169,50852,North Macedonia,1
+North Macedonia,12/16/2020,75597,2194,51493,North Macedonia,1
+North Macedonia,12/17/2020,76251,2225,52413,North Macedonia,1
 Norway,02/26/2020,1,0,0,Norway,1
 Norway,02/27/2020,1,0,0,Norway,1
 Norway,02/28/2020,6,0,0,Norway,1
@@ -36954,8 +36943,6 @@ Norway,09/27/2020,13698,270,11190,Norway,1
 Norway,09/28/2020,13788,274,11190,Norway,1
 Norway,09/29/2020,13915,274,11190,Norway,1
 Norway,09/30/2020,14027,274,11190,Norway,1
-Norway,10/01/2020,14149,274,11190,Norway,1
-Norway,10/02/2020,14284,275,11190,Norway,1
 Norway,10/03/2020,14362,275,11190,Norway,1
 Norway,10/04/2020,14457,275,11190,Norway,1
 Norway,10/05/2020,14605,275,11190,Norway,1
@@ -37030,6 +37017,8 @@ Norway,12/12/2020,40803,387,17998,Norway,1
 Norway,12/13/2020,41003,387,17998,Norway,1
 Norway,12/14/2020,41334,393,17998,Norway,1
 Norway,12/15/2020,41852,395,17998,Norway,1
+Norway,12/16/2020,42312,402,17998,Norway,1
+Norway,12/17/2020,42776,404,17998,Norway,1
 Oman,02/24/2020,2,0,0,Oman,1
 Oman,02/25/2020,2,0,0,Oman,1
 Oman,02/26/2020,4,0,0,Oman,1
@@ -37250,8 +37239,6 @@ Oman,09/27/2020,97450,909,87801,Oman,1
 Oman,09/28/2020,98057,924,88234,Oman,1
 Oman,09/29/2020,98585,935,88528,Oman,1
 Oman,09/30/2020,98585,935,88528,Oman,1
-Oman,10/01/2020,98585,935,88528,Oman,1
-Oman,10/02/2020,98585,935,88528,Oman,1
 Oman,10/03/2020,98585,935,88528,Oman,1
 Oman,10/04/2020,101270,977,90296,Oman,1
 Oman,10/05/2020,101814,985,90600,Oman,1
@@ -37326,6 +37313,8 @@ Oman,12/12/2020,125669,1463,117327,Oman,1
 Oman,12/13/2020,126240,1471,118048,Oman,1
 Oman,12/14/2020,126504,1472,118287,Oman,1
 Oman,12/15/2020,126719,1475,118505,Oman,1
+Oman,12/16/2020,126835,1480,118736,Oman,1
+Oman,12/17/2020,127019,1483,119009,Oman,1
 Others,02/07/2020,61,0,0,Others,1
 Others,02/08/2020,61,0,0,Others,1
 Others,02/09/2020,64,0,0,Others,1
@@ -37577,8 +37566,6 @@ Pakistan,09/27/2020,310841,6466,296022,Pakistan,1
 Pakistan,09/28/2020,311516,6474,296340,Pakistan,1
 Pakistan,09/29/2020,312263,6479,296881,Pakistan,1
 Pakistan,09/30/2020,312806,6484,297497,Pakistan,1
-Pakistan,10/01/2020,313431,6499,298055,Pakistan,1
-Pakistan,10/02/2020,313984,6507,298593,Pakistan,1
 Pakistan,10/03/2020,314616,6513,298968,Pakistan,1
 Pakistan,10/04/2020,314616,6513,298968,Pakistan,1
 Pakistan,10/05/2020,315727,6523,300616,Pakistan,1
@@ -37653,6 +37640,8 @@ Pakistan,12/12/2020,438425,8796,383000,Pakistan,1
 Pakistan,12/13/2020,440787,8832,384719,Pakistan,1
 Pakistan,12/14/2020,443246,8905,386333,Pakistan,1
 Pakistan,12/15/2020,445977,9010,388598,Pakistan,1
+Pakistan,12/16/2020,448522,9080,396591,Pakistan,1
+Pakistan,12/17/2020,451494,9164,399852,Pakistan,1
 Palestine,03/05/2020,4,0,0,Palestine,1
 Palestine,03/06/2020,16,0,0,Palestine,1
 Palestine,03/07/2020,22,0,0,Palestine,1
@@ -37863,8 +37852,6 @@ Panama,09/27/2020,110555,2340,87215,Panama,1
 Panama,09/28/2020,111277,2348,87695,Panama,1
 Panama,09/29/2020,111853,2364,88202,Panama,1
 Panama,09/30/2020,112595,2372,89061,Panama,1
-Panama,10/01/2020,113342,2387,89903,Panama,1
-Panama,10/02/2020,113962,2406,90772,Panama,1
 Panama,10/03/2020,114653,2414,91195,Panama,1
 Panama,10/04/2020,115286,2423,91809,Panama,1
 Panama,10/05/2020,115919,2430,92423,Panama,1
@@ -37939,6 +37926,8 @@ Panama,12/12/2020,190585,3331,160641,Panama,1
 Panama,12/13/2020,193007,3356,162105,Panama,1
 Panama,12/14/2020,194619,3382,163334,Panama,1
 Panama,12/15/2020,196987,3411,164855,Panama,1
+Panama,12/16/2020,199947,3439,166600,Panama,1
+Panama,12/17/2020,203295,3481,168238,Panama,1
 Papua New Guinea,03/20/2020,1,0,0,Papua New Guinea,1
 Papua New Guinea,03/21/2020,1,0,0,Papua New Guinea,1
 Papua New Guinea,03/22/2020,1,0,0,Papua New Guinea,1
@@ -38134,8 +38123,6 @@ Papua New Guinea,09/27/2020,532,7,516,Papua New Guinea,1
 Papua New Guinea,09/28/2020,532,7,516,Papua New Guinea,1
 Papua New Guinea,09/29/2020,534,7,516,Papua New Guinea,1
 Papua New Guinea,09/30/2020,534,7,516,Papua New Guinea,1
-Papua New Guinea,10/01/2020,539,7,519,Papua New Guinea,1
-Papua New Guinea,10/02/2020,539,7,519,Papua New Guinea,1
 Papua New Guinea,10/03/2020,540,7,527,Papua New Guinea,1
 Papua New Guinea,10/04/2020,540,7,527,Papua New Guinea,1
 Papua New Guinea,10/05/2020,540,7,527,Papua New Guinea,1
@@ -38210,6 +38197,8 @@ Papua New Guinea,12/12/2020,720,8,601,Papua New Guinea,1
 Papua New Guinea,12/13/2020,725,8,601,Papua New Guinea,1
 Papua New Guinea,12/14/2020,725,8,601,Papua New Guinea,1
 Papua New Guinea,12/15/2020,729,8,601,Papua New Guinea,1
+Papua New Guinea,12/16/2020,729,8,601,Papua New Guinea,1
+Papua New Guinea,12/17/2020,760,8,601,Papua New Guinea,1
 Paraguay,03/08/2020,1,0,0,Paraguay,1
 Paraguay,03/09/2020,1,0,0,Paraguay,1
 Paraguay,03/10/2020,1,0,0,Paraguay,1
@@ -38417,8 +38406,6 @@ Paraguay,09/27/2020,38684,803,22419,Paraguay,1
 Paraguay,09/28/2020,39432,818,23063,Paraguay,1
 Paraguay,09/29/2020,40101,841,23748,Paraguay,1
 Paraguay,09/30/2020,40758,857,24449,Paraguay,1
-Paraguay,10/01/2020,41799,869,25167,Paraguay,1
-Paraguay,10/02/2020,42684,890,25803,Paraguay,1
 Paraguay,10/03/2020,43452,913,26512,Paraguay,1
 Paraguay,10/04/2020,44182,929,27203,Paraguay,1
 Paraguay,10/05/2020,44715,947,27887,Paraguay,1
@@ -38493,6 +38480,8 @@ Paraguay,12/12/2020,92913,1937,65852,Paraguay,1
 Paraguay,12/13/2020,93582,1953,66543,Paraguay,1
 Paraguay,12/14/2020,94223,1971,67242,Paraguay,1
 Paraguay,12/15/2020,95353,1991,67953,Paraguay,1
+Paraguay,12/16/2020,96209,2014,68658,Paraguay,1
+Paraguay,12/17/2020,97028,2032,69351,Paraguay,1
 Peru,03/06/2020,1,0,0,Peru,1
 Peru,03/07/2020,1,0,0,Peru,1
 Peru,03/08/2020,6,0,0,Peru,1
@@ -38702,8 +38691,6 @@ Peru,09/27/2020,800142,32142,657836,Peru,1
 Peru,09/28/2020,805302,32262,664490,Peru,1
 Peru,09/29/2020,808714,32324,670989,Peru,1
 Peru,09/30/2020,811768,32396,676925,Peru,1
-Peru,10/01/2020,814829,32463,690528,Peru,1
-Peru,10/02/2020,818297,32535,690528,Peru,1
 Peru,10/03/2020,821564,32609,695645,Peru,1
 Peru,10/04/2020,821564,32609,700868,Peru,1
 Peru,10/05/2020,828169,32742,706223,Peru,1
@@ -38778,7 +38765,8 @@ Peru,12/12/2020,980943,36544,916335,Peru,1
 Peru,12/13/2020,980943,36544,916335,Peru,1
 Peru,12/14/2020,984973,36677,918352,Peru,1
 Peru,12/15/2020,986130,36754,920306,Peru,1
-Philippines,01/23/2020,0,0,0,Philippines,1
+Peru,12/16/2020,986130,36754,924120,Peru,1
+Peru,12/17/2020,989457,36858,924120,Peru,1
 Philippines,01/30/2020,1,0,0,Philippines,1
 Philippines,01/31/2020,1,0,0,Philippines,1
 Philippines,02/01/2020,1,0,0,Philippines,1
@@ -39024,8 +39012,6 @@ Philippines,09/27/2020,304226,5344,252510,Philippines,1
 Philippines,09/28/2020,307288,5381,252665,Philippines,1
 Philippines,09/29/2020,309303,5448,252930,Philippines,1
 Philippines,09/30/2020,311694,5504,253488,Philippines,1
-Philippines,10/01/2020,314079,5562,254223,Philippines,1
-Philippines,10/02/2020,316678,5616,254617,Philippines,1
 Philippines,10/03/2020,319330,5678,255046,Philippines,1
 Philippines,10/04/2020,322497,5776,273079,Philippines,1
 Philippines,10/05/2020,324762,5840,273123,Philippines,1
@@ -39100,6 +39086,8 @@ Philippines,12/12/2020,448331,8730,409433,Philippines,1
 Philippines,12/13/2020,449400,8733,418687,Philippines,1
 Philippines,12/14/2020,450733,8757,418723,Philippines,1
 Philippines,12/15/2020,451839,8812,418867,Philippines,1
+Philippines,12/16/2020,452988,8833,419282,Philippines,1
+Philippines,12/17/2020,454447,8850,419902,Philippines,1
 Poland,03/04/2020,1,0,0,Poland,1
 Poland,03/05/2020,1,0,0,Poland,1
 Poland,03/06/2020,5,0,0,Poland,1
@@ -39311,8 +39299,6 @@ Poland,09/27/2020,87330,2432,67904,Poland,1
 Poland,09/28/2020,88636,2447,68420,Poland,1
 Poland,09/29/2020,89962,2483,68955,Poland,1
 Poland,09/30/2020,91514,2513,69695,Poland,1
-Poland,10/01/2020,93481,2543,70401,Poland,1
-Poland,10/02/2020,95773,2570,71353,Poland,1
 Poland,10/03/2020,98140,2604,72209,Poland,1
 Poland,10/04/2020,100074,2630,73003,Poland,1
 Poland,10/05/2020,102080,2659,73552,Poland,1
@@ -39387,6 +39373,8 @@ Poland,12/12/2020,1126700,22676,840541,Poland,1
 Poland,12/13/2020,1135676,22864,858895,Poland,1
 Poland,12/14/2020,1140572,22960,869155,Poland,1
 Poland,12/15/2020,1147446,23309,879748,Poland,1
+Poland,12/16/2020,1159901,23914,892650,Poland,1
+Poland,12/17/2020,1171854,24345,903349,Poland,1
 Portugal,03/02/2020,2,0,0,Portugal,1
 Portugal,03/03/2020,2,0,0,Portugal,1
 Portugal,03/04/2020,5,0,0,Portugal,1
@@ -39600,8 +39588,6 @@ Portugal,09/27/2020,73604,1953,47647,Portugal,1
 Portugal,09/28/2020,74029,1957,47884,Portugal,1
 Portugal,09/29/2020,74717,1963,48193,Portugal,1
 Portugal,09/30/2020,75542,1971,48530,Portugal,1
-Portugal,10/01/2020,76396,1977,48937,Portugal,1
-Portugal,10/02/2020,77284,1983,49359,Portugal,1
 Portugal,10/03/2020,78247,1995,49845,Portugal,1
 Portugal,10/04/2020,79151,2005,50207,Portugal,1
 Portugal,10/05/2020,79885,2018,50454,Portugal,1
@@ -39676,6 +39662,8 @@ Portugal,12/12/2020,344700,5461,268453,Portugal,1
 Portugal,12/13/2020,348744,5559,271322,Portugal,1
 Portugal,12/14/2020,350938,5649,274277,Portugal,1
 Portugal,12/15/2020,353576,5733,280038,Portugal,1
+Portugal,12/16/2020,358296,5815,283719,Portugal,1
+Portugal,12/17/2020,362616,5902,287028,Portugal,1
 Puerto Rico,03/16/2020,3,0,0,Puerto Rico,1
 Puerto Rico,03/17/2020,0,0,0,Puerto Rico,1
 Puerto Rico,03/18/2020,0,0,0,Puerto Rico,1
@@ -39897,8 +39885,6 @@ Qatar,09/27/2020,125084,214,121995,Qatar,1
 Qatar,09/28/2020,125311,214,122209,Qatar,1
 Qatar,09/29/2020,125533,214,122448,Qatar,1
 Qatar,09/30/2020,125760,214,122699,Qatar,1
-Qatar,10/01/2020,125959,214,122911,Qatar,1
-Qatar,10/02/2020,126164,215,123108,Qatar,1
 Qatar,10/03/2020,126339,216,123302,Qatar,1
 Qatar,10/04/2020,126498,216,123475,Qatar,1
 Qatar,10/05/2020,126692,216,123664,Qatar,1
@@ -39973,6 +39959,8 @@ Qatar,12/12/2020,140827,240,138347,Qatar,1
 Qatar,12/13/2020,140961,240,138490,Qatar,1
 Qatar,12/14/2020,141121,241,138719,Qatar,1
 Qatar,12/15/2020,141272,241,138919,Qatar,1
+Qatar,12/16/2020,141417,242,139042,Qatar,1
+Qatar,12/17/2020,141557,242,139243,Qatar,1
 Republic of Ireland,03/08/2020,21,0,0,Republic of Ireland,1
 Republic of Korea,03/10/2020,7513,54,247,Republic of Korea,1
 Republic of Moldova,03/10/2020,3,0,0,Republic of Moldova,1
@@ -40211,8 +40199,6 @@ Romania,09/27/2020,122673,4718,98607,Romania,1
 Romania,09/28/2020,123944,4748,99344,Romania,1
 Romania,09/29/2020,125414,4792,100636,Romania,1
 Romania,09/30/2020,127572,4825,102476,Romania,1
-Romania,10/01/2020,129658,4862,103994,Romania,1
-Romania,10/02/2020,132001,4915,105582,Romania,1
 Romania,10/03/2020,134065,4947,107058,Romania,1
 Romania,10/04/2020,135900,5003,108135,Romania,1
 Romania,10/05/2020,137491,5048,108526,Romania,1
@@ -40287,6 +40273,8 @@ Romania,12/12/2020,551900,13264,451477,Romania,1
 Romania,12/13/2020,556335,13385,457360,Romania,1
 Romania,12/14/2020,559587,13494,460780,Romania,1
 Romania,12/15/2020,565758,13698,465050,Romania,1
+Romania,12/16/2020,571749,13862,469499,Romania,1
+Romania,12/17/2020,577446,13969,477139,Romania,1
 Russia,01/31/2020,2,0,0,Russia,1
 Russia,02/01/2020,2,0,0,Russia,1
 Russia,02/02/2020,2,0,0,Russia,1
@@ -40530,8 +40518,6 @@ Russia,09/27/2020,1146273,20239,939921,Russia,1
 Russia,09/28/2020,1154299,20299,942619,Russia,1
 Russia,09/29/2020,1162428,20456,948985,Russia,1
 Russia,09/30/2020,1170799,20630,954788,Russia,1
-Russia,10/01/2020,1179634,20796,960729,Russia,1
-Russia,10/02/2020,1188928,20981,966724,Russia,1
 Russia,10/03/2020,1198663,21153,972249,Russia,1
 Russia,10/04/2020,1209039,21260,975488,Russia,1
 Russia,10/05/2020,1219796,21375,978610,Russia,1
@@ -40606,6 +40592,8 @@ Russia,12/12/2020,2602048,45923,2066710,Russia,1
 Russia,12/13/2020,2629699,46404,2086887,Russia,1
 Russia,12/14/2020,2656601,46846,2105414,Russia,1
 Russia,12/15/2020,2682866,47410,2129806,Russia,1
+Russia,12/16/2020,2708940,47994,2155842,Russia,1
+Russia,12/17/2020,2736727,48568,2181696,Russia,1
 Russian Federation,03/10/2020,10,0,3,Russian Federation,1
 Rwanda,03/14/2020,1,0,0,Rwanda,1
 Rwanda,03/15/2020,1,0,0,Rwanda,1
@@ -40808,8 +40796,6 @@ Rwanda,09/27/2020,4820,29,3099,Rwanda,1
 Rwanda,09/28/2020,4832,29,3117,Rwanda,1
 Rwanda,09/29/2020,4836,29,3125,Rwanda,1
 Rwanda,09/30/2020,4840,29,3154,Rwanda,1
-Rwanda,10/01/2020,4843,29,3181,Rwanda,1
-Rwanda,10/02/2020,4847,29,3197,Rwanda,1
 Rwanda,10/03/2020,4852,29,3211,Rwanda,1
 Rwanda,10/04/2020,4866,29,3216,Rwanda,1
 Rwanda,10/05/2020,4867,29,3226,Rwanda,1
@@ -40884,6 +40870,8 @@ Rwanda,12/12/2020,6528,56,5892,Rwanda,1
 Rwanda,12/13/2020,6659,56,5955,Rwanda,1
 Rwanda,12/14/2020,6747,56,5996,Rwanda,1
 Rwanda,12/15/2020,6832,57,6036,Rwanda,1
+Rwanda,12/16/2020,6954,57,6057,Rwanda,1
+Rwanda,12/17/2020,7032,57,6089,Rwanda,1
 Saint Barthelemy,03/04/2020,3,0,0,Saint Barthelemy,1
 Saint Barthelemy,03/05/2020,3,0,0,Saint Barthelemy,1
 Saint Barthelemy,03/06/2020,3,0,0,Saint Barthelemy,1
@@ -41081,8 +41069,6 @@ Saint Kitts and Nevis,09/27/2020,19,0,17,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,09/28/2020,19,0,17,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,09/29/2020,19,0,17,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,09/30/2020,19,0,17,Saint Kitts and Nevis,1
-Saint Kitts and Nevis,10/01/2020,19,0,17,Saint Kitts and Nevis,1
-Saint Kitts and Nevis,10/02/2020,19,0,17,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,10/03/2020,19,0,17,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,10/04/2020,19,0,17,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,10/05/2020,19,0,17,Saint Kitts and Nevis,1
@@ -41157,6 +41143,8 @@ Saint Kitts and Nevis,12/12/2020,27,0,23,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,12/13/2020,27,0,23,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,12/14/2020,28,0,23,Saint Kitts and Nevis,1
 Saint Kitts and Nevis,12/15/2020,28,0,23,Saint Kitts and Nevis,1
+Saint Kitts and Nevis,12/16/2020,28,0,23,Saint Kitts and Nevis,1
+Saint Kitts and Nevis,12/17/2020,28,0,24,Saint Kitts and Nevis,1
 Saint Lucia,03/14/2020,1,0,0,Saint Lucia,1
 Saint Lucia,03/15/2020,2,0,0,Saint Lucia,1
 Saint Lucia,03/16/2020,2,0,0,Saint Lucia,1
@@ -41358,8 +41346,6 @@ Saint Lucia,09/27/2020,27,0,27,Saint Lucia,1
 Saint Lucia,09/28/2020,27,0,27,Saint Lucia,1
 Saint Lucia,09/29/2020,27,0,27,Saint Lucia,1
 Saint Lucia,09/30/2020,27,0,27,Saint Lucia,1
-Saint Lucia,10/01/2020,27,0,27,Saint Lucia,1
-Saint Lucia,10/02/2020,27,0,27,Saint Lucia,1
 Saint Lucia,10/03/2020,27,0,27,Saint Lucia,1
 Saint Lucia,10/04/2020,27,0,27,Saint Lucia,1
 Saint Lucia,10/05/2020,27,0,27,Saint Lucia,1
@@ -41434,6 +41420,8 @@ Saint Lucia,12/12/2020,274,4,197,Saint Lucia,1
 Saint Lucia,12/13/2020,275,4,203,Saint Lucia,1
 Saint Lucia,12/14/2020,278,4,240,Saint Lucia,1
 Saint Lucia,12/15/2020,278,4,240,Saint Lucia,1
+Saint Lucia,12/16/2020,278,4,246,Saint Lucia,1
+Saint Lucia,12/17/2020,279,5,246,Saint Lucia,1
 Saint Martin,03/10/2020,2,0,0,Saint Martin,1
 Saint Vincent and the Grenadines,03/14/2020,1,0,0,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,03/15/2020,1,0,0,Saint Vincent and the Grenadines,1
@@ -41636,8 +41624,6 @@ Saint Vincent and the Grenadines,09/27/2020,64,0,64,Saint Vincent and the Grenad
 Saint Vincent and the Grenadines,09/28/2020,64,0,64,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,09/29/2020,64,0,64,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,09/30/2020,64,0,64,Saint Vincent and the Grenadines,1
-Saint Vincent and the Grenadines,10/01/2020,64,0,64,Saint Vincent and the Grenadines,1
-Saint Vincent and the Grenadines,10/02/2020,64,0,64,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,10/03/2020,64,0,64,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,10/04/2020,64,0,64,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,10/05/2020,64,0,64,Saint Vincent and the Grenadines,1
@@ -41712,6 +41698,8 @@ Saint Vincent and the Grenadines,12/12/2020,94,0,81,Saint Vincent and the Grenad
 Saint Vincent and the Grenadines,12/13/2020,98,0,81,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,12/14/2020,98,0,81,Saint Vincent and the Grenadines,1
 Saint Vincent and the Grenadines,12/15/2020,98,0,81,Saint Vincent and the Grenadines,1
+Saint Vincent and the Grenadines,12/16/2020,100,0,82,Saint Vincent and the Grenadines,1
+Saint Vincent and the Grenadines,12/17/2020,100,0,82,Saint Vincent and the Grenadines,1
 Samoa,03/22/2020,0,0,0,Samoa,1
 Samoa,03/23/2020,0,0,0,Samoa,1
 Samoa,03/24/2020,0,0,0,Samoa,1
@@ -41905,8 +41893,6 @@ Samoa,09/27/2020,0,0,0,Samoa,1
 Samoa,09/28/2020,0,0,0,Samoa,1
 Samoa,09/29/2020,0,0,0,Samoa,1
 Samoa,09/30/2020,0,0,0,Samoa,1
-Samoa,10/01/2020,0,0,0,Samoa,1
-Samoa,10/02/2020,0,0,0,Samoa,1
 Samoa,10/03/2020,0,0,0,Samoa,1
 Samoa,10/04/2020,0,0,0,Samoa,1
 Samoa,10/05/2020,0,0,0,Samoa,1
@@ -41981,6 +41967,8 @@ Samoa,12/12/2020,2,0,2,Samoa,1
 Samoa,12/13/2020,2,0,2,Samoa,1
 Samoa,12/14/2020,2,0,2,Samoa,1
 Samoa,12/15/2020,2,0,2,Samoa,1
+Samoa,12/16/2020,2,0,2,Samoa,1
+Samoa,12/17/2020,2,0,2,Samoa,1
 San Marino,02/27/2020,1,0,0,San Marino,1
 San Marino,02/28/2020,1,0,0,San Marino,1
 San Marino,02/29/2020,1,0,0,San Marino,1
@@ -42198,8 +42186,6 @@ San Marino,09/27/2020,727,42,676,San Marino,1
 San Marino,09/28/2020,727,42,676,San Marino,1
 San Marino,09/29/2020,727,42,676,San Marino,1
 San Marino,09/30/2020,732,42,680,San Marino,1
-San Marino,10/01/2020,732,42,680,San Marino,1
-San Marino,10/02/2020,732,42,680,San Marino,1
 San Marino,10/03/2020,732,42,680,San Marino,1
 San Marino,10/04/2020,732,42,680,San Marino,1
 San Marino,10/05/2020,732,42,680,San Marino,1
@@ -42274,6 +42260,8 @@ San Marino,12/12/2020,1932,51,1575,San Marino,1
 San Marino,12/13/2020,1932,51,1575,San Marino,1
 San Marino,12/14/2020,1934,51,1608,San Marino,1
 San Marino,12/15/2020,1982,52,1685,San Marino,1
+San Marino,12/16/2020,2025,54,1694,San Marino,1
+San Marino,12/17/2020,2049,54,1703,San Marino,1
 Sao Tome and Principe,04/06/2020,4,0,0,Sao Tome and Principe,1
 Sao Tome and Principe,04/07/2020,4,0,0,Sao Tome and Principe,1
 Sao Tome and Principe,04/08/2020,4,0,0,Sao Tome and Principe,1
@@ -42452,8 +42440,6 @@ Sao Tome and Principe,09/27/2020,911,15,883,Sao Tome and Principe,1
 Sao Tome and Principe,09/28/2020,911,15,885,Sao Tome and Principe,1
 Sao Tome and Principe,09/29/2020,911,15,885,Sao Tome and Principe,1
 Sao Tome and Principe,09/30/2020,911,15,886,Sao Tome and Principe,1
-Sao Tome and Principe,10/01/2020,911,15,886,Sao Tome and Principe,1
-Sao Tome and Principe,10/02/2020,911,15,886,Sao Tome and Principe,1
 Sao Tome and Principe,10/03/2020,913,15,886,Sao Tome and Principe,1
 Sao Tome and Principe,10/04/2020,913,15,887,Sao Tome and Principe,1
 Sao Tome and Principe,10/05/2020,913,15,888,Sao Tome and Principe,1
@@ -42528,6 +42514,8 @@ Sao Tome and Principe,12/12/2020,1009,17,947,Sao Tome and Principe,1
 Sao Tome and Principe,12/13/2020,1009,17,950,Sao Tome and Principe,1
 Sao Tome and Principe,12/14/2020,1010,17,952,Sao Tome and Principe,1
 Sao Tome and Principe,12/15/2020,1010,17,952,Sao Tome and Principe,1
+Sao Tome and Principe,12/16/2020,1010,17,955,Sao Tome and Principe,1
+Sao Tome and Principe,12/17/2020,1011,17,955,Sao Tome and Principe,1
 Saudi Arabia,03/02/2020,1,0,0,Saudi Arabia,1
 Saudi Arabia,03/03/2020,1,0,0,Saudi Arabia,1
 Saudi Arabia,03/04/2020,1,0,0,Saudi Arabia,1
@@ -42741,8 +42729,6 @@ Saudi Arabia,09/27/2020,333193,4683,317005,Saudi Arabia,1
 Saudi Arabia,09/28/2020,333648,4712,317846,Saudi Arabia,1
 Saudi Arabia,09/29/2020,334187,4739,318542,Saudi Arabia,1
 Saudi Arabia,09/30/2020,334605,4768,319154,Saudi Arabia,1
-Saudi Arabia,10/01/2020,335097,4794,319746,Saudi Arabia,1
-Saudi Arabia,10/02/2020,335578,4823,320348,Saudi Arabia,1
 Saudi Arabia,10/03/2020,335997,4850,320974,Saudi Arabia,1
 Saudi Arabia,10/04/2020,336387,4875,321485,Saudi Arabia,1
 Saudi Arabia,10/05/2020,336766,4898,322055,Saudi Arabia,1
@@ -42817,6 +42803,8 @@ Saudi Arabia,12/12/2020,359749,6036,350347,Saudi Arabia,1
 Saudi Arabia,12/13/2020,359888,6048,350549,Saudi Arabia,1
 Saudi Arabia,12/14/2020,360013,6059,350792,Saudi Arabia,1
 Saudi Arabia,12/15/2020,360155,6069,350993,Saudi Arabia,1
+Saudi Arabia,12/16/2020,360335,6080,351192,Saudi Arabia,1
+Saudi Arabia,12/17/2020,360516,6091,351365,Saudi Arabia,1
 Senegal,03/02/2020,1,0,0,Senegal,1
 Senegal,03/03/2020,2,0,0,Senegal,1
 Senegal,03/04/2020,4,0,0,Senegal,1
@@ -43030,8 +43018,6 @@ Senegal,09/27/2020,14909,308,12113,Senegal,1
 Senegal,09/28/2020,14919,309,12231,Senegal,1
 Senegal,09/29/2020,14945,310,12335,Senegal,1
 Senegal,09/30/2020,14982,311,12437,Senegal,1
-Senegal,10/01/2020,15019,311,12538,Senegal,1
-Senegal,10/02/2020,15051,312,12694,Senegal,1
 Senegal,10/03/2020,15068,312,12751,Senegal,1
 Senegal,10/04/2020,15094,312,12805,Senegal,1
 Senegal,10/05/2020,15122,312,12870,Senegal,1
@@ -43106,6 +43092,8 @@ Senegal,12/12/2020,17061,349,16059,Senegal,1
 Senegal,12/13/2020,17075,349,16094,Senegal,1
 Senegal,12/14/2020,17146,350,16159,Senegal,1
 Senegal,12/15/2020,17216,350,16243,Senegal,1
+Senegal,12/16/2020,17336,352,16349,Senegal,1
+Senegal,12/17/2020,17451,355,16384,Senegal,1
 Serbia,03/06/2020,1,0,0,Serbia,1
 Serbia,03/07/2020,1,0,0,Serbia,1
 Serbia,03/08/2020,1,0,0,Serbia,1
@@ -43315,8 +43303,6 @@ Serbia,09/27/2020,33384,747,0,Serbia,1
 Serbia,09/28/2020,33414,748,0,Serbia,1
 Serbia,09/29/2020,33479,749,0,Serbia,1
 Serbia,09/30/2020,33551,749,0,Serbia,1
-Serbia,10/01/2020,33662,750,0,Serbia,1
-Serbia,10/02/2020,33735,751,0,Serbia,1
 Serbia,10/03/2020,33842,753,0,Serbia,1
 Serbia,10/04/2020,33901,754,0,Serbia,1
 Serbia,10/05/2020,33952,756,0,Serbia,1
@@ -43391,6 +43377,8 @@ Serbia,12/12/2020,261437,2275,0,Serbia,1
 Serbia,12/13/2020,266432,2331,0,Serbia,1
 Serbia,12/14/2020,271364,2380,0,Serbia,1
 Serbia,12/15/2020,277248,2433,0,Serbia,1
+Serbia,12/16/2020,282601,2482,0,Serbia,1
+Serbia,12/17/2020,287730,2529,0,Serbia,1
 Seychelles,03/14/2020,2,0,0,Seychelles,1
 Seychelles,03/15/2020,2,0,0,Seychelles,1
 Seychelles,03/16/2020,3,0,0,Seychelles,1
@@ -43592,8 +43580,6 @@ Seychelles,09/27/2020,143,0,140,Seychelles,1
 Seychelles,09/28/2020,143,0,140,Seychelles,1
 Seychelles,09/29/2020,143,0,140,Seychelles,1
 Seychelles,09/30/2020,144,0,140,Seychelles,1
-Seychelles,10/01/2020,144,0,143,Seychelles,1
-Seychelles,10/02/2020,145,0,143,Seychelles,1
 Seychelles,10/03/2020,146,0,143,Seychelles,1
 Seychelles,10/04/2020,146,0,143,Seychelles,1
 Seychelles,10/05/2020,146,0,143,Seychelles,1
@@ -43668,6 +43654,8 @@ Seychelles,12/12/2020,187,0,182,Seychelles,1
 Seychelles,12/13/2020,187,0,182,Seychelles,1
 Seychelles,12/14/2020,187,0,182,Seychelles,1
 Seychelles,12/15/2020,202,0,184,Seychelles,1
+Seychelles,12/16/2020,202,0,184,Seychelles,1
+Seychelles,12/17/2020,202,0,184,Seychelles,1
 Sierra Leone,03/31/2020,1,0,0,Sierra Leone,1
 Sierra Leone,04/01/2020,2,0,0,Sierra Leone,1
 Sierra Leone,04/02/2020,2,0,0,Sierra Leone,1
@@ -43852,8 +43840,6 @@ Sierra Leone,09/27/2020,2215,72,1681,Sierra Leone,1
 Sierra Leone,09/28/2020,2215,72,1681,Sierra Leone,1
 Sierra Leone,09/29/2020,2222,72,1685,Sierra Leone,1
 Sierra Leone,09/30/2020,2231,72,1687,Sierra Leone,1
-Sierra Leone,10/01/2020,2238,72,1695,Sierra Leone,1
-Sierra Leone,10/02/2020,2252,72,1697,Sierra Leone,1
 Sierra Leone,10/03/2020,2259,72,1704,Sierra Leone,1
 Sierra Leone,10/04/2020,2269,72,1706,Sierra Leone,1
 Sierra Leone,10/05/2020,2269,72,1706,Sierra Leone,1
@@ -43928,7 +43914,8 @@ Sierra Leone,12/12/2020,2440,75,1850,Sierra Leone,1
 Sierra Leone,12/13/2020,2440,75,1850,Sierra Leone,1
 Sierra Leone,12/14/2020,2445,75,1851,Sierra Leone,1
 Sierra Leone,12/15/2020,2451,75,1853,Sierra Leone,1
-Singapore,01/23/2020,1,0,0,Singapore,1
+Sierra Leone,12/16/2020,2460,75,1854,Sierra Leone,1
+Sierra Leone,12/17/2020,2464,75,1854,Sierra Leone,1
 Singapore,01/24/2020,3,0,0,Singapore,1
 Singapore,01/25/2020,3,0,0,Singapore,1
 Singapore,01/26/2020,4,0,0,Singapore,1
@@ -44180,8 +44167,6 @@ Singapore,09/27/2020,57700,27,57367,Singapore,1
 Singapore,09/28/2020,57715,27,57393,Singapore,1
 Singapore,09/29/2020,57742,27,57466,Singapore,1
 Singapore,09/30/2020,57765,27,57488,Singapore,1
-Singapore,10/01/2020,57784,27,57512,Singapore,1
-Singapore,10/02/2020,57794,27,57534,Singapore,1
 Singapore,10/03/2020,57800,27,57562,Singapore,1
 Singapore,10/04/2020,57812,27,57575,Singapore,1
 Singapore,10/05/2020,57819,27,57597,Singapore,1
@@ -44256,6 +44241,8 @@ Singapore,12/12/2020,58313,29,58197,Singapore,1
 Singapore,12/13/2020,58320,29,58208,Singapore,1
 Singapore,12/14/2020,58325,29,58210,Singapore,1
 Singapore,12/15/2020,58341,29,58233,Singapore,1
+Singapore,12/16/2020,58353,29,58238,Singapore,1
+Singapore,12/17/2020,58377,29,58252,Singapore,1
 Slovakia,03/06/2020,1,0,0,Slovakia,1
 Slovakia,03/07/2020,1,0,0,Slovakia,1
 Slovakia,03/08/2020,3,0,0,Slovakia,1
@@ -44465,8 +44452,6 @@ Slovakia,09/27/2020,9078,44,4178,Slovakia,1
 Slovakia,09/28/2020,9343,44,4213,Slovakia,1
 Slovakia,09/29/2020,9574,45,4329,Slovakia,1
 Slovakia,09/30/2020,10141,48,4395,Slovakia,1
-Slovakia,10/01/2020,10938,48,4620,Slovakia,1
-Slovakia,10/02/2020,11617,54,4756,Slovakia,1
 Slovakia,10/03/2020,12321,54,4793,Slovakia,1
 Slovakia,10/04/2020,13139,55,4828,Slovakia,1
 Slovakia,10/05/2020,13492,55,4865,Slovakia,1
@@ -44541,6 +44526,8 @@ Slovakia,12/12/2020,130794,1148,95416,Slovakia,1
 Slovakia,12/13/2020,132984,1175,97068,Slovakia,1
 Slovakia,12/14/2020,133489,1205,98585,Slovakia,1
 Slovakia,12/15/2020,135523,1251,100303,Slovakia,1
+Slovakia,12/16/2020,139088,1309,101584,Slovakia,1
+Slovakia,12/17/2020,142133,1378,102737,Slovakia,1
 Slovenia,03/05/2020,2,0,0,Slovenia,1
 Slovenia,03/06/2020,7,0,0,Slovenia,1
 Slovenia,03/07/2020,7,0,0,Slovenia,1
@@ -44751,8 +44738,6 @@ Slovenia,09/27/2020,5350,147,3555,Slovenia,1
 Slovenia,09/28/2020,5388,149,3600,Slovenia,1
 Slovenia,09/29/2020,5487,149,3682,Slovenia,1
 Slovenia,09/30/2020,5690,150,3804,Slovenia,1
-Slovenia,10/01/2020,5865,152,3906,Slovenia,1
-Slovenia,10/02/2020,6103,154,4041,Slovenia,1
 Slovenia,10/03/2020,6330,155,4041,Slovenia,1
 Slovenia,10/04/2020,6498,155,4265,Slovenia,1
 Slovenia,10/05/2020,6673,156,4265,Slovenia,1
@@ -44827,6 +44812,8 @@ Slovenia,12/12/2020,95481,2041,72290,Slovenia,1
 Slovenia,12/13/2020,96314,2063,73377,Slovenia,1
 Slovenia,12/14/2020,96745,2107,73760,Slovenia,1
 Slovenia,12/15/2020,98281,2149,75017,Slovenia,1
+Slovenia,12/16/2020,100401,2190,77453,Slovenia,1
+Slovenia,12/17/2020,102043,2233,79193,Slovenia,1
 Solomon Islands,10/12/2020,2,0,0,Solomon Islands,1
 Solomon Islands,10/13/2020,2,0,0,Solomon Islands,1
 Solomon Islands,10/14/2020,2,0,0,Solomon Islands,1
@@ -44892,6 +44879,8 @@ Solomon Islands,12/12/2020,17,0,5,Solomon Islands,1
 Solomon Islands,12/13/2020,17,0,5,Solomon Islands,1
 Solomon Islands,12/14/2020,17,0,5,Solomon Islands,1
 Solomon Islands,12/15/2020,17,0,5,Solomon Islands,1
+Solomon Islands,12/16/2020,17,0,5,Solomon Islands,1
+Solomon Islands,12/17/2020,17,0,5,Solomon Islands,1
 Somalia,03/16/2020,1,0,0,Somalia,1
 Somalia,03/17/2020,1,0,0,Somalia,1
 Somalia,03/18/2020,1,0,0,Somalia,1
@@ -45091,8 +45080,6 @@ Somalia,09/27/2020,3588,99,2946,Somalia,1
 Somalia,09/28/2020,3588,99,2946,Somalia,1
 Somalia,09/29/2020,3588,99,2946,Somalia,1
 Somalia,09/30/2020,3588,99,2946,Somalia,1
-Somalia,10/01/2020,3593,99,3001,Somalia,1
-Somalia,10/02/2020,3593,99,3001,Somalia,1
 Somalia,10/03/2020,3593,99,3001,Somalia,1
 Somalia,10/04/2020,3745,99,3010,Somalia,1
 Somalia,10/05/2020,3745,99,3010,Somalia,1
@@ -45167,6 +45154,8 @@ Somalia,12/12/2020,4579,121,3529,Somalia,1
 Somalia,12/13/2020,4579,121,3529,Somalia,1
 Somalia,12/14/2020,4579,121,3529,Somalia,1
 Somalia,12/15/2020,4579,121,3529,Somalia,1
+Somalia,12/16/2020,4579,121,3529,Somalia,1
+Somalia,12/17/2020,4662,124,3566,Somalia,1
 South Africa,03/05/2020,1,0,0,South Africa,1
 South Africa,03/06/2020,1,0,0,South Africa,1
 South Africa,03/07/2020,1,0,0,South Africa,1
@@ -45377,8 +45366,6 @@ South Africa,09/27/2020,670766,16398,603721,South Africa,1
 South Africa,09/28/2020,671669,16586,604478,South Africa,1
 South Africa,09/29/2020,672572,16667,606520,South Africa,1
 South Africa,09/30/2020,674339,16734,608112,South Africa,1
-South Africa,10/01/2020,676084,16866,609584,South Africa,1
-South Africa,10/02/2020,677833,16909,611044,South Africa,1
 South Africa,10/03/2020,679716,16938,612763,South Africa,1
 South Africa,10/04/2020,681289,16976,614781,South Africa,1
 South Africa,10/05/2020,682215,17016,615684,South Africa,1
@@ -45453,8 +45440,8 @@ South Africa,12/12/2020,852965,23106,760118,South Africa,1
 South Africa,12/13/2020,860964,23276,761011,South Africa,1
 South Africa,12/14/2020,866127,23451,762746,South Africa,1
 South Africa,12/15/2020,873679,23661,764977,South Africa,1
-South Korea,01/22/2020,1,0,0,South Korea,1
-South Korea,01/23/2020,1,0,0,South Korea,1
+South Africa,12/16/2020,883687,23827,774585,South Africa,1
+South Africa,12/17/2020,892813,24011,780313,South Africa,1
 South Korea,01/24/2020,2,0,0,South Korea,1
 South Korea,01/25/2020,2,0,0,South Korea,1
 South Korea,01/26/2020,3,0,0,South Korea,1
@@ -45680,8 +45667,6 @@ South Sudan,09/27/2020,2686,49,1290,South Sudan,1
 South Sudan,09/28/2020,2692,49,1290,South Sudan,1
 South Sudan,09/29/2020,2700,49,1290,South Sudan,1
 South Sudan,09/30/2020,2704,49,1290,South Sudan,1
-South Sudan,10/01/2020,2704,49,1290,South Sudan,1
-South Sudan,10/02/2020,2715,50,1290,South Sudan,1
 South Sudan,10/03/2020,2715,50,1290,South Sudan,1
 South Sudan,10/04/2020,2726,50,1290,South Sudan,1
 South Sudan,10/05/2020,2726,50,1290,South Sudan,1
@@ -45756,6 +45741,8 @@ South Sudan,12/12/2020,3206,62,3043,South Sudan,1
 South Sudan,12/13/2020,3206,62,3043,South Sudan,1
 South Sudan,12/14/2020,3206,62,3043,South Sudan,1
 South Sudan,12/15/2020,3222,62,3043,South Sudan,1
+South Sudan,12/16/2020,3222,62,3043,South Sudan,1
+South Sudan,12/17/2020,3222,62,3043,South Sudan,1
 Spain,02/01/2020,1,0,0,Spain,1
 Spain,02/02/2020,1,0,0,Spain,1
 Spain,02/03/2020,1,0,0,Spain,1
@@ -45999,8 +45986,6 @@ Spain,09/27/2020,716481,31232,150376,Spain,1
 Spain,09/28/2020,748266,31411,150376,Spain,1
 Spain,09/29/2020,748266,31411,150376,Spain,1
 Spain,09/30/2020,769188,31791,150376,Spain,1
-Spain,10/01/2020,778607,31973,150376,Spain,1
-Spain,10/02/2020,789932,32086,150376,Spain,1
 Spain,10/03/2020,789932,32086,150376,Spain,1
 Spain,10/04/2020,789932,32086,150376,Spain,1
 Spain,10/05/2020,813412,32225,150376,Spain,1
@@ -46075,6 +46060,8 @@ Spain,12/12/2020,1730575,47624,150376,Spain,1
 Spain,12/13/2020,1730575,47624,150376,Spain,1
 Spain,12/14/2020,1751884,48013,150376,Spain,1
 Spain,12/15/2020,1762212,48401,150376,Spain,1
+Spain,12/16/2020,1773290,48596,150376,Spain,1
+Spain,12/17/2020,1785421,48777,150376,Spain,1
 Sri Lanka,01/27/2020,1,0,0,Sri Lanka,1
 Sri Lanka,01/28/2020,1,0,0,Sri Lanka,1
 Sri Lanka,01/29/2020,1,0,0,Sri Lanka,1
@@ -46323,8 +46310,6 @@ Sri Lanka,09/27/2020,3360,13,3208,Sri Lanka,1
 Sri Lanka,09/28/2020,3363,13,3210,Sri Lanka,1
 Sri Lanka,09/29/2020,3374,13,3230,Sri Lanka,1
 Sri Lanka,09/30/2020,3380,13,3230,Sri Lanka,1
-Sri Lanka,10/01/2020,3382,13,3233,Sri Lanka,1
-Sri Lanka,10/02/2020,3388,13,3245,Sri Lanka,1
 Sri Lanka,10/03/2020,3395,13,3254,Sri Lanka,1
 Sri Lanka,10/04/2020,3402,13,3258,Sri Lanka,1
 Sri Lanka,10/05/2020,3513,13,3259,Sri Lanka,1
@@ -46399,6 +46384,8 @@ Sri Lanka,12/12/2020,32135,149,23304,Sri Lanka,1
 Sri Lanka,12/13/2020,32790,152,23793,Sri Lanka,1
 Sri Lanka,12/14/2020,33478,154,24309,Sri Lanka,1
 Sri Lanka,12/15/2020,34121,154,24867,Sri Lanka,1
+Sri Lanka,12/16/2020,34737,160,25652,Sri Lanka,1
+Sri Lanka,12/17/2020,35387,160,26353,Sri Lanka,1
 St. Martin,03/09/2020,2,0,0,St. Martin,1
 Sudan,03/13/2020,1,1,0,Sudan,1
 Sudan,03/14/2020,1,1,0,Sudan,1
@@ -46602,8 +46589,6 @@ Sudan,09/27/2020,13606,836,6764,Sudan,1
 Sudan,09/28/2020,13606,836,6764,Sudan,1
 Sudan,09/29/2020,13640,836,6764,Sudan,1
 Sudan,09/30/2020,13640,836,6764,Sudan,1
-Sudan,10/01/2020,13653,836,6764,Sudan,1
-Sudan,10/02/2020,13653,836,6764,Sudan,1
 Sudan,10/03/2020,13653,836,6764,Sudan,1
 Sudan,10/04/2020,13653,836,6764,Sudan,1
 Sudan,10/05/2020,13653,836,6764,Sudan,1
@@ -46678,6 +46663,8 @@ Sudan,12/12/2020,21147,1344,12227,Sudan,1
 Sudan,12/13/2020,21386,1347,12313,Sudan,1
 Sudan,12/14/2020,21591,1355,12452,Sudan,1
 Sudan,12/15/2020,21864,1372,12667,Sudan,1
+Sudan,12/16/2020,22082,1384,12753,Sudan,1
+Sudan,12/17/2020,22265,1408,12873,Sudan,1
 Suriname,03/14/2020,1,0,0,Suriname,1
 Suriname,03/15/2020,1,0,0,Suriname,1
 Suriname,03/16/2020,1,0,0,Suriname,1
@@ -46879,8 +46866,6 @@ Suriname,09/27/2020,4835,102,4661,Suriname,1
 Suriname,09/28/2020,4836,102,4667,Suriname,1
 Suriname,09/29/2020,4863,104,4676,Suriname,1
 Suriname,09/30/2020,4877,104,4695,Suriname,1
-Suriname,10/01/2020,4891,105,4702,Suriname,1
-Suriname,10/02/2020,4899,105,4715,Suriname,1
 Suriname,10/03/2020,4924,106,4723,Suriname,1
 Suriname,10/04/2020,4941,106,4741,Suriname,1
 Suriname,10/05/2020,4954,106,4755,Suriname,1
@@ -46955,6 +46940,8 @@ Suriname,12/12/2020,5340,117,5221,Suriname,1
 Suriname,12/13/2020,5353,117,5224,Suriname,1
 Suriname,12/14/2020,5359,117,5227,Suriname,1
 Suriname,12/15/2020,5381,117,5231,Suriname,1
+Suriname,12/16/2020,5401,117,5239,Suriname,1
+Suriname,12/17/2020,5428,117,5240,Suriname,1
 Sweden,01/31/2020,1,0,0,Sweden,1
 Sweden,02/01/2020,1,0,0,Sweden,1
 Sweden,02/02/2020,1,0,0,Sweden,1
@@ -47199,8 +47186,6 @@ Sweden,09/27/2020,90923,5880,0,Sweden,1
 Sweden,09/28/2020,90923,5880,0,Sweden,1
 Sweden,09/29/2020,92466,5890,0,Sweden,1
 Sweden,09/30/2020,92863,5893,0,Sweden,1
-Sweden,10/01/2020,93615,5893,0,Sweden,1
-Sweden,10/02/2020,94283,5895,0,Sweden,1
 Sweden,10/03/2020,94283,5895,0,Sweden,1
 Sweden,10/04/2020,94283,5895,0,Sweden,1
 Sweden,10/05/2020,94283,5895,0,Sweden,1
@@ -47275,6 +47260,8 @@ Sweden,12/12/2020,320098,7514,0,Sweden,1
 Sweden,12/13/2020,320098,7514,0,Sweden,1
 Sweden,12/14/2020,320098,7514,0,Sweden,1
 Sweden,12/15/2020,341029,7667,0,Sweden,1
+Sweden,12/16/2020,348585,7802,0,Sweden,1
+Sweden,12/17/2020,357466,7893,0,Sweden,1
 Switzerland,02/25/2020,1,0,0,Switzerland,1
 Switzerland,02/26/2020,1,0,0,Switzerland,1
 Switzerland,02/27/2020,8,0,0,Switzerland,1
@@ -47494,8 +47481,6 @@ Switzerland,09/27/2020,51864,2064,42700,Switzerland,1
 Switzerland,09/28/2020,52646,2065,42700,Switzerland,1
 Switzerland,09/29/2020,52871,2069,42700,Switzerland,1
 Switzerland,09/30/2020,53282,2074,42700,Switzerland,1
-Switzerland,10/01/2020,53832,2074,45300,Switzerland,1
-Switzerland,10/02/2020,54384,2075,45800,Switzerland,1
 Switzerland,10/03/2020,54384,2076,45800,Switzerland,1
 Switzerland,10/04/2020,54384,2077,45800,Switzerland,1
 Switzerland,10/05/2020,55932,2078,45800,Switzerland,1
@@ -47570,6 +47555,8 @@ Switzerland,12/12/2020,373831,5976,291500,Switzerland,1
 Switzerland,12/13/2020,373831,5985,291500,Switzerland,1
 Switzerland,12/14/2020,384557,6154,308300,Switzerland,1
 Switzerland,12/15/2020,388828,6266,311500,Switzerland,1
+Switzerland,12/16/2020,394453,6379,311500,Switzerland,1
+Switzerland,12/17/2020,399511,6487,311500,Switzerland,1
 Syria,03/22/2020,1,0,0,Syria,1
 Syria,03/23/2020,1,0,0,Syria,1
 Syria,03/24/2020,1,0,0,Syria,1
@@ -47763,8 +47750,6 @@ Syria,09/27/2020,4072,192,1062,Syria,1
 Syria,09/28/2020,4102,194,1074,Syria,1
 Syria,09/29/2020,4148,197,1088,Syria,1
 Syria,09/30/2020,4200,200,1103,Syria,1
-Syria,10/01/2020,4247,202,1117,Syria,1
-Syria,10/02/2020,4289,203,1130,Syria,1
 Syria,10/03/2020,4329,204,1143,Syria,1
 Syria,10/04/2020,4366,205,1155,Syria,1
 Syria,10/05/2020,4411,207,1168,Syria,1
@@ -47839,9 +47824,9 @@ Syria,12/12/2020,9041,506,4319,Syria,1
 Syria,12/13/2020,9166,518,4376,Syria,1
 Syria,12/14/2020,9302,530,4432,Syria,1
 Syria,12/15/2020,9452,543,4494,Syria,1
+Syria,12/16/2020,9603,554,4548,Syria,1
+Syria,12/17/2020,9759,571,4616,Syria,1
 Taipei and environs,03/10/2020,47,1,17,Taipei and environs,1
-Taiwan,01/22/2020,1,0,0,Taiwan,1
-Taiwan,01/23/2020,1,0,0,Taiwan,1
 Taiwan,01/24/2020,3,0,0,Taiwan,1
 Taiwan,01/25/2020,3,0,0,Taiwan,1
 Taiwan,01/26/2020,4,0,0,Taiwan,1
@@ -48092,8 +48077,6 @@ Taiwan*,09/27/2020,510,7,480,Taiwan*,1
 Taiwan*,09/28/2020,513,7,482,Taiwan*,1
 Taiwan*,09/29/2020,513,7,482,Taiwan*,1
 Taiwan*,09/30/2020,514,7,483,Taiwan*,1
-Taiwan*,10/01/2020,515,7,484,Taiwan*,1
-Taiwan*,10/02/2020,517,7,484,Taiwan*,1
 Taiwan*,10/03/2020,517,7,484,Taiwan*,1
 Taiwan*,10/04/2020,517,7,484,Taiwan*,1
 Taiwan*,10/05/2020,518,7,485,Taiwan*,1
@@ -48168,6 +48151,8 @@ Taiwan*,12/12/2020,733,7,601,Taiwan*,1
 Taiwan*,12/13/2020,736,7,606,Taiwan*,1
 Taiwan*,12/14/2020,740,7,606,Taiwan*,1
 Taiwan*,12/15/2020,742,7,611,Taiwan*,1
+Taiwan*,12/16/2020,749,7,612,Taiwan*,1
+Taiwan*,12/17/2020,757,7,616,Taiwan*,1
 Tajikistan,04/30/2020,15,0,0,Tajikistan,1
 Tajikistan,05/01/2020,15,0,0,Tajikistan,1
 Tajikistan,05/02/2020,76,2,0,Tajikistan,1
@@ -48322,8 +48307,6 @@ Tajikistan,09/27/2020,9646,75,8430,Tajikistan,1
 Tajikistan,09/28/2020,9685,75,8483,Tajikistan,1
 Tajikistan,09/29/2020,9726,75,8531,Tajikistan,1
 Tajikistan,09/30/2020,9769,76,8572,Tajikistan,1
-Tajikistan,10/01/2020,9811,77,8617,Tajikistan,1
-Tajikistan,10/02/2020,9852,77,8661,Tajikistan,1
 Tajikistan,10/03/2020,9895,77,8707,Tajikistan,1
 Tajikistan,10/04/2020,9935,78,8749,Tajikistan,1
 Tajikistan,10/05/2020,9974,78,8794,Tajikistan,1
@@ -48398,6 +48381,8 @@ Tajikistan,12/12/2020,12624,89,12050,Tajikistan,1
 Tajikistan,12/13/2020,12704,88,12133,Tajikistan,1
 Tajikistan,12/14/2020,12741,88,12172,Tajikistan,1
 Tajikistan,12/15/2020,12777,88,12212,Tajikistan,1
+Tajikistan,12/16/2020,12815,89,12253,Tajikistan,1
+Tajikistan,12/17/2020,12852,89,12295,Tajikistan,1
 Tanzania,03/16/2020,1,0,0,Tanzania,1
 Tanzania,03/17/2020,1,0,0,Tanzania,1
 Tanzania,03/18/2020,3,0,0,Tanzania,1
@@ -48597,8 +48582,6 @@ Tanzania,09/27/2020,509,21,183,Tanzania,1
 Tanzania,09/28/2020,509,21,183,Tanzania,1
 Tanzania,09/29/2020,509,21,183,Tanzania,1
 Tanzania,09/30/2020,509,21,183,Tanzania,1
-Tanzania,10/01/2020,509,21,183,Tanzania,1
-Tanzania,10/02/2020,509,21,183,Tanzania,1
 Tanzania,10/03/2020,509,21,183,Tanzania,1
 Tanzania,10/04/2020,509,21,183,Tanzania,1
 Tanzania,10/05/2020,509,21,183,Tanzania,1
@@ -48673,8 +48656,8 @@ Tanzania,12/12/2020,509,21,183,Tanzania,1
 Tanzania,12/13/2020,509,21,183,Tanzania,1
 Tanzania,12/14/2020,509,21,183,Tanzania,1
 Tanzania,12/15/2020,509,21,183,Tanzania,1
-Thailand,01/22/2020,2,0,0,Thailand,1
-Thailand,01/23/2020,3,0,0,Thailand,1
+Tanzania,12/16/2020,509,21,183,Tanzania,1
+Tanzania,12/17/2020,509,21,183,Tanzania,1
 Thailand,01/24/2020,5,0,0,Thailand,1
 Thailand,01/25/2020,7,0,0,Thailand,1
 Thailand,01/26/2020,8,0,2,Thailand,1
@@ -48926,8 +48909,6 @@ Thailand,09/27/2020,3523,59,3367,Thailand,1
 Thailand,09/28/2020,3559,59,3370,Thailand,1
 Thailand,09/29/2020,3564,59,3374,Thailand,1
 Thailand,09/30/2020,3569,59,3379,Thailand,1
-Thailand,10/01/2020,3575,59,3384,Thailand,1
-Thailand,10/02/2020,3583,59,3386,Thailand,1
 Thailand,10/03/2020,3585,59,3388,Thailand,1
 Thailand,10/04/2020,3590,59,3390,Thailand,1
 Thailand,10/05/2020,3600,59,3390,Thailand,1
@@ -49002,6 +48983,8 @@ Thailand,12/12/2020,4209,60,3923,Thailand,1
 Thailand,12/13/2020,4237,60,3940,Thailand,1
 Thailand,12/14/2020,4246,60,3949,Thailand,1
 Thailand,12/15/2020,4261,60,3977,Thailand,1
+Thailand,12/16/2020,4281,60,3989,Thailand,1
+Thailand,12/17/2020,4297,60,4005,Thailand,1
 The Bahamas,03/16/2020,1,0,0,The Bahamas,1
 The Bahamas,03/17/2020,1,0,0,The Bahamas,1
 The Bahamas,03/18/2020,1,0,0,The Bahamas,1
@@ -49206,8 +49189,6 @@ Timor-Leste,09/27/2020,27,0,27,Timor-Leste,1
 Timor-Leste,09/28/2020,27,0,27,Timor-Leste,1
 Timor-Leste,09/29/2020,28,0,28,Timor-Leste,1
 Timor-Leste,09/30/2020,28,0,28,Timor-Leste,1
-Timor-Leste,10/01/2020,28,0,28,Timor-Leste,1
-Timor-Leste,10/02/2020,28,0,28,Timor-Leste,1
 Timor-Leste,10/03/2020,28,0,28,Timor-Leste,1
 Timor-Leste,10/04/2020,28,0,28,Timor-Leste,1
 Timor-Leste,10/05/2020,28,0,28,Timor-Leste,1
@@ -49282,6 +49263,8 @@ Timor-Leste,12/12/2020,31,0,30,Timor-Leste,1
 Timor-Leste,12/13/2020,31,0,30,Timor-Leste,1
 Timor-Leste,12/14/2020,31,0,30,Timor-Leste,1
 Timor-Leste,12/15/2020,31,0,30,Timor-Leste,1
+Timor-Leste,12/16/2020,31,0,30,Timor-Leste,1
+Timor-Leste,12/17/2020,31,0,30,Timor-Leste,1
 Togo,03/06/2020,1,0,0,Togo,1
 Togo,03/07/2020,1,0,0,Togo,1
 Togo,03/08/2020,1,0,0,Togo,1
@@ -49491,8 +49474,6 @@ Togo,09/27/2020,1743,46,1330,Togo,1
 Togo,09/28/2020,1749,47,1336,Togo,1
 Togo,09/29/2020,1759,48,1341,Togo,1
 Togo,09/30/2020,1784,48,1348,Togo,1
-Togo,10/01/2020,1809,48,1353,Togo,1
-Togo,10/02/2020,1818,48,1365,Togo,1
 Togo,10/03/2020,1840,48,1375,Togo,1
 Togo,10/04/2020,1854,48,1392,Togo,1
 Togo,10/05/2020,1864,48,1403,Togo,1
@@ -49567,6 +49548,8 @@ Togo,12/12/2020,3221,66,2745,Togo,1
 Togo,12/13/2020,3251,66,2771,Togo,1
 Togo,12/14/2020,3266,66,2789,Togo,1
 Togo,12/15/2020,3295,66,2821,Togo,1
+Togo,12/16/2020,3315,66,2852,Togo,1
+Togo,12/17/2020,3330,66,2890,Togo,1
 Trinidad and Tobago,03/14/2020,2,0,0,Trinidad and Tobago,1
 Trinidad and Tobago,03/15/2020,2,0,0,Trinidad and Tobago,1
 Trinidad and Tobago,03/16/2020,4,0,0,Trinidad and Tobago,1
@@ -49768,8 +49751,6 @@ Trinidad and Tobago,09/27/2020,4362,71,2234,Trinidad and Tobago,1
 Trinidad and Tobago,09/28/2020,4386,72,2275,Trinidad and Tobago,1
 Trinidad and Tobago,09/29/2020,4463,74,2454,Trinidad and Tobago,1
 Trinidad and Tobago,09/30/2020,4531,76,2560,Trinidad and Tobago,1
-Trinidad and Tobago,10/01/2020,4570,76,2629,Trinidad and Tobago,1
-Trinidad and Tobago,10/02/2020,4629,76,2729,Trinidad and Tobago,1
 Trinidad and Tobago,10/03/2020,4715,79,2802,Trinidad and Tobago,1
 Trinidad and Tobago,10/04/2020,4763,81,2843,Trinidad and Tobago,1
 Trinidad and Tobago,10/05/2020,4767,82,2884,Trinidad and Tobago,1
@@ -49844,6 +49825,8 @@ Trinidad and Tobago,12/12/2020,6864,122,6126,Trinidad and Tobago,1
 Trinidad and Tobago,12/13/2020,6879,122,6145,Trinidad and Tobago,1
 Trinidad and Tobago,12/14/2020,6885,123,6180,Trinidad and Tobago,1
 Trinidad and Tobago,12/15/2020,6900,123,6204,Trinidad and Tobago,1
+Trinidad and Tobago,12/16/2020,6917,123,6230,Trinidad and Tobago,1
+Trinidad and Tobago,12/17/2020,6940,123,6385,Trinidad and Tobago,1
 Tunisia,03/04/2020,1,0,0,Tunisia,1
 Tunisia,03/05/2020,1,0,0,Tunisia,1
 Tunisia,03/06/2020,1,0,0,Tunisia,1
@@ -50055,8 +50038,6 @@ Tunisia,09/27/2020,16114,214,5032,Tunisia,1
 Tunisia,09/28/2020,16114,214,5032,Tunisia,1
 Tunisia,09/29/2020,17405,246,5032,Tunisia,1
 Tunisia,09/30/2020,18413,265,5032,Tunisia,1
-Tunisia,10/01/2020,18413,265,5032,Tunisia,1
-Tunisia,10/02/2020,19721,271,5032,Tunisia,1
 Tunisia,10/03/2020,20944,276,5032,Tunisia,1
 Tunisia,10/04/2020,22230,321,5032,Tunisia,1
 Tunisia,10/05/2020,22230,321,5032,Tunisia,1
@@ -50131,6 +50112,8 @@ Tunisia,12/12/2020,110393,3836,84218,Tunisia,1
 Tunisia,12/13/2020,111361,3894,84741,Tunisia,1
 Tunisia,12/14/2020,111361,3894,84741,Tunisia,1
 Tunisia,12/15/2020,113241,3956,86801,Tunisia,1
+Tunisia,12/16/2020,114547,3997,87884,Tunisia,1
+Tunisia,12/17/2020,115966,4032,87884,Tunisia,1
 Turkey,03/11/2020,1,0,0,Turkey,1
 Turkey,03/12/2020,1,0,0,Turkey,1
 Turkey,03/13/2020,5,0,0,Turkey,1
@@ -50335,8 +50318,6 @@ Turkey,09/27/2020,314433,7997,275630,Turkey,1
 Turkey,09/28/2020,315845,8062,277052,Turkey,1
 Turkey,09/29/2020,317272,8130,278504,Turkey,1
 Turkey,09/30/2020,318663,8195,279749,Turkey,1
-Turkey,10/01/2020,320070,8262,281151,Turkey,1
-Turkey,10/02/2020,321512,8325,282657,Turkey,1
 Turkey,10/03/2020,323014,8384,283868,Turkey,1
 Turkey,10/04/2020,324443,8441,285050,Turkey,1
 Turkey,10/05/2020,326046,8498,286370,Turkey,1
@@ -50411,6 +50392,8 @@ Turkey,12/12/2020,1809809,16199,1581565,Turkey,1
 Turkey,12/13/2020,1836728,16417,1603780,Turkey,1
 Turkey,12/14/2020,1866345,16646,1631944,Turkey,1
 Turkey,12/15/2020,1898447,16881,1661191,Turkey,1
+Turkey,12/16/2020,1928165,17121,1691113,Turkey,1
+Turkey,12/17/2020,1955680,17364,1721607,Turkey,1
 UK,01/31/2020,2,0,0,UK,1
 UK,02/01/2020,2,0,0,UK,1
 UK,02/02/2020,2,0,0,UK,1
@@ -50451,8 +50434,6 @@ UK,03/07/2020,206,2,18,UK,1
 UK,03/08/2020,273,3,18,UK,1
 UK,03/09/2020,321,4,18,UK,1
 UK,03/10/2020,382,6,18,UK,1
-US,01/22/2020,1,0,0,US,1
-US,01/23/2020,1,0,0,US,1
 US,01/24/2020,2,0,0,US,1
 US,01/25/2020,2,0,0,US,1
 US,01/26/2020,5,0,0,US,1
@@ -50521,265 +50502,265 @@ US,03/28/2020,121572,2026,1072,US,1
 US,03/29/2020,140964,2468,2665,US,1
 US,03/30/2020,161959,2979,5644,US,1
 US,03/31/2020,188248,3875,7024,US,1
-US,04/01/2020,213508,4767,8474,US,1
-US,04/02/2020,243737,5934,9001,US,1
-US,04/03/2020,275697,7097,9707,US,1
-US,04/04/2020,308980,8415,14652,US,1
-US,04/05/2020,337212,9633,17448,US,1
-US,04/06/2020,366794,10798,19581,US,1
-US,04/07/2020,396362,12745,21763,US,1
-US,04/08/2020,429370,14716,23559,US,1
-US,04/09/2020,461688,16487,25410,US,1
-US,04/10/2020,496735,18611,28790,US,1
-US,04/11/2020,526546,20479,31270,US,1
-US,04/12/2020,555431,22045,32988,US,1
-US,04/13/2020,580755,23550,43482,US,1
-US,04/14/2020,607779,25855,47763,US,1
-US,04/15/2020,636616,28351,52096,US,1
-US,04/16/2020,667945,32936,54703,US,1
-US,04/17/2020,699713,36792,58545,US,1
-US,04/18/2020,732280,38680,64840,US,1
-US,04/19/2020,759177,40680,70337,US,1
-US,04/20/2020,784415,42118,72329,US,1
-US,04/21/2020,812066,44475,75204,US,1
-US,04/22/2020,840348,46651,77366,US,1
-US,04/23/2020,869237,49982,80203,US,1
-US,04/24/2020,905399,51977,99079,US,1
-US,04/25/2020,938425,53783,100372,US,1
-US,04/26/2020,965849,54911,106988,US,1
-US,04/27/2020,988275,56290,111424,US,1
-US,04/28/2020,1012671,58380,115936,US,1
-US,04/29/2020,1040103,60996,120720,US,1
-US,04/30/2020,1069544,63019,153947,US,1
-US,05/01/2020,1103628,64968,164015,US,1
-US,05/02/2020,1132641,66393,175382,US,1
-US,05/03/2020,1158133,67713,180152,US,1
-US,05/04/2020,1180470,68954,187180,US,1
-US,05/05/2020,1204470,71089,189791,US,1
-US,05/06/2020,1228708,73456,189910,US,1
-US,05/07/2020,1257129,75692,195036,US,1
-US,05/08/2020,1284011,77201,198993,US,1
-US,05/09/2020,1309623,78814,212534,US,1
-US,05/10/2020,1329367,79550,216169,US,1
-US,05/11/2020,1348010,80710,232733,US,1
-US,05/12/2020,1369943,82410,230287,US,1
-US,05/13/2020,1390563,84148,243430,US,1
-US,05/14/2020,1417865,85936,246414,US,1
-US,05/15/2020,1442976,87569,250747,US,1
-US,05/16/2020,1467991,88793,268376,US,1
-US,05/17/2020,1487148,89598,272265,US,1
-US,05/18/2020,1508687,90389,283178,US,1
-US,05/19/2020,1529053,91956,289392,US,1
-US,05/20/2020,1552139,93479,294312,US,1
-US,05/21/2020,1577487,94730,298418,US,1
-US,05/22/2020,1601259,96006,350135,US,1
-US,05/23/2020,1622901,97115,361239,US,1
-US,05/24/2020,1643456,97751,366736,US,1
-US,05/25/2020,1662601,98254,379157,US,1
-US,05/26/2020,1681200,98946,384902,US,1
-US,05/27/2020,1699461,100448,391508,US,1
-US,05/28/2020,1722027,101647,399991,US,1
-US,05/29/2020,1746344,102847,406446,US,1
-US,05/30/2020,1770745,103821,416461,US,1
-US,05/31/2020,1790455,104423,444758,US,1
-US,06/01/2020,1810958,105195,458231,US,1
-US,06/02/2020,1831835,106216,463868,US,1
-US,06/03/2020,1851642,107211,479258,US,1
-US,06/04/2020,1872887,108248,485002,US,1
-US,06/05/2020,1903143,109403,491706,US,1
-US,06/06/2020,1926108,110117,500849,US,1
-US,06/07/2020,1944164,110563,506367,US,1
-US,06/08/2020,1961728,111048,518522,US,1
-US,06/09/2020,1979904,112024,524860,US,1
-US,06/10/2020,2001133,112958,533504,US,1
-US,06/11/2020,2023873,113856,540292,US,1
-US,06/12/2020,2049687,114709,547386,US,1
-US,06/13/2020,2075367,115477,556606,US,1
-US,06/14/2020,2094651,115777,561816,US,1
-US,06/15/2020,2114223,116177,576334,US,1
-US,06/16/2020,2137883,117015,583503,US,1
-US,06/17/2020,2164077,117765,592191,US,1
-US,06/18/2020,2191613,118482,599115,US,1
-US,06/19/2020,2223109,119170,606715,US,1
-US,06/20/2020,2255313,119766,617460,US,1
-US,06/21/2020,2281403,120027,622133,US,1
-US,06/22/2020,2312634,120458,640198,US,1
-US,06/23/2020,2347878,121281,647548,US,1
-US,06/24/2020,2382424,122039,656161,US,1
-US,06/25/2020,2423085,124471,663562,US,1
-US,06/26/2020,2468411,125104,670809,US,1
-US,06/27/2020,2510134,125607,679308,US,1
-US,06/28/2020,2550705,125878,685164,US,1
-US,06/29/2020,2591205,126225,705203,US,1
-US,06/30/2020,2635937,127493,720631,US,1
-US,07/01/2020,2686978,128139,729994,US,1
-US,07/02/2020,2741099,128819,781970,US,1
-US,07/03/2020,2794703,129513,790404,US,1
-US,07/04/2020,2839865,129768,894325,US,1
-US,07/05/2020,2888761,130046,906763,US,1
-US,07/06/2020,2936159,130390,924148,US,1
-US,07/07/2020,2996826,131589,936476,US,1
-US,07/08/2020,3055992,132401,953420,US,1
-US,07/09/2020,3118582,133389,969111,US,1
-US,07/10/2020,3186673,134198,983185,US,1
-US,07/11/2020,3246878,134885,995576,US,1
-US,07/12/2020,3306219,135321,1006326,US,1
-US,07/13/2020,3364874,135690,1031939,US,1
-US,07/14/2020,3432761,136581,1049098,US,1
-US,07/15/2020,3500213,137531,1075882,US,1
-US,07/16/2020,3577311,138494,1090645,US,1
-US,07/17/2020,3648913,139385,1107204,US,1
-US,07/18/2020,3712462,140242,1122720,US,1
-US,07/19/2020,3774013,140666,1131121,US,1
-US,07/20/2020,3835078,141059,1160087,US,1
-US,07/21/2020,3899641,142148,1182018,US,1
-US,07/22/2020,3971130,143330,1210849,US,1
-US,07/23/2020,4039405,144453,1233269,US,1
-US,07/24/2020,4113553,145704,1261624,US,1
-US,07/25/2020,4178261,146599,1279414,US,1
-US,07/26/2020,4234587,147099,1297863,US,1
-US,07/27/2020,4290463,148226,1325804,US,1
-US,07/28/2020,4356536,149528,1355363,US,1
-US,07/29/2020,4427923,150909,1389425,US,1
-US,07/30/2020,4496026,152254,1414155,US,1
-US,07/31/2020,4563939,153516,1438160,US,1
-US,08/01/2020,4622822,154651,1461885,US,1
-US,08/02/2020,4669516,155071,1468689,US,1
-US,08/03/2020,4714923,155631,1513446,US,1
-US,08/04/2020,4772503,157013,1528979,US,1
-US,08/05/2020,4826145,158409,1577851,US,1
-US,08/06/2020,4885810,160260,1598624,US,1
-US,08/07/2020,4944304,161503,1623870,US,1
-US,08/08/2020,4999622,162579,1643118,US,1
-US,08/09/2020,5047137,163098,1656864,US,1
-US,08/10/2020,5095955,163634,1670755,US,1
-US,08/11/2020,5143056,164683,1714960,US,1
-US,08/12/2020,5199166,166193,1753760,US,1
-US,08/13/2020,5250723,167262,1774648,US,1
-US,08/14/2020,5315416,168605,1796326,US,1
-US,08/15/2020,5362920,169634,1818527,US,1
-US,08/16/2020,5404864,170210,1833067,US,1
-US,08/17/2020,5440803,170655,1865580,US,1
-US,08/18/2020,5485842,171974,1898159,US,1
-US,08/19/2020,5532471,173326,1925049,US,1
-US,08/20/2020,5576582,174412,1947035,US,1
-US,08/21/2020,5625570,175519,1965056,US,1
-US,08/22/2020,5669847,176500,1985484,US,1
-US,08/23/2020,5704616,176956,1997761,US,1
-US,08/24/2020,5741513,177407,2020774,US,1
-US,08/25/2020,5781278,178630,2053699,US,1
-US,08/26/2020,5825119,179845,2084465,US,1
-US,08/27/2020,5870504,180956,2101326,US,1
-US,08/28/2020,5917740,181925,2118367,US,1
-US,08/29/2020,5964582,182767,2140614,US,1
-US,08/30/2020,5999402,183197,2153939,US,1
-US,08/31/2020,6034287,183729,2184825,US,1
-US,09/01/2020,6076800,184790,2202663,US,1
-US,09/02/2020,6116855,185837,2231757,US,1
-US,09/03/2020,6153304,186901,2266957,US,1
-US,09/04/2020,6203833,187866,2283454,US,1
-US,09/05/2020,6247538,188645,2302187,US,1
-US,09/06/2020,6279314,189044,2315995,US,1
-US,09/07/2020,6303477,189312,2333551,US,1
-US,09/08/2020,6330007,189760,2359111,US,1
-US,09/09/2020,6364557,190964,2387479,US,1
-US,09/10/2020,6399868,191877,2403511,US,1
-US,09/11/2020,6447031,193077,2417878,US,1
-US,09/12/2020,6488651,193791,2434658,US,1
-US,09/13/2020,6522807,194174,2451406,US,1
-US,09/14/2020,6556942,194592,2474570,US,1
-US,09/15/2020,6596258,195884,2495127,US,1
-US,09/16/2020,6634145,196873,2525573,US,1
-US,09/17/2020,6679265,197740,2540334,US,1
-US,09/18/2020,6728203,198663,2556465,US,1
-US,09/19/2020,6771455,199371,2577446,US,1
-US,09/20/2020,6810948,199602,2590671,US,1
-US,09/21/2020,6862444,200026,2615949,US,1
-US,09/22/2020,6902311,201050,2646959,US,1
-US,09/23/2020,6939619,202133,2670256,US,1
-US,09/24/2020,6985757,203043,2710183,US,1
-US,09/25/2020,7038598,203982,2727335,US,1
-US,09/26/2020,7083703,204730,2750459,US,1
-US,09/27/2020,7121840,204999,2766280,US,1
-US,09/28/2020,7154306,205317,2794608,US,1
-US,09/29/2020,7197687,206226,2813305,US,1
-US,09/30/2020,7240174,207178,2840688,US,1
-US,10/01/2020,7285651,208036,2860650,US,1
-US,10/02/2020,7340452,208953,2873369,US,1
-US,10/03/2020,7389411,209643,2897322,US,1
-US,10/04/2020,7425618,209988,2911699,US,1
-US,10/05/2020,7464729,210445,2935142,US,1
-US,10/06/2020,7509592,211152,2952390,US,1
-US,10/07/2020,7559143,212068,2999895,US,1
-US,10/08/2020,7617634,213028,3021252,US,1
-US,10/09/2020,7673891,213981,3039089,US,1
-US,10/10/2020,7728221,214607,3062983,US,1
-US,10/11/2020,7774263,215010,3075077,US,1
-US,10/12/2020,7815116,215337,3106728,US,1
-US,10/13/2020,7868158,216144,3124593,US,1
-US,10/14/2020,7927545,217143,3155794,US,1
-US,10/15/2020,7992138,217950,3177397,US,1
-US,10/16/2020,8060689,218839,3197539,US,1
-US,10/17/2020,8117771,219558,3220573,US,1
-US,10/18/2020,8167356,219955,3234138,US,1
-US,10/19/2020,8234447,220409,3272603,US,1
-US,10/20/2020,8295770,221343,3295148,US,1
-US,10/21/2020,8358195,222512,3323354,US,1
-US,10/22/2020,8433649,223348,3353056,US,1
-US,10/23/2020,8515446,224296,3375427,US,1
-US,10/24/2020,8598462,225218,3406656,US,1
-US,10/25/2020,8660820,225565,3422878,US,1
-US,10/26/2020,8727500,226039,3460455,US,1
-US,10/27/2020,8804674,227025,3487666,US,1
-US,10/28/2020,8882686,228033,3518140,US,1
-US,10/29/2020,8973320,229009,3554336,US,1
-US,10/30/2020,9072202,230016,3578452,US,1
-US,10/31/2020,9161285,230914,3612478,US,1
-US,11/01/2020,9265516,231320,3630579,US,1
-US,11/02/2020,9349552,231821,3674981,US,1
-US,11/03/2020,9475473,233413,3705130,US,1
-US,11/04/2020,9578727,234538,3743527,US,1
-US,11/05/2020,9705805,235698,3781751,US,1
-US,11/06/2020,9832871,236914,3810791,US,1
-US,11/07/2020,9961878,237946,3851465,US,1
-US,11/08/2020,10072402,238414,3881491,US,1
-US,11/09/2020,10160032,239105,3928845,US,1
-US,11/10/2020,10303847,240532,3961873,US,1
-US,11/11/2020,10448056,242007,3997175,US,1
-US,11/12/2020,10610786,243376,4051256,US,1
-US,11/13/2020,10789627,244541,4095146,US,1
-US,11/14/2020,10957635,245802,4148444,US,1
-US,11/15/2020,11094389,246435,4174884,US,1
-US,11/16/2020,11252105,247180,4244811,US,1
-US,11/17/2020,11414140,248877,4293640,US,1
-US,11/18/2020,11585887,250763,4350789,US,1
-US,11/19/2020,11774996,252740,4410709,US,1
-US,11/20/2020,11971702,254636,4457930,US,1
-US,11/21/2020,12151068,256064,4529700,US,1
-US,11/22/2020,12293971,256965,4526513,US,1
-US,11/23/2020,12464945,257898,4633600,US,1
-US,11/24/2020,12639804,260045,4696664,US,1
-US,11/25/2020,12823413,262329,4835956,US,1
-US,11/26/2020,12935224,263555,4871203,US,1
-US,11/27/2020,13141178,264966,4947446,US,1
-US,11/28/2020,13296645,266159,5023063,US,1
-US,11/29/2020,13435856,266984,5065030,US,1
-US,11/30/2020,13592553,268177,5146319,US,1
-US,12/01/2020,13775956,270775,5226581,US,1
-US,12/02/2020,13978418,273572,5322128,US,1
-US,12/03/2020,14198035,276448,5404018,US,1
-US,12/04/2020,14427608,279041,5470389,US,1
-US,12/05/2020,14642851,281280,5576026,US,1
-US,12/06/2020,14819178,282386,5624444,US,1
-US,12/07/2020,15011499,283799,5714557,US,1
-US,12/08/2020,15231271,286335,5786915,US,1
-US,12/09/2020,15454074,289441,5889896,US,1
-US,12/10/2020,15680159,292184,5985047,US,1
-US,12/11/2020,15913292,295490,6135314,US,1
-US,12/12/2020,16134237,297842,6246605,US,1
-US,12/13/2020,16325615,299231,6298082,US,1
-US,12/14/2020,16518420,300754,6399531,US,1
-US,12/15/2020,16716777,303773,0,US,1
+US,04/01/2020,213508,4843,8474,US,1
+US,04/02/2020,243737,6003,9001,US,1
+US,04/03/2020,275697,7175,9707,US,1
+US,04/04/2020,308980,8498,14652,US,1
+US,04/05/2020,337212,9723,17448,US,1
+US,04/06/2020,366794,10867,19581,US,1
+US,04/07/2020,396362,12819,21763,US,1
+US,04/08/2020,429370,14779,23559,US,1
+US,04/09/2020,461688,16538,25410,US,1
+US,04/10/2020,496735,18652,28790,US,1
+US,04/11/2020,526546,20531,31270,US,1
+US,04/12/2020,555431,22101,32988,US,1
+US,04/13/2020,580755,23619,43482,US,1
+US,04/14/2020,607779,25924,47763,US,1
+US,04/15/2020,636616,28408,52096,US,1
+US,04/16/2020,667945,32987,54703,US,1
+US,04/17/2020,699713,36838,58545,US,1
+US,04/18/2020,732280,38733,64840,US,1
+US,04/19/2020,759177,40734,70337,US,1
+US,04/20/2020,784415,42184,72329,US,1
+US,04/21/2020,812066,44536,75204,US,1
+US,04/22/2020,840348,46699,77366,US,1
+US,04/23/2020,869237,50018,80203,US,1
+US,04/24/2020,905399,52017,99079,US,1
+US,04/25/2020,938425,53825,100372,US,1
+US,04/26/2020,965849,54961,106988,US,1
+US,04/27/2020,988275,56336,111424,US,1
+US,04/28/2020,1012671,58414,115936,US,1
+US,04/29/2020,1040103,61023,120720,US,1
+US,04/30/2020,1069544,63041,153947,US,1
+US,05/01/2020,1103628,64994,164015,US,1
+US,05/02/2020,1132641,66425,175382,US,1
+US,05/03/2020,1158133,67753,180152,US,1
+US,05/04/2020,1180470,68998,187180,US,1
+US,05/05/2020,1204470,71125,189791,US,1
+US,05/06/2020,1228708,73497,189910,US,1
+US,05/07/2020,1257129,75726,195036,US,1
+US,05/08/2020,1284011,77237,198993,US,1
+US,05/09/2020,1309623,78845,212534,US,1
+US,05/10/2020,1329367,79587,216169,US,1
+US,05/11/2020,1348010,80739,232733,US,1
+US,05/12/2020,1369943,82438,230287,US,1
+US,05/13/2020,1390563,84170,243430,US,1
+US,05/14/2020,1417865,85957,246414,US,1
+US,05/15/2020,1442976,87594,250747,US,1
+US,05/16/2020,1467991,88818,268376,US,1
+US,05/17/2020,1487148,89632,272265,US,1
+US,05/18/2020,1508687,90428,283178,US,1
+US,05/19/2020,1529053,91973,289392,US,1
+US,05/20/2020,1552139,93494,294312,US,1
+US,05/21/2020,1577487,94747,298418,US,1
+US,05/22/2020,1601259,96022,350135,US,1
+US,05/23/2020,1622901,97140,361239,US,1
+US,05/24/2020,1643456,97774,366736,US,1
+US,05/25/2020,1662601,98272,379157,US,1
+US,05/26/2020,1681200,98962,384902,US,1
+US,05/27/2020,1699461,100458,391508,US,1
+US,05/28/2020,1722027,101650,399991,US,1
+US,05/29/2020,1746344,102851,406446,US,1
+US,05/30/2020,1770745,103820,416461,US,1
+US,05/31/2020,1790455,104428,444758,US,1
+US,06/01/2020,1811220,105200,458231,US,1
+US,06/02/2020,1832194,106221,463868,US,1
+US,06/03/2020,1851922,107215,479258,US,1
+US,06/04/2020,1873182,108260,485002,US,1
+US,06/05/2020,1903633,109409,491706,US,1
+US,06/06/2020,1926433,110123,500849,US,1
+US,06/07/2020,1944513,110576,506367,US,1
+US,06/08/2020,1962065,111067,518522,US,1
+US,06/09/2020,1980180,112033,524860,US,1
+US,06/10/2020,2001671,112968,533504,US,1
+US,06/11/2020,2024270,113860,540292,US,1
+US,06/12/2020,2050058,114708,547386,US,1
+US,06/13/2020,2075654,115471,556606,US,1
+US,06/14/2020,2094975,115769,561816,US,1
+US,06/15/2020,2114595,116168,576334,US,1
+US,06/16/2020,2138139,117003,583503,US,1
+US,06/17/2020,2164486,117764,592191,US,1
+US,06/18/2020,2192029,118469,599115,US,1
+US,06/19/2020,2223733,119154,606715,US,1
+US,06/20/2020,2255764,119744,617460,US,1
+US,06/21/2020,2281597,120005,622133,US,1
+US,06/22/2020,2313158,120435,640198,US,1
+US,06/23/2020,2348366,121260,647548,US,1
+US,06/24/2020,2382927,122012,656161,US,1
+US,06/25/2020,2423584,124441,663562,US,1
+US,06/26/2020,2468978,125081,670809,US,1
+US,06/27/2020,2510496,125585,679308,US,1
+US,06/28/2020,2551220,125860,685164,US,1
+US,06/29/2020,2591783,126202,705203,US,1
+US,06/30/2020,2636552,127464,720631,US,1
+US,07/01/2020,2687695,128109,729994,US,1
+US,07/02/2020,2741857,128796,781970,US,1
+US,07/03/2020,2795185,129489,790404,US,1
+US,07/04/2020,2840520,129749,894325,US,1
+US,07/05/2020,2889822,130029,906763,US,1
+US,07/06/2020,2936567,130372,924148,US,1
+US,07/07/2020,2997322,131565,936476,US,1
+US,07/08/2020,3056614,132375,953420,US,1
+US,07/09/2020,3119203,133364,969111,US,1
+US,07/10/2020,3187261,134167,983185,US,1
+US,07/11/2020,3248332,134861,995576,US,1
+US,07/12/2020,3307312,135288,1006326,US,1
+US,07/13/2020,3365412,135705,1031939,US,1
+US,07/14/2020,3433494,136603,1049098,US,1
+US,07/15/2020,3501466,137539,1075882,US,1
+US,07/16/2020,3578050,138502,1090645,US,1
+US,07/17/2020,3649868,139392,1107204,US,1
+US,07/18/2020,3713392,140246,1122720,US,1
+US,07/19/2020,3774818,140676,1131121,US,1
+US,07/20/2020,3835925,141074,1160087,US,1
+US,07/21/2020,3900316,142163,1182018,US,1
+US,07/22/2020,3971865,143350,1210849,US,1
+US,07/23/2020,4040228,144468,1233269,US,1
+US,07/24/2020,4114599,145719,1261624,US,1
+US,07/25/2020,4179081,146627,1279414,US,1
+US,07/26/2020,4235291,147135,1297863,US,1
+US,07/27/2020,4291343,148253,1325804,US,1
+US,07/28/2020,4357310,149539,1355363,US,1
+US,07/29/2020,4428689,150929,1389425,US,1
+US,07/30/2020,4496959,152278,1414155,US,1
+US,07/31/2020,4565722,153555,1438160,US,1
+US,08/01/2020,4623497,154678,1461885,US,1
+US,08/02/2020,4670110,155103,1468689,US,1
+US,08/03/2020,4715655,155669,1513446,US,1
+US,08/04/2020,4773256,157050,1528979,US,1
+US,08/05/2020,4827024,158462,1577851,US,1
+US,08/06/2020,4886579,160292,1598624,US,1
+US,08/07/2020,4945300,161533,1623870,US,1
+US,08/08/2020,5000288,162602,1643118,US,1
+US,08/09/2020,5047834,163132,1656864,US,1
+US,08/10/2020,5096568,163670,1670755,US,1
+US,08/11/2020,5143705,164708,1714960,US,1
+US,08/12/2020,5199903,166224,1753760,US,1
+US,08/13/2020,5251638,167291,1774648,US,1
+US,08/14/2020,5316266,168630,1796326,US,1
+US,08/15/2020,5363616,169659,1818527,US,1
+US,08/16/2020,5405257,170231,1833067,US,1
+US,08/17/2020,5441468,170679,1865580,US,1
+US,08/18/2020,5486501,171982,1898159,US,1
+US,08/19/2020,5533444,173332,1925049,US,1
+US,08/20/2020,5577373,174411,1947035,US,1
+US,08/21/2020,5626798,175509,1965056,US,1
+US,08/22/2020,5670723,176488,1985484,US,1
+US,08/23/2020,5705418,176942,1997761,US,1
+US,08/24/2020,5742303,177396,2020774,US,1
+US,08/25/2020,5782207,178616,2053699,US,1
+US,08/26/2020,5826175,179842,2084465,US,1
+US,08/27/2020,5871602,180952,2101326,US,1
+US,08/28/2020,5918859,181914,2118367,US,1
+US,08/29/2020,5965588,182761,2140614,US,1
+US,08/30/2020,6000277,183196,2153939,US,1
+US,08/31/2020,6035154,183726,2184825,US,1
+US,09/01/2020,6077838,184777,2202663,US,1
+US,09/02/2020,6118015,185826,2231757,US,1
+US,09/03/2020,6154482,186886,2266957,US,1
+US,09/04/2020,6205057,187845,2283454,US,1
+US,09/05/2020,6248681,188634,2302187,US,1
+US,09/06/2020,6280374,189039,2315995,US,1
+US,09/07/2020,6304424,189311,2333551,US,1
+US,09/08/2020,6331243,189761,2359111,US,1
+US,09/09/2020,6365828,190944,2387479,US,1
+US,09/10/2020,6401281,191857,2403511,US,1
+US,09/11/2020,6448394,193058,2417878,US,1
+US,09/12/2020,6489913,193778,2434658,US,1
+US,09/13/2020,6524037,194166,2451406,US,1
+US,09/14/2020,6558196,194576,2474570,US,1
+US,09/15/2020,6597569,195868,2495127,US,1
+US,09/16/2020,6635526,196860,2525573,US,1
+US,09/17/2020,6680677,197722,2540334,US,1
+US,09/18/2020,6729840,198647,2556465,US,1
+US,09/19/2020,6772878,199360,2577446,US,1
+US,09/20/2020,6812325,199599,2590671,US,1
+US,09/21/2020,6863984,200017,2615949,US,1
+US,09/22/2020,6903932,201031,2646959,US,1
+US,09/23/2020,6941314,202109,2670256,US,1
+US,09/24/2020,6987941,203026,2710183,US,1
+US,09/25/2020,7040434,203952,2727335,US,1
+US,09/26/2020,7085392,204704,2750459,US,1
+US,09/27/2020,7123468,204980,2766280,US,1
+US,09/28/2020,7155959,205305,2794608,US,1
+US,09/29/2020,7199468,206195,2813305,US,1
+US,09/30/2020,7242115,207152,2840688,US,1
+US,10/03/2020,7391282,209624,2897322,US,1
+US,10/04/2020,7427453,209973,2911699,US,1
+US,10/05/2020,7466589,210422,2935142,US,1
+US,10/06/2020,7511621,211133,2952390,US,1
+US,10/07/2020,7561385,212042,2999895,US,1
+US,10/08/2020,7619859,213003,3021252,US,1
+US,10/09/2020,7676022,213956,3039089,US,1
+US,10/10/2020,7730725,214585,3062983,US,1
+US,10/11/2020,7777142,214991,3075077,US,1
+US,10/12/2020,7818602,215330,3106728,US,1
+US,10/13/2020,7870623,216120,3124593,US,1
+US,10/14/2020,7929974,217118,3155794,US,1
+US,10/15/2020,7994666,217918,3177397,US,1
+US,10/16/2020,8063334,218805,3197539,US,1
+US,10/17/2020,8120205,219530,3220573,US,1
+US,10/18/2020,8169727,219937,3234138,US,1
+US,10/19/2020,8236850,220382,3272603,US,1
+US,10/20/2020,8298484,221298,3295148,US,1
+US,10/21/2020,8360888,222474,3323354,US,1
+US,10/22/2020,8436503,223318,3353056,US,1
+US,10/23/2020,8518429,224266,3375427,US,1
+US,10/24/2020,8601267,225199,3406656,US,1
+US,10/25/2020,8663572,225554,3422878,US,1
+US,10/26/2020,8730212,226012,3460455,US,1
+US,10/27/2020,8807610,226992,3487666,US,1
+US,10/28/2020,8885786,227996,3518140,US,1
+US,10/29/2020,8976717,228970,3554336,US,1
+US,10/30/2020,9075561,229981,3578452,US,1
+US,10/31/2020,9164592,230893,3612478,US,1
+US,11/01/2020,9269049,231307,3630579,US,1
+US,11/02/2020,9352791,231801,3674981,US,1
+US,11/03/2020,9479589,233381,3705130,US,1
+US,11/04/2020,9582498,234502,3743527,US,1
+US,11/05/2020,9710278,235659,3781751,US,1
+US,11/06/2020,9837401,236881,3810791,US,1
+US,11/07/2020,9966088,237918,3851465,US,1
+US,11/08/2020,10076538,238397,3881491,US,1
+US,11/09/2020,10164349,239077,3928845,US,1
+US,11/10/2020,10308385,240496,3961873,US,1
+US,11/11/2020,10454619,241978,3997175,US,1
+US,11/12/2020,10616251,243335,4051256,US,1
+US,11/13/2020,10795270,244499,4095146,US,1
+US,11/14/2020,10963295,245776,4148444,US,1
+US,11/15/2020,11099318,246421,4174884,US,1
+US,11/16/2020,11258134,247152,4244811,US,1
+US,11/17/2020,11419139,248838,4293640,US,1
+US,11/18/2020,11591694,250716,4350789,US,1
+US,11/19/2020,11780990,252694,4410709,US,1
+US,11/20/2020,11977440,254590,4457930,US,1
+US,11/21/2020,12157737,256040,4529700,US,1
+US,11/22/2020,12304199,256958,4526513,US,1
+US,11/23/2020,12472178,257874,4633600,US,1
+US,11/24/2020,12646575,260000,4696664,US,1
+US,11/25/2020,12830170,262287,4835956,US,1
+US,11/26/2020,12944048,263532,4871203,US,1
+US,11/27/2020,13148135,264958,4947446,US,1
+US,11/28/2020,13303242,266170,5023063,US,1
+US,11/29/2020,13442656,267012,5065030,US,1
+US,11/30/2020,13599496,268165,5146319,US,1
+US,12/01/2020,13783773,270753,5226581,US,1
+US,12/02/2020,13985434,273528,5322128,US,1
+US,12/03/2020,14205041,276371,5404018,US,1
+US,12/04/2020,14434647,278965,5470389,US,1
+US,12/05/2020,14650139,281222,5576026,US,1
+US,12/06/2020,14830883,282344,5624444,US,1
+US,12/07/2020,15020042,283763,5714557,US,1
+US,12/08/2020,15239976,286283,5786915,US,1
+US,12/09/2020,15463239,289347,5889896,US,1
+US,12/10/2020,15689923,292267,5985047,US,1
+US,12/11/2020,15924026,295550,6135314,US,1
+US,12/12/2020,16143219,297904,6246605,US,1
+US,12/13/2020,16334361,299293,6298082,US,1
+US,12/14/2020,16527207,300777,6399531,US,1
+US,12/15/2020,16725973,303761,0,US,1
+US,12/16/2020,16973376,307429,0,US,1
+US,12/17/2020,17209587,310774,0,US,1
 Uganda,03/21/2020,1,0,0,Uganda,1
 Uganda,03/22/2020,1,0,0,Uganda,1
 Uganda,03/23/2020,9,0,0,Uganda,1
@@ -50974,8 +50955,6 @@ Uganda,09/27/2020,7530,73,3647,Uganda,1
 Uganda,09/28/2020,7777,75,4033,Uganda,1
 Uganda,09/29/2020,8017,75,4033,Uganda,1
 Uganda,09/30/2020,8129,75,4260,Uganda,1
-Uganda,10/01/2020,8287,75,4430,Uganda,1
-Uganda,10/02/2020,8491,79,4470,Uganda,1
 Uganda,10/03/2020,8662,79,4546,Uganda,1
 Uganda,10/04/2020,8808,81,4736,Uganda,1
 Uganda,10/05/2020,8965,82,5078,Uganda,1
@@ -51050,6 +51029,8 @@ Uganda,12/12/2020,27071,220,9744,Uganda,1
 Uganda,12/13/2020,27532,221,9826,Uganda,1
 Uganda,12/14/2020,27766,224,9921,Uganda,1
 Uganda,12/15/2020,28168,225,10005,Uganda,1
+Uganda,12/16/2020,28733,225,10070,Uganda,1
+Uganda,12/17/2020,29361,228,10172,Uganda,1
 Ukraine,03/03/2020,1,0,0,Ukraine,1
 Ukraine,03/04/2020,1,0,0,Ukraine,1
 Ukraine,03/05/2020,1,0,0,Ukraine,1
@@ -51262,8 +51243,6 @@ Ukraine,09/27/2020,203799,4044,91179,Ukraine,1
 Ukraine,09/28/2020,206579,4082,91754,Ukraine,1
 Ukraine,09/29/2020,210309,4154,93664,Ukraine,1
 Ukraine,09/30/2020,214446,4221,95829,Ukraine,1
-Ukraine,10/01/2020,218625,4288,97956,Ukraine,1
-Ukraine,10/02/2020,223376,4357,100163,Ukraine,1
 Ukraine,10/03/2020,228161,4451,102347,Ukraine,1
 Ukraine,10/04/2020,232424,4495,103762,Ukraine,1
 Ukraine,10/05/2020,236329,4530,104966,Ukraine,1
@@ -51338,6 +51317,8 @@ Ukraine,12/12/2020,908839,15528,513249,Ukraine,1
 Ukraine,12/13/2020,918444,15691,520912,Ukraine,1
 Ukraine,12/14/2020,925321,15792,526101,Ukraine,1
 Ukraine,12/15/2020,934161,16038,542672,Ukraine,1
+Ukraine,12/16/2020,945218,16314,555675,Ukraine,1
+Ukraine,12/17/2020,957692,16579,569200,Ukraine,1
 United Arab Emirates,01/29/2020,4,0,0,United Arab Emirates,1
 United Arab Emirates,01/30/2020,4,0,0,United Arab Emirates,1
 United Arab Emirates,01/31/2020,4,0,0,United Arab Emirates,1
@@ -51584,8 +51565,6 @@ United Arab Emirates,09/27/2020,91469,412,80544,United Arab Emirates,1
 United Arab Emirates,09/28/2020,92095,413,81462,United Arab Emirates,1
 United Arab Emirates,09/29/2020,93090,416,82538,United Arab Emirates,1
 United Arab Emirates,09/30/2020,94190,419,83724,United Arab Emirates,1
-United Arab Emirates,10/01/2020,95348,421,84903,United Arab Emirates,1
-United Arab Emirates,10/02/2020,96529,424,86071,United Arab Emirates,1
 United Arab Emirates,10/03/2020,97760,426,87122,United Arab Emirates,1
 United Arab Emirates,10/04/2020,98801,426,88123,United Arab Emirates,1
 United Arab Emirates,10/05/2020,99733,429,89410,United Arab Emirates,1
@@ -51660,6 +51639,8 @@ United Arab Emirates,12/12/2020,183755,609,163048,United Arab Emirates,1
 United Arab Emirates,12/13/2020,184949,617,163679,United Arab Emirates,1
 United Arab Emirates,12/14/2020,186041,618,164349,United Arab Emirates,1
 United Arab Emirates,12/15/2020,187267,622,165023,United Arab Emirates,1
+United Arab Emirates,12/16/2020,188545,626,165749,United Arab Emirates,1
+United Arab Emirates,12/17/2020,189866,629,166541,United Arab Emirates,1
 United Kingdom,03/11/2020,459,8,19,United Kingdom,1
 United Kingdom,03/12/2020,459,8,19,United Kingdom,1
 United Kingdom,03/13/2020,801,8,19,United Kingdom,1
@@ -51864,8 +51845,6 @@ United Kingdom,09/27/2020,437517,42077,2339,United Kingdom,1
 United Kingdom,09/28/2020,441573,42090,2352,United Kingdom,1
 United Kingdom,09/29/2020,448729,42162,2368,United Kingdom,1
 United Kingdom,09/30/2020,455846,42233,2373,United Kingdom,1
-United Kingdom,10/01/2020,462775,42292,2383,United Kingdom,1
-United Kingdom,10/02/2020,469769,42358,2389,United Kingdom,1
 United Kingdom,10/03/2020,482654,42407,2396,United Kingdom,1
 United Kingdom,10/04/2020,505619,42440,2403,United Kingdom,1
 United Kingdom,10/05/2020,518222,42459,2409,United Kingdom,1
@@ -51940,6 +51919,8 @@ United Kingdom,12/12/2020,1835949,64123,3805,United Kingdom,1
 United Kingdom,12/13/2020,1854490,64267,4013,United Kingdom,1
 United Kingdom,12/14/2020,1874867,64500,4048,United Kingdom,1
 United Kingdom,12/15/2020,1893436,65006,4093,United Kingdom,1
+United Kingdom,12/16/2020,1918736,65618,4106,United Kingdom,1
+United Kingdom,12/17/2020,1954268,66150,4123,United Kingdom,1
 Uruguay,03/14/2020,4,0,0,Uruguay,1
 Uruguay,03/15/2020,4,0,0,Uruguay,1
 Uruguay,03/16/2020,8,0,0,Uruguay,1
@@ -52141,8 +52122,6 @@ Uruguay,09/27/2020,2008,47,1728,Uruguay,1
 Uruguay,09/28/2020,2010,47,1755,Uruguay,1
 Uruguay,09/29/2020,2033,48,1771,Uruguay,1
 Uruguay,09/30/2020,2046,48,1791,Uruguay,1
-Uruguay,10/01/2020,2061,48,1809,Uruguay,1
-Uruguay,10/02/2020,2097,48,1824,Uruguay,1
 Uruguay,10/03/2020,2122,48,1831,Uruguay,1
 Uruguay,10/04/2020,2145,48,1844,Uruguay,1
 Uruguay,10/05/2020,2155,48,1862,Uruguay,1
@@ -52217,6 +52196,8 @@ Uruguay,12/12/2020,9180,91,6155,Uruguay,1
 Uruguay,12/13/2020,9708,92,6358,Uruguay,1
 Uruguay,12/14/2020,10029,95,6593,Uruguay,1
 Uruguay,12/15/2020,10418,98,6895,Uruguay,1
+Uruguay,12/16/2020,10893,102,7142,Uruguay,1
+Uruguay,12/17/2020,11436,105,7406,Uruguay,1
 Uzbekistan,03/15/2020,1,0,0,Uzbekistan,1
 Uzbekistan,03/16/2020,6,0,0,Uzbekistan,1
 Uzbekistan,03/17/2020,10,0,0,Uzbekistan,1
@@ -52417,8 +52398,6 @@ Uzbekistan,09/27/2020,55320,458,51829,Uzbekistan,1
 Uzbekistan,09/28/2020,55776,460,52324,Uzbekistan,1
 Uzbekistan,09/29/2020,56354,466,52970,Uzbekistan,1
 Uzbekistan,09/30/2020,56717,470,53366,Uzbekistan,1
-Uzbekistan,10/01/2020,57190,471,53835,Uzbekistan,1
-Uzbekistan,10/02/2020,57454,472,53955,Uzbekistan,1
 Uzbekistan,10/03/2020,58238,477,54854,Uzbekistan,1
 Uzbekistan,10/04/2020,58612,480,55281,Uzbekistan,1
 Uzbekistan,10/05/2020,58946,485,55633,Uzbekistan,1
@@ -52493,6 +52472,8 @@ Uzbekistan,12/12/2020,74811,612,72084,Uzbekistan,1
 Uzbekistan,12/13/2020,74956,612,72243,Uzbekistan,1
 Uzbekistan,12/14/2020,75094,612,72368,Uzbekistan,1
 Uzbekistan,12/15/2020,75241,612,72522,Uzbekistan,1
+Uzbekistan,12/16/2020,75538,612,72810,Uzbekistan,1
+Uzbekistan,12/17/2020,75538,612,72810,Uzbekistan,1
 Vanuatu,11/10/2020,1,0,0,Vanuatu,1
 Vanuatu,11/11/2020,1,0,0,Vanuatu,1
 Vanuatu,11/12/2020,1,0,0,Vanuatu,1
@@ -52529,6 +52510,8 @@ Vanuatu,12/12/2020,1,0,1,Vanuatu,1
 Vanuatu,12/13/2020,1,0,1,Vanuatu,1
 Vanuatu,12/14/2020,1,0,1,Vanuatu,1
 Vanuatu,12/15/2020,1,0,1,Vanuatu,1
+Vanuatu,12/16/2020,1,0,1,Vanuatu,1
+Vanuatu,12/17/2020,1,0,1,Vanuatu,1
 Vatican City,03/06/2020,1,0,0,Vatican City,1
 Vatican City,03/07/2020,1,0,0,Vatican City,1
 Vatican City,03/08/2020,1,0,0,Vatican City,1
@@ -52734,8 +52717,6 @@ Venezuela,09/27/2020,72691,606,62427,Venezuela,1
 Venezuela,09/28/2020,73528,614,63346,Venezuela,1
 Venezuela,09/29/2020,74363,621,64200,Venezuela,1
 Venezuela,09/30/2020,75122,628,65225,Venezuela,1
-Venezuela,10/01/2020,76029,635,66245,Venezuela,1
-Venezuela,10/02/2020,76820,643,67216,Venezuela,1
 Venezuela,10/03/2020,77646,649,68098,Venezuela,1
 Venezuela,10/04/2020,78434,653,68917,Venezuela,1
 Venezuela,10/05/2020,79117,658,69832,Venezuela,1
@@ -52810,8 +52791,9 @@ Venezuela,12/12/2020,107177,949,102289,Venezuela,1
 Venezuela,12/13/2020,107786,954,102289,Venezuela,1
 Venezuela,12/14/2020,108125,960,103037,Venezuela,1
 Venezuela,12/15/2020,108480,965,103271,Venezuela,1
+Venezuela,12/16/2020,108717,970,103492,Venezuela,1
+Venezuela,12/17/2020,109081,975,103741,Venezuela,1
 Viet Nam,03/10/2020,31,0,16,Viet Nam,1
-Vietnam,01/23/2020,2,0,0,Vietnam,1
 Vietnam,01/24/2020,2,0,0,Vietnam,1
 Vietnam,01/25/2020,2,0,0,Vietnam,1
 Vietnam,01/26/2020,2,0,0,Vietnam,1
@@ -53062,8 +53044,6 @@ Vietnam,09/27/2020,1074,35,999,Vietnam,1
 Vietnam,09/28/2020,1077,35,999,Vietnam,1
 Vietnam,09/29/2020,1094,35,1007,Vietnam,1
 Vietnam,09/30/2020,1094,35,1010,Vietnam,1
-Vietnam,10/01/2020,1095,35,1010,Vietnam,1
-Vietnam,10/02/2020,1096,35,1020,Vietnam,1
 Vietnam,10/03/2020,1096,35,1020,Vietnam,1
 Vietnam,10/04/2020,1096,35,1020,Vietnam,1
 Vietnam,10/05/2020,1097,35,1022,Vietnam,1
@@ -53138,6 +53118,8 @@ Vietnam,12/12/2020,1395,35,1238,Vietnam,1
 Vietnam,12/13/2020,1397,35,1241,Vietnam,1
 Vietnam,12/14/2020,1402,35,1246,Vietnam,1
 Vietnam,12/15/2020,1405,35,1252,Vietnam,1
+Vietnam,12/16/2020,1405,35,1252,Vietnam,1
+Vietnam,12/17/2020,1407,35,1263,Vietnam,1
 West Bank and Gaza,03/26/2020,84,1,17,West Bank and Gaza,1
 West Bank and Gaza,03/27/2020,91,1,17,West Bank and Gaza,1
 West Bank and Gaza,03/28/2020,98,1,18,West Bank and Gaza,1
@@ -53327,8 +53309,6 @@ West Bank and Gaza,09/27/2020,38703,291,29068,West Bank and Gaza,1
 West Bank and Gaza,09/28/2020,39121,299,30220,West Bank and Gaza,1
 West Bank and Gaza,09/29/2020,39541,306,31047,West Bank and Gaza,1
 West Bank and Gaza,09/30/2020,39899,311,31743,West Bank and Gaza,1
-West Bank and Gaza,10/01/2020,40322,318,32577,West Bank and Gaza,1
-West Bank and Gaza,10/02/2020,40766,321,32944,West Bank and Gaza,1
 West Bank and Gaza,10/03/2020,41078,329,33442,West Bank and Gaza,1
 West Bank and Gaza,10/04/2020,41498,330,34698,West Bank and Gaza,1
 West Bank and Gaza,10/05/2020,41957,339,35182,West Bank and Gaza,1
@@ -53403,6 +53383,8 @@ West Bank and Gaza,12/12/2020,108099,961,83123,West Bank and Gaza,1
 West Bank and Gaza,12/13/2020,109738,978,85110,West Bank and Gaza,1
 West Bank and Gaza,12/14/2020,111102,1000,87057,West Bank and Gaza,1
 West Bank and Gaza,12/15/2020,113409,1023,88967,West Bank and Gaza,1
+West Bank and Gaza,12/16/2020,115606,1048,90952,West Bank and Gaza,1
+West Bank and Gaza,12/17/2020,117755,1078,92979,West Bank and Gaza,1
 Yemen,04/10/2020,1,0,0,Yemen,1
 Yemen,04/11/2020,1,0,0,Yemen,1
 Yemen,04/12/2020,1,0,0,Yemen,1
@@ -53577,8 +53559,6 @@ Yemen,09/27/2020,2030,587,1266,Yemen,1
 Yemen,09/28/2020,2031,587,1266,Yemen,1
 Yemen,09/29/2020,2031,587,1275,Yemen,1
 Yemen,09/30/2020,2034,587,1286,Yemen,1
-Yemen,10/01/2020,2039,587,1297,Yemen,1
-Yemen,10/02/2020,2040,589,1307,Yemen,1
 Yemen,10/03/2020,2041,589,1320,Yemen,1
 Yemen,10/04/2020,2041,591,1320,Yemen,1
 Yemen,10/05/2020,2041,592,1323,Yemen,1
@@ -53653,6 +53633,8 @@ Yemen,12/12/2020,2083,606,1383,Yemen,1
 Yemen,12/13/2020,2083,606,1383,Yemen,1
 Yemen,12/14/2020,2084,606,1384,Yemen,1
 Yemen,12/15/2020,2085,606,1384,Yemen,1
+Yemen,12/16/2020,2085,606,1384,Yemen,1
+Yemen,12/17/2020,2087,606,1384,Yemen,1
 Zambia,03/18/2020,2,0,0,Zambia,1
 Zambia,03/19/2020,2,0,0,Zambia,1
 Zambia,03/20/2020,2,0,0,Zambia,1
@@ -53850,8 +53832,6 @@ Zambia,09/27/2020,14641,332,13784,Zambia,1
 Zambia,09/28/2020,14660,332,13821,Zambia,1
 Zambia,09/29/2020,14715,332,13937,Zambia,1
 Zambia,09/30/2020,14759,332,13959,Zambia,1
-Zambia,10/01/2020,14802,333,13961,Zambia,1
-Zambia,10/02/2020,14830,333,13980,Zambia,1
 Zambia,10/03/2020,14974,333,14094,Zambia,1
 Zambia,10/04/2020,15052,333,14187,Zambia,1
 Zambia,10/05/2020,15089,334,14306,Zambia,1
@@ -53926,6 +53906,8 @@ Zambia,12/12/2020,18217,366,17339,Zambia,1
 Zambia,12/13/2020,18274,367,17388,Zambia,1
 Zambia,12/14/2020,18322,367,17409,Zambia,1
 Zambia,12/15/2020,18428,368,17487,Zambia,1
+Zambia,12/16/2020,18456,369,17635,Zambia,1
+Zambia,12/17/2020,18504,369,17680,Zambia,1
 Zimbabwe,03/20/2020,1,0,0,Zimbabwe,1
 Zimbabwe,03/21/2020,3,0,0,Zimbabwe,1
 Zimbabwe,03/22/2020,3,0,0,Zimbabwe,1
@@ -54121,8 +54103,6 @@ Zimbabwe,09/27/2020,7812,227,6106,Zimbabwe,1
 Zimbabwe,09/28/2020,7816,228,6112,Zimbabwe,1
 Zimbabwe,09/29/2020,7837,228,6122,Zimbabwe,1
 Zimbabwe,09/30/2020,7838,228,6303,Zimbabwe,1
-Zimbabwe,10/01/2020,7850,228,6312,Zimbabwe,1
-Zimbabwe,10/02/2020,7858,228,6322,Zimbabwe,1
 Zimbabwe,10/03/2020,7885,228,6327,Zimbabwe,1
 Zimbabwe,10/04/2020,7888,228,6359,Zimbabwe,1
 Zimbabwe,10/05/2020,7898,228,6424,Zimbabwe,1
@@ -54197,6 +54177,8 @@ Zimbabwe,12/12/2020,11219,307,9359,Zimbabwe,1
 Zimbabwe,12/13/2020,11246,307,9451,Zimbabwe,1
 Zimbabwe,12/14/2020,11358,309,9554,Zimbabwe,1
 Zimbabwe,12/15/2020,11522,310,9599,Zimbabwe,1
+Zimbabwe,12/16/2020,11749,313,9702,Zimbabwe,1
+Zimbabwe,12/17/2020,11866,314,9836,Zimbabwe,1
 occupied Palestinian territory,03/10/2020,25,0,0,occupied Palestinian territory,1
 occupied Palestinian territory,03/11/2020,0,0,0,occupied Palestinian territory,1
 occupied Palestinian territory,03/12/2020,0,0,0,occupied Palestinian territory,1
