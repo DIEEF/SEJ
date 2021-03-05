@@ -178,6 +178,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/09/2020,1,2020,9,septiembre,23,Construcción,14,Jalisco,788904.06,Miles de pesos constantes,Cifras preliminares,Edificación,1192340.1
 01/10/2020,1,2020,10,octubre,23,Construcción,14,Jalisco,767074.75,Miles de pesos constantes,Cifras preliminares,Edificación,1177903.6
 01/11/2020,1,2020,11,noviembre,23,Construcción,14,Jalisco,773444.75,Miles de pesos constantes,Cifras preliminares,Edificación,1355158.4
+01/12/2020,1,2020,12,diciembre,23,Construcción,14,Jalisco,818179.5,Miles de pesos constantes,Cifras preliminares,Edificación,1254626.4
 01/01/2006,2,2006,1,enero,23,Construcción,14,Jalisco,92595.078,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
 01/02/2006,2,2006,2,febrero,23,Construcción,14,Jalisco,128207.7,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
 01/03/2006,2,2006,3,marzo,23,Construcción,14,Jalisco,141484.61,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
@@ -357,6 +358,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/09/2020,2,2020,9,septiembre,23,Construcción,14,Jalisco,22285.756,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",34664.336
 01/10/2020,2,2020,10,octubre,23,Construcción,14,Jalisco,23814.645,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",62355.953
 01/11/2020,2,2020,11,noviembre,23,Construcción,14,Jalisco,36164.938,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",79702.992
+01/12/2020,2,2020,12,diciembre,23,Construcción,14,Jalisco,34193.242,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",59182.551
 01/01/2006,3,2006,1,enero,23,Construcción,14,Jalisco,117052.2,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
 01/02/2006,3,2006,2,febrero,23,Construcción,14,Jalisco,48514.926,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
 01/03/2006,3,2006,3,marzo,23,Construcción,14,Jalisco,63418.297,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
@@ -536,6 +538,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/09/2020,3,2020,9,septiembre,23,Construcción,14,Jalisco,84003.336,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,74065.68
 01/10/2020,3,2020,10,octubre,23,Construcción,14,Jalisco,48102.094,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,98177.141
 01/11/2020,3,2020,11,noviembre,23,Construcción,14,Jalisco,45442.566,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,72585.336
+01/12/2020,3,2020,12,diciembre,23,Construcción,14,Jalisco,32302.051,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,94056.875
 01/01/2006,4,2006,1,enero,23,Construcción,14,Jalisco,644340.5,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
 01/02/2006,4,2006,2,febrero,23,Construcción,14,Jalisco,598661.06,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
 01/03/2006,4,2006,3,marzo,23,Construcción,14,Jalisco,527116.81,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
@@ -715,6 +718,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/09/2020,4,2020,9,septiembre,23,Construcción,14,Jalisco,413945.34,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,341211.44
 01/10/2020,4,2020,10,octubre,23,Construcción,14,Jalisco,406691.66,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,276870.81
 01/11/2020,4,2020,11,noviembre,23,Construcción,14,Jalisco,427255.56,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,175681.63
+01/12/2020,4,2020,12,diciembre,23,Construcción,14,Jalisco,331912.72,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,301313.63
 01/01/2006,5,2006,1,enero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
 01/02/2006,5,2006,2,febrero,23,Construcción,14,Jalisco,3845.2158,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
 01/03/2006,5,2006,3,marzo,23,Construcción,14,Jalisco,4319.936,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
@@ -894,6 +898,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/09/2020,5,2020,9,septiembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/10/2020,5,2020,10,octubre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,3704.8113
 01/11/2020,5,2020,11,noviembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,2166.0583
+01/12/2020,5,2020,12,diciembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/01/2006,6,2006,1,enero,23,Construcción,14,Jalisco,157099.27,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
 01/02/2006,6,2006,2,febrero,23,Construcción,14,Jalisco,246980.41,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
 01/03/2006,6,2006,3,marzo,23,Construcción,14,Jalisco,270799.22,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
@@ -1073,3 +1078,4 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/09/2020,6,2020,9,septiembre,23,Construcción,14,Jalisco,138270.08,Miles de pesos constantes,Cifras preliminares,Otras construcciones,226877.72
 01/10/2020,6,2020,10,octubre,23,Construcción,14,Jalisco,127049.47,Miles de pesos constantes,Cifras preliminares,Otras construcciones,331582.38
 01/11/2020,6,2020,11,noviembre,23,Construcción,14,Jalisco,167108.11,Miles de pesos constantes,Cifras preliminares,Otras construcciones,230900.13
+01/12/2020,6,2020,12,diciembre,23,Construcción,14,Jalisco,141488.42,Miles de pesos constantes,Cifras preliminares,Otras construcciones,215982.45

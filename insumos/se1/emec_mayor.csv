@@ -130,6 +130,7 @@ Periodo,year,month,Mes,IT_,PO_,RM_,Entidad,orden
 01/09/2020,2020,9,septiembre,-.056253012,-.022393476,.0038343549,Nacional,1
 01/10/2020,2020,10,octubre,-.065505482,-.021577064,-.026305117,Nacional,1
 01/11/2020,2020,11,noviembre,-.046573192,-.024431868,.0059639658,Nacional,1
+01/12/2020,2020,12,diciembre,-.0028271116,-.023387838,.029541956,Nacional,1
 01/01/2010,2010,1,enero,.0071135247,.010999714,-.017405497,Jalisco,2
 01/02/2010,2010,2,febrero,-.0094889244,.0097955307,-.017836524,Jalisco,2
 01/03/2010,2010,3,marzo,.035126582,.01503836,.00061987404,Jalisco,2
@@ -261,6 +262,7 @@ Periodo,year,month,Mes,IT_,PO_,RM_,Entidad,orden
 01/09/2020,2020,9,septiembre,-.083986104,-.028944403,.023687229,Jalisco,2
 01/10/2020,2020,10,octubre,-.059315089,-.032022595,.010302925,Jalisco,2
 01/11/2020,2020,11,noviembre,-.019390509,-.032269951,.053958241,Jalisco,2
+01/12/2020,2020,12,diciembre,.032723784,-.028904898,.063766249,Jalisco,2
 01/01/2010,2010,1,enero,-.053800169,.016321588,-.049654737,Variación promedio en Jalisco (últimos 12 meses),3
 01/02/2010,2010,2,febrero,-.05149956,.013685928,-.0414951,Variación promedio en Jalisco (últimos 12 meses),3
 01/03/2010,2010,3,marzo,-.052618291,.011501156,-.035338555,Variación promedio en Jalisco (últimos 12 meses),3
@@ -392,3 +394,4 @@ Periodo,year,month,Mes,IT_,PO_,RM_,Entidad,orden
 01/09/2020,2020,9,septiembre,-.073096037,-.0013647169,-.0088950871,Variación promedio en Jalisco (últimos 12 meses),3
 01/10/2020,2020,10,octubre,-.074014775,-.0049769497,-.0077902642,Variación promedio en Jalisco (últimos 12 meses),3
 01/11/2020,2020,11,noviembre,-.071145028,-.0086901532,-.000080070924,Variación promedio en Jalisco (últimos 12 meses),3
+01/12/2020,2020,12,diciembre,-.069825746,-.011392986,.0044782478,Variación promedio en Jalisco (últimos 12 meses),3
