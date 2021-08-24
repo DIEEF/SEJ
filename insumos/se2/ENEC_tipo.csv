@@ -164,26 +164,27 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/07/2019,1,2019,7,julio,23,Construcción,14,Jalisco,983577.67894,Miles de pesos constantes,Cifras definitivas,Edificación,1544516.875411
 01/08/2019,1,2019,8,agosto,23,Construcción,14,Jalisco,1268949.217051,Miles de pesos constantes,Cifras definitivas,Edificación,1966861.975674
 01/09/2019,1,2019,9,septiembre,23,Construcción,14,Jalisco,1192340.119577,Miles de pesos constantes,Cifras definitivas,Edificación,1283891.870727
-01/10/2019,1,2019,10,octubre,23,Construcción,14,Jalisco,1177903.678173,Miles de pesos constantes,Cifras ajustadas,Edificación,1561366.607671
-01/11/2019,1,2019,11,noviembre,23,Construcción,14,Jalisco,1355158.351936,Miles de pesos constantes,Cifras ajustadas,Edificación,1163765.920611
-01/12/2019,1,2019,12,diciembre,23,Construcción,14,Jalisco,1254626.362545,Miles de pesos constantes,Cifras ajustadas,Edificación,1848734.834575
-01/01/2020,1,2020,1,enero,23,Construcción,14,Jalisco,1150296.519191,Miles de pesos constantes,Cifras revisadas,Edificación,1311949.314145
-01/02/2020,1,2020,2,febrero,23,Construcción,14,Jalisco,1152865.859902,Miles de pesos constantes,Cifras revisadas,Edificación,1224585.321041
-01/03/2020,1,2020,3,marzo,23,Construcción,14,Jalisco,1126975.068016,Miles de pesos constantes,Cifras revisadas,Edificación,1410604.435763
-01/04/2020,1,2020,4,abril,23,Construcción,14,Jalisco,925728.293317,Miles de pesos constantes,Cifras revisadas,Edificación,1115162.147146
-01/05/2020,1,2020,5,mayo,23,Construcción,14,Jalisco,822234.6524669999,Miles de pesos constantes,Cifras revisadas,Edificación,1219532.358528
-01/06/2020,1,2020,6,junio,23,Construcción,14,Jalisco,858025.495479,Miles de pesos constantes,Cifras revisadas,Edificación,1023591.955645
-01/07/2020,1,2020,7,julio,23,Construcción,14,Jalisco,893041.951478,Miles de pesos constantes,Cifras revisadas,Edificación,983577.67894
-01/08/2020,1,2020,8,agosto,23,Construcción,14,Jalisco,754851.958189,Miles de pesos constantes,Cifras revisadas,Edificación,1268949.217051
-01/09/2020,1,2020,9,septiembre,23,Construcción,14,Jalisco,788904.062352,Miles de pesos constantes,Cifras revisadas,Edificación,1192340.119577
-01/10/2020,1,2020,10,octubre,23,Construcción,14,Jalisco,767074.760937,Miles de pesos constantes,Cifras revisadas,Edificación,1177903.678173
-01/11/2020,1,2020,11,noviembre,23,Construcción,14,Jalisco,773444.739286,Miles de pesos constantes,Cifras revisadas,Edificación,1355158.351936
-01/12/2020,1,2020,12,diciembre,23,Construcción,14,Jalisco,818179.503243,Miles de pesos constantes,Cifras revisadas,Edificación,1254626.362545
-01/01/2021,1,2021,1,enero,23,Construcción,14,Jalisco,830342.848042,Miles de pesos constantes,Cifras preliminares,Edificación,1150296.519191
-01/02/2021,1,2021,2,febrero,23,Construcción,14,Jalisco,821132.901001,Miles de pesos constantes,Cifras preliminares,Edificación,1152865.859902
-01/03/2021,1,2021,3,marzo,23,Construcción,14,Jalisco,907645.716539,Miles de pesos constantes,Cifras preliminares,Edificación,1126975.068016
-01/04/2021,1,2021,4,abril,23,Construcción,14,Jalisco,935330.583695,Miles de pesos constantes,Cifras preliminares,Edificación,925728.293317
-01/05/2021,1,2021,5,mayo,23,Construcción,14,Jalisco,949011.147279,Miles de pesos constantes,Cifras preliminares,Edificación,822234.6524669999
+01/10/2019,1,2019,10,octubre,23,Construcción,14,Jalisco,1177903.678173,Miles de pesos constantes,Cifras definitivas,Edificación,1561366.607671
+01/11/2019,1,2019,11,noviembre,23,Construcción,14,Jalisco,1355158.351936,Miles de pesos constantes,Cifras definitivas,Edificación,1163765.920611
+01/12/2019,1,2019,12,diciembre,23,Construcción,14,Jalisco,1254626.362545,Miles de pesos constantes,Cifras definitivas,Edificación,1848734.834575
+01/01/2020,1,2020,1,enero,23,Construcción,14,Jalisco,1171652.484381,Miles de pesos constantes,Cifras definitivas,Edificación,1311949.314145
+01/02/2020,1,2020,2,febrero,23,Construcción,14,Jalisco,1166250.245475,Miles de pesos constantes,Cifras definitivas,Edificación,1224585.321041
+01/03/2020,1,2020,3,marzo,23,Construcción,14,Jalisco,1028763.873226,Miles de pesos constantes,Cifras definitivas,Edificación,1410604.435763
+01/04/2020,1,2020,4,abril,23,Construcción,14,Jalisco,888479.78165,Miles de pesos constantes,Cifras definitivas,Edificación,1115162.147146
+01/05/2020,1,2020,5,mayo,23,Construcción,14,Jalisco,835470.963366,Miles de pesos constantes,Cifras definitivas,Edificación,1219532.358528
+01/06/2020,1,2020,6,junio,23,Construcción,14,Jalisco,874811.796447,Miles de pesos constantes,Cifras definitivas,Edificación,1023591.955645
+01/07/2020,1,2020,7,julio,23,Construcción,14,Jalisco,912796.699063,Miles de pesos constantes,Cifras definitivas,Edificación,983577.67894
+01/08/2020,1,2020,8,agosto,23,Construcción,14,Jalisco,777697.134781,Miles de pesos constantes,Cifras definitivas,Edificación,1268949.217051
+01/09/2020,1,2020,9,septiembre,23,Construcción,14,Jalisco,815313.955982,Miles de pesos constantes,Cifras definitivas,Edificación,1192340.119577
+01/10/2020,1,2020,10,octubre,23,Construcción,14,Jalisco,767337.811799,Miles de pesos constantes,Cifras definitivas,Edificación,1177903.678173
+01/11/2020,1,2020,11,noviembre,23,Construcción,14,Jalisco,790440.581544,Miles de pesos constantes,Cifras definitivas,Edificación,1355158.351936
+01/12/2020,1,2020,12,diciembre,23,Construcción,14,Jalisco,827703.902474,Miles de pesos constantes,Cifras definitivas,Edificación,1254626.362545
+01/01/2021,1,2021,1,enero,23,Construcción,14,Jalisco,830342.848042,Miles de pesos constantes,Cifras preliminares,Edificación,1171652.484381
+01/02/2021,1,2021,2,febrero,23,Construcción,14,Jalisco,821132.901001,Miles de pesos constantes,Cifras preliminares,Edificación,1166250.245475
+01/03/2021,1,2021,3,marzo,23,Construcción,14,Jalisco,907645.716539,Miles de pesos constantes,Cifras preliminares,Edificación,1028763.873226
+01/04/2021,1,2021,4,abril,23,Construcción,14,Jalisco,935330.583695,Miles de pesos constantes,Cifras preliminares,Edificación,888479.78165
+01/05/2021,1,2021,5,mayo,23,Construcción,14,Jalisco,949011.147279,Miles de pesos constantes,Cifras preliminares,Edificación,835470.963366
+01/06/2021,1,2021,6,junio,23,Construcción,14,Jalisco,773042.276842,Miles de pesos constantes,Cifras preliminares,Edificación,874811.796447
 01/01/2006,2,2006,1,enero,23,Construcción,14,Jalisco,92595.081683,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
 01/02/2006,2,2006,2,febrero,23,Construcción,14,Jalisco,128207.70365,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
 01/03/2006,2,2006,3,marzo,23,Construcción,14,Jalisco,141484.60473,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
@@ -349,26 +350,27 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/07/2019,2,2019,7,julio,23,Construcción,14,Jalisco,35107.249789,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",67598.378002
 01/08/2019,2,2019,8,agosto,23,Construcción,14,Jalisco,26951.806134,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",129625.874508
 01/09/2019,2,2019,9,septiembre,23,Construcción,14,Jalisco,34664.337027,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",27449.122232
-01/10/2019,2,2019,10,octubre,23,Construcción,14,Jalisco,62355.954217,Miles de pesos constantes,Cifras ajustadas,"Agua, riego y saneamiento",40410.144246
-01/11/2019,2,2019,11,noviembre,23,Construcción,14,Jalisco,79702.994733,Miles de pesos constantes,Cifras ajustadas,"Agua, riego y saneamiento",51211.712097
-01/12/2019,2,2019,12,diciembre,23,Construcción,14,Jalisco,59182.550777,Miles de pesos constantes,Cifras ajustadas,"Agua, riego y saneamiento",260368.992067
-01/01/2020,2,2020,1,enero,23,Construcción,14,Jalisco,22266.799024,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",72392.115921
-01/02/2020,2,2020,2,febrero,23,Construcción,14,Jalisco,25390.076679,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",76974.82621100001
-01/03/2020,2,2020,3,marzo,23,Construcción,14,Jalisco,36789.002563,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",64039.968337
-01/04/2020,2,2020,4,abril,23,Construcción,14,Jalisco,13612.559123,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",36318.526533
-01/05/2020,2,2020,5,mayo,23,Construcción,14,Jalisco,7084.037623,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",12259.888664
-01/06/2020,2,2020,6,junio,23,Construcción,14,Jalisco,12552.762961,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",4589.505296
-01/07/2020,2,2020,7,julio,23,Construcción,14,Jalisco,23925.809565,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",35107.249789
-01/08/2020,2,2020,8,agosto,23,Construcción,14,Jalisco,37854.718294,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",26951.806134
-01/09/2020,2,2020,9,septiembre,23,Construcción,14,Jalisco,22285.755907,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",34664.337027
-01/10/2020,2,2020,10,octubre,23,Construcción,14,Jalisco,23814.643611,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",62355.954217
-01/11/2020,2,2020,11,noviembre,23,Construcción,14,Jalisco,36164.938963,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",79702.994733
-01/12/2020,2,2020,12,diciembre,23,Construcción,14,Jalisco,34193.243744,Miles de pesos constantes,Cifras revisadas,"Agua, riego y saneamiento",59182.550777
-01/01/2021,2,2021,1,enero,23,Construcción,14,Jalisco,37937.910175,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",22266.799024
-01/02/2021,2,2021,2,febrero,23,Construcción,14,Jalisco,24000.430061,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",25390.076679
-01/03/2021,2,2021,3,marzo,23,Construcción,14,Jalisco,34383.88997,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",36789.002563
-01/04/2021,2,2021,4,abril,23,Construcción,14,Jalisco,45417.384688,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",13612.559123
-01/05/2021,2,2021,5,mayo,23,Construcción,14,Jalisco,29261.955933,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",7084.037623
+01/10/2019,2,2019,10,octubre,23,Construcción,14,Jalisco,62355.954217,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",40410.144246
+01/11/2019,2,2019,11,noviembre,23,Construcción,14,Jalisco,79702.994733,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",51211.712097
+01/12/2019,2,2019,12,diciembre,23,Construcción,14,Jalisco,59182.550777,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",260368.992067
+01/01/2020,2,2020,1,enero,23,Construcción,14,Jalisco,22080.088737,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",72392.115921
+01/02/2020,2,2020,2,febrero,23,Construcción,14,Jalisco,27239.59636,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",76974.82621100001
+01/03/2020,2,2020,3,marzo,23,Construcción,14,Jalisco,37361.526043,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",64039.968337
+01/04/2020,2,2020,4,abril,23,Construcción,14,Jalisco,14815.366333,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",36318.526533
+01/05/2020,2,2020,5,mayo,23,Construcción,14,Jalisco,10830.463534,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",12259.888664
+01/06/2020,2,2020,6,junio,23,Construcción,14,Jalisco,11744.094036,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",4589.505296
+01/07/2020,2,2020,7,julio,23,Construcción,14,Jalisco,24027.559667,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",35107.249789
+01/08/2020,2,2020,8,agosto,23,Construcción,14,Jalisco,37773.81737,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",26951.806134
+01/09/2020,2,2020,9,septiembre,23,Construcción,14,Jalisco,21535.787586,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",34664.337027
+01/10/2020,2,2020,10,octubre,23,Construcción,14,Jalisco,26651.493425,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",62355.954217
+01/11/2020,2,2020,11,noviembre,23,Construcción,14,Jalisco,35591.885007,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",79702.994733
+01/12/2020,2,2020,12,diciembre,23,Construcción,14,Jalisco,33623.378935,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",59182.550777
+01/01/2021,2,2021,1,enero,23,Construcción,14,Jalisco,37937.910175,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",22080.088737
+01/02/2021,2,2021,2,febrero,23,Construcción,14,Jalisco,24000.430061,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",27239.59636
+01/03/2021,2,2021,3,marzo,23,Construcción,14,Jalisco,34383.88997,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",37361.526043
+01/04/2021,2,2021,4,abril,23,Construcción,14,Jalisco,45417.384688,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",14815.366333
+01/05/2021,2,2021,5,mayo,23,Construcción,14,Jalisco,29261.955933,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",10830.463534
+01/06/2021,2,2021,6,junio,23,Construcción,14,Jalisco,53081.458384,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",11744.094036
 01/01/2006,3,2006,1,enero,23,Construcción,14,Jalisco,117052.191569,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
 01/02/2006,3,2006,2,febrero,23,Construcción,14,Jalisco,48514.926461,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
 01/03/2006,3,2006,3,marzo,23,Construcción,14,Jalisco,63418.297178,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
@@ -534,26 +536,27 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/07/2019,3,2019,7,julio,23,Construcción,14,Jalisco,156157.735275,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,88920.09630200001
 01/08/2019,3,2019,8,agosto,23,Construcción,14,Jalisco,143837.637645,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,107903.487454
 01/09/2019,3,2019,9,septiembre,23,Construcción,14,Jalisco,74065.678147,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,74419.15794400001
-01/10/2019,3,2019,10,octubre,23,Construcción,14,Jalisco,98177.143868,Miles de pesos constantes,Cifras ajustadas,Electricidad y telecomunicaciones,75221.378654
-01/11/2019,3,2019,11,noviembre,23,Construcción,14,Jalisco,72585.33657299999,Miles de pesos constantes,Cifras ajustadas,Electricidad y telecomunicaciones,65196.276354
-01/12/2019,3,2019,12,diciembre,23,Construcción,14,Jalisco,94056.876416,Miles de pesos constantes,Cifras ajustadas,Electricidad y telecomunicaciones,114388.90242
-01/01/2020,3,2020,1,enero,23,Construcción,14,Jalisco,33450.248251,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,62935.860863
-01/02/2020,3,2020,2,febrero,23,Construcción,14,Jalisco,55481.367765,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,72192.189015
-01/03/2020,3,2020,3,marzo,23,Construcción,14,Jalisco,52235.95165,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,117192.293284
-01/04/2020,3,2020,4,abril,23,Construcción,14,Jalisco,18916.877024,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,102978.665426
-01/05/2020,3,2020,5,mayo,23,Construcción,14,Jalisco,42884.678882,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,148056.740833
-01/06/2020,3,2020,6,junio,23,Construcción,14,Jalisco,66585.03578000001,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,164593.886478
-01/07/2020,3,2020,7,julio,23,Construcción,14,Jalisco,50153.109519,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,156157.735275
-01/08/2020,3,2020,8,agosto,23,Construcción,14,Jalisco,52575.22934,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,143837.637645
-01/09/2020,3,2020,9,septiembre,23,Construcción,14,Jalisco,84003.33246799999,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,74065.678147
-01/10/2020,3,2020,10,octubre,23,Construcción,14,Jalisco,48102.095526,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,98177.143868
-01/11/2020,3,2020,11,noviembre,23,Construcción,14,Jalisco,45442.566959,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,72585.33657299999
-01/12/2020,3,2020,12,diciembre,23,Construcción,14,Jalisco,32302.051495,Miles de pesos constantes,Cifras revisadas,Electricidad y telecomunicaciones,94056.876416
-01/01/2021,3,2021,1,enero,23,Construcción,14,Jalisco,34723.634862,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,33450.248251
-01/02/2021,3,2021,2,febrero,23,Construcción,14,Jalisco,107235.127789,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,55481.367765
-01/03/2021,3,2021,3,marzo,23,Construcción,14,Jalisco,102519.285978,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,52235.95165
-01/04/2021,3,2021,4,abril,23,Construcción,14,Jalisco,36285.389324,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,18916.877024
-01/05/2021,3,2021,5,mayo,23,Construcción,14,Jalisco,32788.939579,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,42884.678882
+01/10/2019,3,2019,10,octubre,23,Construcción,14,Jalisco,98177.143868,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,75221.378654
+01/11/2019,3,2019,11,noviembre,23,Construcción,14,Jalisco,72585.33657299999,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,65196.276354
+01/12/2019,3,2019,12,diciembre,23,Construcción,14,Jalisco,94056.876416,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,114388.90242
+01/01/2020,3,2020,1,enero,23,Construcción,14,Jalisco,31576.046133,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,62935.860863
+01/02/2020,3,2020,2,febrero,23,Construcción,14,Jalisco,55190.70885,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,72192.189015
+01/03/2020,3,2020,3,marzo,23,Construcción,14,Jalisco,51516.627281,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,117192.293284
+01/04/2020,3,2020,4,abril,23,Construcción,14,Jalisco,18536.57263,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,102978.665426
+01/05/2020,3,2020,5,mayo,23,Construcción,14,Jalisco,42370.721266,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,148056.740833
+01/06/2020,3,2020,6,junio,23,Construcción,14,Jalisco,65774.978584,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,164593.886478
+01/07/2020,3,2020,7,julio,23,Construcción,14,Jalisco,50172.490493,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,156157.735275
+01/08/2020,3,2020,8,agosto,23,Construcción,14,Jalisco,52203.914837,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,143837.637645
+01/09/2020,3,2020,9,septiembre,23,Construcción,14,Jalisco,83998.51615900001,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,74065.678147
+01/10/2020,3,2020,10,octubre,23,Construcción,14,Jalisco,46331.114139,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,98177.143868
+01/11/2020,3,2020,11,noviembre,23,Construcción,14,Jalisco,44549.33695,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,72585.33657299999
+01/12/2020,3,2020,12,diciembre,23,Construcción,14,Jalisco,35223.879148,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,94056.876416
+01/01/2021,3,2021,1,enero,23,Construcción,14,Jalisco,34723.634862,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,31576.046133
+01/02/2021,3,2021,2,febrero,23,Construcción,14,Jalisco,107235.127789,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,55190.70885
+01/03/2021,3,2021,3,marzo,23,Construcción,14,Jalisco,102519.285978,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,51516.627281
+01/04/2021,3,2021,4,abril,23,Construcción,14,Jalisco,36285.389324,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,18536.57263
+01/05/2021,3,2021,5,mayo,23,Construcción,14,Jalisco,32788.939579,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,42370.721266
+01/06/2021,3,2021,6,junio,23,Construcción,14,Jalisco,74518.271576,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,65774.978584
 01/01/2006,4,2006,1,enero,23,Construcción,14,Jalisco,644340.526153,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
 01/02/2006,4,2006,2,febrero,23,Construcción,14,Jalisco,598661.065323,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
 01/03/2006,4,2006,3,marzo,23,Construcción,14,Jalisco,527116.819308,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
@@ -719,26 +722,27 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/07/2019,4,2019,7,julio,23,Construcción,14,Jalisco,426727.817336,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,510215.008925
 01/08/2019,4,2019,8,agosto,23,Construcción,14,Jalisco,292341.434024,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,482404.209271
 01/09/2019,4,2019,9,septiembre,23,Construcción,14,Jalisco,341211.445986,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,316135.362172
-01/10/2019,4,2019,10,octubre,23,Construcción,14,Jalisco,276870.817837,Miles de pesos constantes,Cifras ajustadas,Transporte y urbanización,447254.259715
-01/11/2019,4,2019,11,noviembre,23,Construcción,14,Jalisco,175681.62061,Miles de pesos constantes,Cifras ajustadas,Transporte y urbanización,284931.848069
-01/12/2019,4,2019,12,diciembre,23,Construcción,14,Jalisco,301313.632425,Miles de pesos constantes,Cifras ajustadas,Transporte y urbanización,303741.76518
-01/01/2020,4,2020,1,enero,23,Construcción,14,Jalisco,218630.646502,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,176089.159972
-01/02/2020,4,2020,2,febrero,23,Construcción,14,Jalisco,259887.777404,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,230889.878124
-01/03/2020,4,2020,3,marzo,23,Construcción,14,Jalisco,264614.200075,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,226277.384037
-01/04/2020,4,2020,4,abril,23,Construcción,14,Jalisco,232124.598691,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,324041.00546
-01/05/2020,4,2020,5,mayo,23,Construcción,14,Jalisco,258973.074613,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,230235.094768
-01/06/2020,4,2020,6,junio,23,Construcción,14,Jalisco,257885.561567,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,367695.854263
-01/07/2020,4,2020,7,julio,23,Construcción,14,Jalisco,228371.526978,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,426727.817336
-01/08/2020,4,2020,8,agosto,23,Construcción,14,Jalisco,328963.904902,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,292341.434024
-01/09/2020,4,2020,9,septiembre,23,Construcción,14,Jalisco,413945.359164,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,341211.445986
-01/10/2020,4,2020,10,octubre,23,Construcción,14,Jalisco,406691.663929,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,276870.817837
-01/11/2020,4,2020,11,noviembre,23,Construcción,14,Jalisco,427255.570441,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,175681.62061
-01/12/2020,4,2020,12,diciembre,23,Construcción,14,Jalisco,331912.70983,Miles de pesos constantes,Cifras revisadas,Transporte y urbanización,301313.632425
-01/01/2021,4,2021,1,enero,23,Construcción,14,Jalisco,311991.675262,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,218630.646502
-01/02/2021,4,2021,2,febrero,23,Construcción,14,Jalisco,221415.340555,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,259887.777404
-01/03/2021,4,2021,3,marzo,23,Construcción,14,Jalisco,371603.414169,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,264614.200075
-01/04/2021,4,2021,4,abril,23,Construcción,14,Jalisco,241189.236712,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,232124.598691
-01/05/2021,4,2021,5,mayo,23,Construcción,14,Jalisco,170117.847755,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,258973.074613
+01/10/2019,4,2019,10,octubre,23,Construcción,14,Jalisco,276870.817837,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,447254.259715
+01/11/2019,4,2019,11,noviembre,23,Construcción,14,Jalisco,175681.62061,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,284931.848069
+01/12/2019,4,2019,12,diciembre,23,Construcción,14,Jalisco,301313.632425,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,303741.76518
+01/01/2020,4,2020,1,enero,23,Construcción,14,Jalisco,218558.944071,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,176089.159972
+01/02/2020,4,2020,2,febrero,23,Construcción,14,Jalisco,256227.445648,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,230889.878124
+01/03/2020,4,2020,3,marzo,23,Construcción,14,Jalisco,256693.243378,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,226277.384037
+01/04/2020,4,2020,4,abril,23,Construcción,14,Jalisco,191095.737553,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,324041.00546
+01/05/2020,4,2020,5,mayo,23,Construcción,14,Jalisco,257491.382532,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,230235.094768
+01/06/2020,4,2020,6,junio,23,Construcción,14,Jalisco,253597.880918,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,367695.854263
+01/07/2020,4,2020,7,julio,23,Construcción,14,Jalisco,220111.079968,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,426727.817336
+01/08/2020,4,2020,8,agosto,23,Construcción,14,Jalisco,329002.626713,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,292341.434024
+01/09/2020,4,2020,9,septiembre,23,Construcción,14,Jalisco,416203.52066,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,341211.445986
+01/10/2020,4,2020,10,octubre,23,Construcción,14,Jalisco,404602.971762,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,276870.817837
+01/11/2020,4,2020,11,noviembre,23,Construcción,14,Jalisco,425494.942033,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,175681.62061
+01/12/2020,4,2020,12,diciembre,23,Construcción,14,Jalisco,352538.969977,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,301313.632425
+01/01/2021,4,2021,1,enero,23,Construcción,14,Jalisco,311991.675262,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,218558.944071
+01/02/2021,4,2021,2,febrero,23,Construcción,14,Jalisco,221415.340555,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,256227.445648
+01/03/2021,4,2021,3,marzo,23,Construcción,14,Jalisco,371603.414169,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,256693.243378
+01/04/2021,4,2021,4,abril,23,Construcción,14,Jalisco,241189.236712,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,191095.737553
+01/05/2021,4,2021,5,mayo,23,Construcción,14,Jalisco,170117.847755,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,257491.382532
+01/06/2021,4,2021,6,junio,23,Construcción,14,Jalisco,157840.752499,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,253597.880918
 01/01/2006,5,2006,1,enero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
 01/02/2006,5,2006,2,febrero,23,Construcción,14,Jalisco,3845.215824,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
 01/03/2006,5,2006,3,marzo,23,Construcción,14,Jalisco,4319.936046,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
@@ -904,26 +908,27 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/07/2019,5,2019,7,julio,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
 01/08/2019,5,2019,8,agosto,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
 01/09/2019,5,2019,9,septiembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,29143.336356
-01/10/2019,5,2019,10,octubre,23,Construcción,14,Jalisco,3704.811224,Miles de pesos constantes,Cifras ajustadas,Petróleo y petroquímica,0
-01/11/2019,5,2019,11,noviembre,23,Construcción,14,Jalisco,2166.058462,Miles de pesos constantes,Cifras ajustadas,Petróleo y petroquímica,442.112427
-01/12/2019,5,2019,12,diciembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras ajustadas,Petróleo y petroquímica,0
-01/01/2020,5,2020,1,enero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/02/2020,5,2020,2,febrero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/03/2020,5,2020,3,marzo,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/04/2020,5,2020,4,abril,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/05/2020,5,2020,5,mayo,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/06/2020,5,2020,6,junio,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/07/2020,5,2020,7,julio,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/08/2020,5,2020,8,agosto,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/09/2020,5,2020,9,septiembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
-01/10/2020,5,2020,10,octubre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,3704.811224
-01/11/2020,5,2020,11,noviembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,2166.058462
-01/12/2020,5,2020,12,diciembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras revisadas,Petróleo y petroquímica,0
+01/10/2019,5,2019,10,octubre,23,Construcción,14,Jalisco,3704.811224,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/11/2019,5,2019,11,noviembre,23,Construcción,14,Jalisco,2166.058462,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,442.112427
+01/12/2019,5,2019,12,diciembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/01/2020,5,2020,1,enero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/02/2020,5,2020,2,febrero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/03/2020,5,2020,3,marzo,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/04/2020,5,2020,4,abril,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/05/2020,5,2020,5,mayo,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/06/2020,5,2020,6,junio,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/07/2020,5,2020,7,julio,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/08/2020,5,2020,8,agosto,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/09/2020,5,2020,9,septiembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
+01/10/2020,5,2020,10,octubre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,3704.811224
+01/11/2020,5,2020,11,noviembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,2166.058462
+01/12/2020,5,2020,12,diciembre,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,0
 01/01/2021,5,2021,1,enero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/02/2021,5,2021,2,febrero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/03/2021,5,2021,3,marzo,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/04/2021,5,2021,4,abril,23,Construcción,14,Jalisco,843.744217,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/05/2021,5,2021,5,mayo,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
+01/06/2021,5,2021,6,junio,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/01/2006,6,2006,1,enero,23,Construcción,14,Jalisco,157099.260133,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
 01/02/2006,6,2006,2,febrero,23,Construcción,14,Jalisco,246980.400236,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
 01/03/2006,6,2006,3,marzo,23,Construcción,14,Jalisco,270799.203536,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
@@ -1089,23 +1094,24 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/07/2019,6,2019,7,julio,23,Construcción,14,Jalisco,163058.184107,Miles de pesos constantes,Cifras definitivas,Otras construcciones,173207.131825
 01/08/2019,6,2019,8,agosto,23,Construcción,14,Jalisco,151762.566652,Miles de pesos constantes,Cifras definitivas,Otras construcciones,131215.579801
 01/09/2019,6,2019,9,septiembre,23,Construcción,14,Jalisco,226877.712683,Miles de pesos constantes,Cifras definitivas,Otras construcciones,121704.495823
-01/10/2019,6,2019,10,octubre,23,Construcción,14,Jalisco,331582.372488,Miles de pesos constantes,Cifras ajustadas,Otras construcciones,134662.388137
-01/11/2019,6,2019,11,noviembre,23,Construcción,14,Jalisco,230900.127022,Miles de pesos constantes,Cifras ajustadas,Otras construcciones,154607.641242
-01/12/2019,6,2019,12,diciembre,23,Construcción,14,Jalisco,215982.456953,Miles de pesos constantes,Cifras ajustadas,Otras construcciones,262642.481644
-01/01/2020,6,2020,1,enero,23,Construcción,14,Jalisco,141572.542461,Miles de pesos constantes,Cifras revisadas,Otras construcciones,145378.253251
-01/02/2020,6,2020,2,febrero,23,Construcción,14,Jalisco,180213.453577,Miles de pesos constantes,Cifras revisadas,Otras construcciones,138545.366226
-01/03/2020,6,2020,3,marzo,23,Construcción,14,Jalisco,107395.338208,Miles de pesos constantes,Cifras revisadas,Otras construcciones,168575.632577
-01/04/2020,6,2020,4,abril,23,Construcción,14,Jalisco,80323.314169,Miles de pesos constantes,Cifras revisadas,Otras construcciones,155231.384785
-01/05/2020,6,2020,5,mayo,23,Construcción,14,Jalisco,93442.060165,Miles de pesos constantes,Cifras revisadas,Otras construcciones,188577.429118
-01/06/2020,6,2020,6,junio,23,Construcción,14,Jalisco,104305.102807,Miles de pesos constantes,Cifras revisadas,Otras construcciones,220125.28231
-01/07/2020,6,2020,7,julio,23,Construcción,14,Jalisco,104634.405329,Miles de pesos constantes,Cifras revisadas,Otras construcciones,163058.184107
-01/08/2020,6,2020,8,agosto,23,Construcción,14,Jalisco,117968.760798,Miles de pesos constantes,Cifras revisadas,Otras construcciones,151762.566652
-01/09/2020,6,2020,9,septiembre,23,Construcción,14,Jalisco,138270.076963,Miles de pesos constantes,Cifras revisadas,Otras construcciones,226877.712683
-01/10/2020,6,2020,10,octubre,23,Construcción,14,Jalisco,127049.46679,Miles de pesos constantes,Cifras revisadas,Otras construcciones,331582.372488
-01/11/2020,6,2020,11,noviembre,23,Construcción,14,Jalisco,167108.107947,Miles de pesos constantes,Cifras revisadas,Otras construcciones,230900.127022
-01/12/2020,6,2020,12,diciembre,23,Construcción,14,Jalisco,141488.419934,Miles de pesos constantes,Cifras revisadas,Otras construcciones,215982.456953
-01/01/2021,6,2021,1,enero,23,Construcción,14,Jalisco,108416.087088,Miles de pesos constantes,Cifras preliminares,Otras construcciones,141572.542461
-01/02/2021,6,2021,2,febrero,23,Construcción,14,Jalisco,111920.38599,Miles de pesos constantes,Cifras preliminares,Otras construcciones,180213.453577
-01/03/2021,6,2021,3,marzo,23,Construcción,14,Jalisco,146129.625682,Miles de pesos constantes,Cifras preliminares,Otras construcciones,107395.338208
-01/04/2021,6,2021,4,abril,23,Construcción,14,Jalisco,145611.69709,Miles de pesos constantes,Cifras preliminares,Otras construcciones,80323.314169
-01/05/2021,6,2021,5,mayo,23,Construcción,14,Jalisco,143160.377625,Miles de pesos constantes,Cifras preliminares,Otras construcciones,93442.060165
+01/10/2019,6,2019,10,octubre,23,Construcción,14,Jalisco,331582.372488,Miles de pesos constantes,Cifras definitivas,Otras construcciones,134662.388137
+01/11/2019,6,2019,11,noviembre,23,Construcción,14,Jalisco,230900.127022,Miles de pesos constantes,Cifras definitivas,Otras construcciones,154607.641242
+01/12/2019,6,2019,12,diciembre,23,Construcción,14,Jalisco,215982.456953,Miles de pesos constantes,Cifras definitivas,Otras construcciones,262642.481644
+01/01/2020,6,2020,1,enero,23,Construcción,14,Jalisco,139429.278751,Miles de pesos constantes,Cifras definitivas,Otras construcciones,145378.253251
+01/02/2020,6,2020,2,febrero,23,Construcción,14,Jalisco,167676.412639,Miles de pesos constantes,Cifras definitivas,Otras construcciones,138545.366226
+01/03/2020,6,2020,3,marzo,23,Construcción,14,Jalisco,181517.904738,Miles de pesos constantes,Cifras definitivas,Otras construcciones,168575.632577
+01/04/2020,6,2020,4,abril,23,Construcción,14,Jalisco,164924.193144,Miles de pesos constantes,Cifras definitivas,Otras construcciones,155231.384785
+01/05/2020,6,2020,5,mayo,23,Construcción,14,Jalisco,77549.49456000001,Miles de pesos constantes,Cifras definitivas,Otras construcciones,188577.429118
+01/06/2020,6,2020,6,junio,23,Construcción,14,Jalisco,101442.484224,Miles de pesos constantes,Cifras definitivas,Otras construcciones,220125.28231
+01/07/2020,6,2020,7,julio,23,Construcción,14,Jalisco,100217.620314,Miles de pesos constantes,Cifras definitivas,Otras construcciones,163058.184107
+01/08/2020,6,2020,8,agosto,23,Construcción,14,Jalisco,113668.565478,Miles de pesos constantes,Cifras definitivas,Otras construcciones,151762.566652
+01/09/2020,6,2020,9,septiembre,23,Construcción,14,Jalisco,133953.286825,Miles de pesos constantes,Cifras definitivas,Otras construcciones,226877.712683
+01/10/2020,6,2020,10,octubre,23,Construcción,14,Jalisco,118519.103128,Miles de pesos constantes,Cifras definitivas,Otras construcciones,331582.372488
+01/11/2020,6,2020,11,noviembre,23,Construcción,14,Jalisco,164611.958327,Miles de pesos constantes,Cifras definitivas,Otras construcciones,230900.127022
+01/12/2020,6,2020,12,diciembre,23,Construcción,14,Jalisco,144469.876721,Miles de pesos constantes,Cifras definitivas,Otras construcciones,215982.456953
+01/01/2021,6,2021,1,enero,23,Construcción,14,Jalisco,108416.087088,Miles de pesos constantes,Cifras preliminares,Otras construcciones,139429.278751
+01/02/2021,6,2021,2,febrero,23,Construcción,14,Jalisco,111920.38599,Miles de pesos constantes,Cifras preliminares,Otras construcciones,167676.412639
+01/03/2021,6,2021,3,marzo,23,Construcción,14,Jalisco,146129.625682,Miles de pesos constantes,Cifras preliminares,Otras construcciones,181517.904738
+01/04/2021,6,2021,4,abril,23,Construcción,14,Jalisco,145611.69709,Miles de pesos constantes,Cifras preliminares,Otras construcciones,164924.193144
+01/05/2021,6,2021,5,mayo,23,Construcción,14,Jalisco,143160.377625,Miles de pesos constantes,Cifras preliminares,Otras construcciones,77549.49456000001
+01/06/2021,6,2021,6,junio,23,Construcción,14,Jalisco,190193.004064,Miles de pesos constantes,Cifras preliminares,Otras construcciones,101442.484224
