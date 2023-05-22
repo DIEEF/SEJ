@@ -205,6 +205,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/12/2022,1,2022,12,diciembre,23,Construcción,14,Jalisco,974005.197811,Miles de pesos constantes,Cifras preliminares,Edificación,1212846.652481
 01/01/2023,1,2023,1,enero,23,Construcción,14,Jalisco,703082.859998,Miles de pesos constantes,Cifras preliminares,Edificación,1286356.312961
 01/02/2023,1,2023,2,febrero,23,Construcción,14,Jalisco,677731.640077,Miles de pesos constantes,Cifras preliminares,Edificación,1486464.782821
+01/03/2023,1,2023,3,marzo,23,Construcción,14,Jalisco,629746.503059,Miles de pesos constantes,Cifras preliminares,Edificación,1120800.495671
 01/01/2006,2,2006,1,enero,23,Construcción,14,Jalisco,92595.081683,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
 01/02/2006,2,2006,2,febrero,23,Construcción,14,Jalisco,128207.70365,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
 01/03/2006,2,2006,3,marzo,23,Construcción,14,Jalisco,141484.60473,Miles de pesos constantes,Cifras definitivas,"Agua, riego y saneamiento",
@@ -411,6 +412,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/12/2022,2,2022,12,diciembre,23,Construcción,14,Jalisco,113081.914914,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",38872.649811
 01/01/2023,2,2023,1,enero,23,Construcción,14,Jalisco,141243.99951,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",23114.976359
 01/02/2023,2,2023,2,febrero,23,Construcción,14,Jalisco,112280.728705,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",45289.381443
+01/03/2023,2,2023,3,marzo,23,Construcción,14,Jalisco,120443.255214,Miles de pesos constantes,Cifras preliminares,"Agua, riego y saneamiento",42056.086409
 01/01/2006,3,2006,1,enero,23,Construcción,14,Jalisco,117052.191569,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
 01/02/2006,3,2006,2,febrero,23,Construcción,14,Jalisco,48514.926461,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
 01/03/2006,3,2006,3,marzo,23,Construcción,14,Jalisco,63418.297178,Miles de pesos constantes,Cifras definitivas,Electricidad y telecomunicaciones,
@@ -617,6 +619,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/12/2022,3,2022,12,diciembre,23,Construcción,14,Jalisco,40143.947184,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,88282.722781
 01/01/2023,3,2023,1,enero,23,Construcción,14,Jalisco,45804.529792,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,30658.401142
 01/02/2023,3,2023,2,febrero,23,Construcción,14,Jalisco,18345.663825,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,36329.886583
+01/03/2023,3,2023,3,marzo,23,Construcción,14,Jalisco,31145.066837,Miles de pesos constantes,Cifras preliminares,Electricidad y telecomunicaciones,27946.042161
 01/01/2006,4,2006,1,enero,23,Construcción,14,Jalisco,644340.526153,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
 01/02/2006,4,2006,2,febrero,23,Construcción,14,Jalisco,598661.065323,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
 01/03/2006,4,2006,3,marzo,23,Construcción,14,Jalisco,527116.819308,Miles de pesos constantes,Cifras definitivas,Transporte y urbanización,
@@ -823,6 +826,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/12/2022,4,2022,12,diciembre,23,Construcción,14,Jalisco,845042.916337,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,445800.044719
 01/01/2023,4,2023,1,enero,23,Construcción,14,Jalisco,250563.693725,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,173292.67176
 01/02/2023,4,2023,2,febrero,23,Construcción,14,Jalisco,281915.949873,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,112969.584293
+01/03/2023,4,2023,3,marzo,23,Construcción,14,Jalisco,553973.560134,Miles de pesos constantes,Cifras preliminares,Transporte y urbanización,297662.222732
 01/01/2006,5,2006,1,enero,23,Construcción,14,Jalisco,0,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
 01/02/2006,5,2006,2,febrero,23,Construcción,14,Jalisco,3845.215824,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
 01/03/2006,5,2006,3,marzo,23,Construcción,14,Jalisco,4319.936046,Miles de pesos constantes,Cifras definitivas,Petróleo y petroquímica,
@@ -1029,6 +1033,7 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/12/2022,5,2022,12,diciembre,23,Construcción,14,Jalisco,2056.831962,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/01/2023,5,2023,1,enero,23,Construcción,14,Jalisco,2004.897867,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/02/2023,5,2023,2,febrero,23,Construcción,14,Jalisco,2369.744023,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
+01/03/2023,5,2023,3,marzo,23,Construcción,14,Jalisco,2089.724168,Miles de pesos constantes,Cifras preliminares,Petróleo y petroquímica,0
 01/01/2006,6,2006,1,enero,23,Construcción,14,Jalisco,157099.260133,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
 01/02/2006,6,2006,2,febrero,23,Construcción,14,Jalisco,246980.400236,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
 01/03/2006,6,2006,3,marzo,23,Construcción,14,Jalisco,270799.203536,Miles de pesos constantes,Cifras definitivas,Otras construcciones,
@@ -1235,3 +1240,4 @@ yearm,CVE_construccion,anio,mes,month,codigo_actividad,descripcion_actividad,cod
 01/12/2022,6,2022,12,diciembre,23,Construcción,14,Jalisco,97319.004284,Miles de pesos constantes,Cifras preliminares,Otras construcciones,130944.802244
 01/01/2023,6,2023,1,enero,23,Construcción,14,Jalisco,80496.64935599999,Miles de pesos constantes,Cifras preliminares,Otras construcciones,171569.096537
 01/02/2023,6,2023,2,febrero,23,Construcción,14,Jalisco,74972.933254,Miles de pesos constantes,Cifras preliminares,Otras construcciones,76816.671196
+01/03/2023,6,2023,3,marzo,23,Construcción,14,Jalisco,70839.475739,Miles de pesos constantes,Cifras preliminares,Otras construcciones,229547.78325
